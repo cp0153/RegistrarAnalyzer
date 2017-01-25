@@ -201,12 +201,15 @@ def getQuickInfoDetails(sectionDetailsTag):
     This function parses the sidebar div that has the "Quick Info" section,
     which describes enrollment numbers, credits, and if the class is Honors.
     
-    First, this function looks for the text-section divs:
+    First, this function looks for the text-section divs. There are two cases.
+    1.) There are Enrollment Requirements Listed 
     - [0] is Course Description
     - [1] is Enrollment Requirements
     - [2] is "Quick Info" (enrollment number, credits, if class is honors)
     - There are more text-sections after this, but we don't care about them.
-    [2] is what we need.
+    2.) There are no Enrollment Requirements listed
+    - [0] is Course Description
+    - [1] is "Quick Info" section
 
     Then with the "Quick Info" div, there are 3 guaranteed div.text elements:
     - [0] gives enrollment numbers.
@@ -233,8 +236,14 @@ def getQuickInfoDetails(sectionDetailsTag):
     textSectionDivs = sectionDetailsTag.find_all('div', attrs = {'class': 'text-section'})
     if textSectionDivs is None:
         return {}
-    
+
+    # We need to check if there is an enrollment requirements section.
     quickInfoDiv = textSectionDivs[2]
+    usersIcon = quickInfoDiv.find("i", attrs = {'class': 'fa-users'})
+    if usersIcon is None:
+        quickInfoDiv = textSectionDivs[1]
+    
+    # Now we can look for the quick info inside.
     textDivs = quickInfoDiv.find_all('div', attrs = {'class': 'text'})
     enrollDiv = textDivs[0]
     creditsDiv = textDivs[2]
