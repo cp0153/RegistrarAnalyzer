@@ -91,6 +91,7 @@ while currentSemIndex <= endTermIndex:
 
             else:
 
+                # We need the section details div before proceeding.
                 sectionDetailsDiv = getDetailsDiv(courseSection)
                 
                 # From the section details, find enrollment info first
@@ -102,17 +103,21 @@ while currentSemIndex <= endTermIndex:
                           " There was probably no quick info listed.")
 
                 # From section details, search for meeting info
-                # It's possible there are no results for this
                 try:
-                    meetingInfoDivs = getMeetingInfoDivs(sectionDetailsDiv)
-                    for sectionMeetingDiv in meetingInfoDivs:
 
-                        # So now that we've gotten an individual meeting info tag,
-                        # get the five pieces of information from it
-                        meetList = getSectionMeetingInfo(sectionMeetingDiv, semProfs)
-                        meetDict = meetList[0]
-                        semProfs = meetList[1]
-                        printMeetingInfoDict(meetDict)
+                    # It's possible there are no results (None)
+                    meetingInfoDivs = getMeetingInfoDivs(sectionDetailsDiv)
+                    if meetingInfoDivs is None:
+                        print("> This course section has no meeting information.")
+                    else:
+                        for sectionMeetingDiv in meetingInfoDivs:
+
+                            # So now that we've gotten an individual meeting info tag,
+                            # get the five pieces of information from it
+                            meetList = getSectionMeetingInfo(sectionMeetingDiv, semProfs)
+                            meetDict = meetList[0]
+                            semProfs = meetList[1]
+                            printMeetingInfoDict(meetDict)
                 except:
                     print("> Something went wrong trying to get meeting info for this section."
                           " There were probably zero meeting sections listed.")

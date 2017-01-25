@@ -114,12 +114,19 @@ def getMeetingInfoDivs(sectionDetailsTag):
 def getSectionMeetingInfo(meetingInfoDiv, semProfDict):
     """
     This function extracts specific info from a meeting info div.
-    The usual case is that there are 5 divs of information, where:
+    There are two cases.
+    1.) The meeting info has five divs, and includes the days and times.
     - [0] (first div) is Days the class meets, e.g. MWF
     - [1] (second div) is Times the class meets, e.g. 10:00 AM - 10:50 AM
     - [2] (third div) is session period, e.g. 9/2/2009 - 12/15/2009
     - [3] (fourth div) is Instructor
     - [4] (fifth div) is Room Number
+    2.) The meeting info has five divs, but two have no info in them.
+    - [0] is Days the class meets, but is empty in this case
+    - [1] is Times the class meets, but is empty in this case
+    - [2] is session period, e.g. 9/2/2009 - 12/15/2009
+    - [3] is Instructor
+    - [4] is Room Number
     Note that even though there are five divs, the returned dictionary
     has seven keys; the times and session are split into two parts.
 
@@ -160,18 +167,31 @@ def getSectionMeetingInfo(meetingInfoDiv, semProfDict):
 
     # Get the days
     daySpans = daysCell.find_all('span')
-    days = daySpans[3].getText()
+    try:
+        days = daySpans[3].getText()
+        if len(days) == 0:
+            days = "Unknown"
+    except:
+        days = "Unknown"
 
     # Get the times
     timeSpans = timesCell.find_all('span')
-    timeStart = timeSpans[1].getText()
-    timeEnd = timeSpans[3].getText()
+    try:
+        timeStart = timeSpans[1].getText()
+        timeEnd = timeSpans[3].getText()
+    except:
+        timeStart = "Unknown"
+        timeEnd = "Unknown"
 
     # Get the session
     sessionSpans = sessionCell.find_all('span')
-    sessionStart = sessionSpans[1].getText()
-    sessionEnd = sessionSpans[2].getText()
-    sessionEnd = sessionEnd.replace(' ', '').replace('–', '')
+    try:
+        sessionStart = sessionSpans[1].getText()
+        sessionEnd = sessionSpans[2].getText()
+        sessionEnd = sessionEnd.replace(' ', '').replace('–', '')
+    except:
+        sessionStart = "Unknown"
+        sessionEnd = "Unknown"
 
     # Get the instructor
     instructorSpans = instructorCell.find_all('span')
