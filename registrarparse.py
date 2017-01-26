@@ -258,8 +258,13 @@ def getQuickInfoDetails(sectionDetailsTag):
         return {}
 
     # We need to check if there is an enrollment requirements section.
-    quickInfoDiv = textSectionDivs[2]
+    if len(textSectionDivs) < 3:
+        quickInfoDiv = textSectionDivs[1]
+    else:
+        quickInfoDiv = textSectionDivs[2]
     usersIcon = quickInfoDiv.find("i", attrs = {'class': 'fa-users'})
+
+    # Note that this only matters if we had an enrollment requirements section
     if usersIcon is None:
         quickInfoDiv = textSectionDivs[1]
     
