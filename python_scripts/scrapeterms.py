@@ -44,8 +44,17 @@ courseTitle = courseDict[courseInput] # Formatted course string for registrar
 semesterProfs = [] # Information about professors for all scraped semesters.
 session = dryscrape.Session() # Start dryscrape session
 
+# Keeping track of time will also be important for analytics.
+timeSoFar = 0
+timeLeft = 0
+semsParsed = 0
+
 # This while loop goes through the range of semesters specified
+# Every iteration here represents one semester
 while currentSemIndex <= endTermIndex:
+
+    # Get start time for this semester
+    currSemTimeStart = time.time()
 
     # Form the URL.
     currentTermNum = allSemesters[currentSemIndex]
@@ -113,8 +122,25 @@ while currentSemIndex <= endTermIndex:
     semesterProfsToAdd.append(semProfs)
     semesterProfs.append(semesterProfsToAdd)
 
+    # Get end time for this semester.
+    currSemTimeEnd = time.time()
+    semParseTime = currSemTimeEnd - currSemTimeStart
+    semsLeft = endTermIndex - currentSemIndex
+    if semsLeft != 0:
+        print("\n>> Time Info")
+        timeSoFar += semParseTime
+        semsParsed += 1
+        timeAvg = timeSoFar/semsParsed
+        timeLeft = timeAvg * semsLeft
+        print("> This semester took " + str(round(semParseTime, 3)) + " seconds")
+        print("> " + str(semsParsed) + " Semesters Parsed in "
+              + str(round(timeSoFar, 3)) + " seconds.")
+        print("> " + str(semsLeft) + " Semesters Left, should take around "
+              + str(round(timeLeft, 3)) + " seconds.")
+
     # Move on to the next semester.
     currentSemIndex += 1
+    
 
 # We've parsed all semesters, print out the data in collective semesters
 print("\n>>> Now printing out " + startSemester + " through " + endSemester
