@@ -281,6 +281,8 @@ def getQuickInfoDetails(sectionDetailsTag):
     # Now get the credit amount
     creditsSpans = creditsDiv.find_all('span')
     creditValue = creditsSpans[3].getText()
+    if ')' in creditValue:
+        creditValue = creditsSpans[2].getText()
 
     # Check if this class is an honors section
     honors = 'No'
