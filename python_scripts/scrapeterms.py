@@ -3,42 +3,56 @@
 import dryscrape
 from bs4 import BeautifulSoup
 import time
+import sys
 from registrarparse import *
 from terminfo import *
 from cmdmanage import *
 
-####################################
-# USER PROMPT AND URL REQUEST      #
-####################################
+################################
+# PARSE COMMAND LINE ARGUMENTS #
+################################
 
-# Now prompt the user for the term they want
-print("> This program will scrape a range of semesters.")
-print("> Please enter the starting semester, followed by the year.")
-startSemester = input("Example is 'Fall 2013' or 'Spring 2014': ")
-print("> Please enter the ending semester, followed by the year.")
-endSemester = input("Examples are Fall 2016 or Spring 2017: ")
-print("Please enter the course you want to scrape.")
-courseInput = input("cp1, cp2, cp3, cp4, assembly, opl, foundations, "
-                    "arch, os, algorithms, ai, compiler, cg2, cg1, "
-                    "cv, cybercrime, dc1, dc2, datamining, db1, db2, "
-                    "gui1, gui2, ml, mobileapp2, mobilerobotics1, "
-                    "mobilerobotics2, nlp, selected, se1, se2, special: ")
+if len(sys.argv) != 4:
+    print("\nUsage:\n\tpython3 scrapeterms.py <start_semester> <end_semester> <course>")
+    print('Example:\n\tpython3 scrapeterms.py "Fall 2005" "Spring 2008" cp1\n')
+    exit()
+
+startSemester = sys.argv[1]
+endSemester = sys.argv[2]
+courseInput = sys.argv[3]
+if startSemester not in termDict:
+    print("\nThe start semester must be between Fall 2000 and Spring 2017.\n")
+    exit()
+if endSemester not in termDict:
+    print("\nThe end semester must be between Fall 2000 and Spring 2017.\n")
+    exit()
+if courseInput not in courseDict:
+    print("\nYou did not enter a valid Computer Science course.")
+    print("Choose from any of the following:")
+    print("\tcp1, cp2, cp3, cp4, assembly, opl, foundations, "
+          "arch,\n\tos, algorithms, ai, compiler, cg2, cg1, "
+          "cv, cybercrime,\n\tdc1, dc2, datamining, db1, db2, "
+          "gui1, gui2,\n\tml, mobileapp2, mobilerobotics1, "
+          "mobilerobotics2,\n\tnlp, selected, se1, se2, special\n")
+    exit()
+
+# Get the indices for the semester numbers
+startTermNum = termDict[startSemester]
+startTermIndex = allSemesters.index(startTermNum)
+endTermNum = termDict[endSemester]
+endTermIndex = allSemesters.index(endTermNum)
+
+# Check that the start semester isn't greater than the end semester
+if int(startTermNum) > int(endTermNum):
+    print("\nThe end semester cannot be less than the start semester.\n")
+    exit()
 
 # Tell the user which course they're scraping and which semesters
 print("\n> You chose to scrape the course " + courseNameDict[courseInput])
 print("> You chose to scrape semesters " + startSemester + " through " + endSemester)
 
-# Get the indices for the semester numbers
-beginning = time.time()
-startTermNum = termDict[startSemester]
-startTermIndex = allSemesters.index(startTermNum)
-endTermNum = termDict[endSemester]
-endTermIndex = allSemesters.index(endTermNum)
-##print("\nallSemesters length is " + str(len(allSemesters)))
-##print(startTermNum + " is index " + str(startTermIndex))
-##print(endTermNum + " is index " + str(endTermIndex))
-
 # Set up necessary variables for scraping
+beginning = time.time()
 currentSemIndex = startTermIndex # Start counter for semester scraping
 courseTitle = courseDict[courseInput] # Formatted course string for registrar
 semesterProfs = [] # Information about professors for all scraped semesters.
