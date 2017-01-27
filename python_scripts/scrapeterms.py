@@ -7,8 +7,6 @@ from registrarparse import *
 from terminfo import *
 from cmdmanage import *
 
-SLEEP_TIME = 5
-
 ####################################
 # USER PROMPT AND URL REQUEST      #
 ####################################
@@ -36,52 +34,34 @@ startTermNum = termDict[startSemester]
 startTermIndex = allSemesters.index(startTermNum)
 endTermNum = termDict[endSemester]
 endTermIndex = allSemesters.index(endTermNum)
-print("\nallSemesters length is " + str(len(allSemesters)))
-print(startTermNum + " is index " + str(startTermIndex))
-print(endTermNum + " is index " + str(endTermIndex))
+##print("\nallSemesters length is " + str(len(allSemesters)))
+##print(startTermNum + " is index " + str(startTermIndex))
+##print(endTermNum + " is index " + str(endTermIndex))
 
-# Have a counter to start at the start index, and then a while loop
-currentSemIndex = startTermIndex
+# Set up necessary variables for scraping
+currentSemIndex = startTermIndex # Start counter for semester scraping
+courseTitle = courseDict[courseInput] # Formatted course string for registrar
+semesterProfs = [] # Information about professors for all scraped semesters.
+session = dryscrape.Session() # Start dryscrape session
 
-# Information about professors.
-semesterProfs = []
-
-# Start dryscrape session
-session = dryscrape.Session()
-
+# This while loop goes through the range of semesters specified
 while currentSemIndex <= endTermIndex:
 
     # Form the URL.
-    scrapeUrlBase = "https://www.uml.edu/student-dashboard/#my-academics/class-schedule/search?term="
-    courseTitle = courseDict[courseInput]
     currentTermNum = allSemesters[currentSemIndex]
-    scrapeUrlWithTerm = scrapeUrlBase + currentTermNum + "&courseTitle="
-    scrapeUrl = scrapeUrlWithTerm + courseTitle
+    scrapeUrl = createRegistrarUrl(currentTermNum, courseTitle)
     print("\n>>> Getting Info for Semester " + numDict[currentTermNum])
+    print(scrapeUrl)
 
     # Now that we have the user input, request the URL.
-    session.visit(scrapeUrl)
-    time.sleep(SLEEP_TIME) # We need to wait for the javascript to render the classes.
-    response = session.body()
-    session.reset() # Reset session to prevent memory leak
-    responseSoup = BeautifulSoup(response, "html.parser")
-    responseSoup.prettify()
-    
-    # For this semester, make a temporary dictionary for the professors
-    # and how many sections they taught this semester
-    semProfs = {}
-
-    # First step is getting the course group div elements.
-    # For now I just select the first element. Later on this will be in a loop
+    responseSoup = getSiteBody(session, scrapeUrl, 5)
+    semProfs = {} # Professor section count for this semester
     courseGroupDivs = getCourseGroupDivs(responseSoup)
     for courseGroupDiv in courseGroupDivs:
 
         print("\n>> Reached a group result.")
 
         # Now we have the group, and with that group we can get individual sections.
-        # Take the first section and get the details (meeting time, date, etc.)
-        # Get the first course section div/Tag and find its meeting info.
-        # For now I just select the first element. Later on this will be in a loop
         courseSections = getCourseSectionDivs(courseGroupDiv)
         i = 1 # Debugging Course Section Counter
         for courseSection in courseSections:
@@ -92,13 +72,12 @@ while currentSemIndex <= endTermIndex:
             if isCancelled(courseSection) is True:
                 print("> This course section is cancelled.")
                 i += 1
-
             else:
 
                 # We need the section details div before proceeding.
                 sectionDetailsDiv = getDetailsDiv(courseSection)
                 
-                # From the section details, find enrollment info first
+                # From the section details, find quick info first
                 try:
                     quickDict = getQuickInfoDetails(sectionDetailsDiv)
                     printQuickInfoDict(quickDict)
@@ -109,7 +88,7 @@ while currentSemIndex <= endTermIndex:
                 # From section details, search for meeting info
                 try:
 
-                    # It's possible there are no results (None)
+                    # It's possible there are no results for meeting info
                     meetingInfoDivs = getMeetingInfoDivs(sectionDetailsDiv)
                     if meetingInfoDivs is None:
                         print("> This course section has no meeting information.")

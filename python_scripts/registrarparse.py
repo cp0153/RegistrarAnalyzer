@@ -1,3 +1,7 @@
+import dryscrape
+from bs4 import BeautifulSoup
+import time
+
 ####################################
 # DICTIONARIES WITH PROFESSOR INFO #
 ####################################
@@ -7,6 +11,61 @@
 ####################################
 # FUNCTIONS AND PARSING            #
 ####################################
+
+def createRegistrarUrl(termNum, courseTitle):
+    """
+    This function creates the URL to visit for a specific semester and
+    course on the Registrar Class-Schedule site.
+
+    Parameters
+    ----------
+    termNum : str
+        The term number for the semester as a string. This is an integer
+        in string form.
+    courseTitle : str
+        The name of the course that is formatted in a way to work in the
+        URL for the registrar.
+
+    Returns
+    -------
+    str
+        The full URL to scrape on one semester for one course.
+    """
+    scrapeUrlBase = "https://www.uml.edu/student-dashboard/"
+    scrapeUrlBase += "#my-academics/class-schedule/search?term="
+    scrapeUrlWithTerm = scrapeUrlBase + termNum + "&courseTitle="
+    scrapeUrl = scrapeUrlWithTerm + courseTitle
+    return scrapeUrl
+
+def getSiteBody(session, scrapeUrl, sleepSec):
+    """
+    This function gets the HTML contents of a session body after
+    the page's javascript has rendered the page elements. Note that
+    in order for a page to properly create its elements if driven by
+    javascript, an appropriate sleep time needs to be passed.
+
+    Parameters
+    ----------
+    session : dryscrape.Session
+        The dryscrape Session object that will be used to visit the URL.
+    scrapeUrl : str
+        The full URL to the page to scrape.
+    sleepSec : int
+        The number of seconds to wait before getting the session body.
+        For the UML Registrar, 5 seconds has been a reliable number.
+
+    Returns
+    -------
+    bs4.BeautifulSoup
+        The returned BeautifulSoup object will have the response body
+        from the session run through an HTML parser.
+    """
+    session.visit(scrapeUrl)
+    time.sleep(sleepSec) # Wait for the javascript to render the classes.
+    response = session.body()
+    session.reset() # Reset session to prevent memory leak
+    soup = BeautifulSoup(response, "html.parser")
+    return soup
 
 def getCourseGroupDivs(soup):
     """
