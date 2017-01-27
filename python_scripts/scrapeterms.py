@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 from registrarparse import *
 from terminfo import *
+from cmdmanage import *
 
 SLEEP_TIME = 5
 
@@ -45,6 +46,9 @@ currentSemIndex = startTermIndex
 # Information about professors.
 semesterProfs = []
 
+# Start dryscrape session
+session = dryscrape.Session()
+
 while currentSemIndex <= endTermIndex:
 
     # Form the URL.
@@ -56,13 +60,13 @@ while currentSemIndex <= endTermIndex:
     print("\n>>> Getting Info for Semester " + numDict[currentTermNum])
 
     # Now that we have the user input, request the URL.
-    session = dryscrape.Session()
     session.visit(scrapeUrl)
     time.sleep(SLEEP_TIME) # We need to wait for the javascript to render the classes.
     response = session.body()
+    session.reset() # Reset session to prevent memory leak
     responseSoup = BeautifulSoup(response, "html.parser")
     responseSoup.prettify()
-
+    
     # For this semester, make a temporary dictionary for the professors
     # and how many sections they taught this semester
     semProfs = {}
@@ -163,5 +167,9 @@ for prof in profTotals:
 finished = time.time()
 runningTime = round(finished - beginning, 3)
 print("!!! All of this took " + str(runningTime) + " seconds.")
+
+# Kill the webkit_server processes to prevent memory leak
+print("Killing webkit_server processes...")
+killWebkitServers()
 
 # End
