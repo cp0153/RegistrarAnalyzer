@@ -51,7 +51,6 @@ while currentSemIndex <= endTermIndex:
     currentTermNum = allSemesters[currentSemIndex]
     scrapeUrl = createRegistrarUrl(currentTermNum, courseTitle)
     print("\n>>> Getting Info for Semester " + numDict[currentTermNum])
-    print(scrapeUrl)
 
     # Now that we have the user input, request the URL.
     responseSoup = getSiteBody(session, scrapeUrl, 5)
@@ -117,26 +116,13 @@ while currentSemIndex <= endTermIndex:
     # Move on to the next semester.
     currentSemIndex += 1
 
-# Now that we've parsed all semesters,
-# print out the data in collective semesters
+# We've parsed all semesters, print out the data in collective semesters
 print("\n>>> Now printing out " + startSemester + " through " + endSemester
       + " for " + courseNameDict[courseInput])
-for sem in semesterProfs:
-    print("\n>> Printing out professor count for semester " + sem[0])
-    semDict = sem[1]
-    for prof in sorted(semDict):
-        print("> " + prof + ": " + str(semDict[prof]))
+printSemesterProfs(semesterProfs)
         
 # Now go through the semesterProfs dictionary and get a total prof count
-profTotals = {}
-for sem in semesterProfs:
-    semDict = sem[1]
-    for prof in semDict:
-        if prof not in profTotals:
-            profTotals[prof] = semDict[prof]
-        else:
-            profTotals[prof] += semDict[prof]
-
+profTotals = getProfTotals(semesterProfs)
 print("\n>>> Professor Totals for " + courseNameDict[courseInput]
       + " for semesters " + startSemester + " through " + endSemester)
 for prof in profTotals:

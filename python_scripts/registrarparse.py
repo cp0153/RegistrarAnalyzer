@@ -357,6 +357,34 @@ def getQuickInfoDetails(sectionDetailsTag):
     qInfoDict['honors'] = honors
     return qInfoDict
 
+def getProfTotals(semesterProfs):
+    """
+    This function gets the total number of sections every professor
+    instructed for a course for all the semesters requested.
+
+    Parameters
+    ----------
+    semesterProfs : list
+        A list where each element is a list of two elements:
+        - [0] is the course term as a human readable string
+        - [1] is the dict with every professor for that semester
+
+    Returns
+    -------
+    dict
+        The dictionary that has professor names as keys, and their
+        total section count as an int value.
+    """
+    profTotals = {}
+    for sem in semesterProfs:
+        semDict = sem[1]
+        for prof in semDict:
+            if prof not in profTotals:
+                profTotals[prof] = semDict[prof]
+            else:
+                profTotals[prof] += semDict[prof]
+    return profTotals
+
 def printMeetingInfoDict(meetInfoDict):
     """
     This function prints out the meeting info for a course section
@@ -395,5 +423,23 @@ def printQuickInfoDict(qInfoDict):
         print("> Enrollment Max: " + qInfoDict['enrollMax'])
         print("> Credit Value:   " + qInfoDict['creditValue'])
         print("> Honors Section: " + qInfoDict['honors'])
+
+def printSemesterProfs(semesterProfs):
+    """
+    This function prints out the professors who did course sections for
+    a course every semester.
+
+    Parameters
+    ----------
+    semesterProfs : list
+        A list where each element is a list of two elements:
+        - [0] is the course term as a human readable string
+        - [1] is the dict with every professor for that semester
+    """
+    for sem in semesterProfs:
+        print("\n>> Printing out professor count for semester " + sem[0])
+        semDict = sem[1]
+        for prof in sorted(semDict):
+            print("> " + prof + ": " + str(semDict[prof]))
 
 # End
