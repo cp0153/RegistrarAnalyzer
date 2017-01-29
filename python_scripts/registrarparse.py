@@ -3,12 +3,6 @@ from bs4 import BeautifulSoup
 import time
 
 ####################################
-# DICTIONARIES WITH PROFESSOR INFO #
-####################################
-
-# Nothing here
-
-####################################
 # FUNCTIONS AND PARSING            #
 ####################################
 
@@ -385,6 +379,10 @@ def getProfTotals(semesterProfs):
                 profTotals[prof] += semDict[prof]
     return profTotals
 
+####################################
+# PRINTING (FOR DEBUGGING)         #
+####################################
+
 def printMeetingInfoDict(meetInfoDict):
     """
     This function prints out the meeting info for a course section
@@ -441,5 +439,70 @@ def printSemesterProfs(semesterProfs):
         semDict = sem[1]
         for prof in sorted(semDict):
             print("> " + prof + ": " + str(semDict[prof]))
+
+####################################
+# WRITING TO AN OPEN FILE          #
+####################################
+
+def writeStringToFile(openFile, string):
+    """
+    This function writes out the passed string to a passed file that
+    is currently open in write mode.
+
+    Parameters
+    ----------
+    openFile : _io.TextIOWrapper
+        A file that is already open in write mode, and we will write
+        to this file.
+    str : string
+        The string to write out to the open file. Note that the proper
+        formatting should already be included e.g. newlines.
+    """
+    openFile.write(string)
+
+def writeQuickInfoToFile(openFile, qInfoDict):
+    """
+    This function writes out the passed Quick Info dictionary to a
+    passed file that is currently open in write mode.
+
+    Parameters
+    ----------
+    openFile : _io.TextIOWrapper
+        A file that is already open in write mode, and we will write
+        to this file.
+    qInfoDict : dict
+        The dictionary with the quick info for the class section.
+    """
+    if qInfoDict is None:
+        openFile.write("> No enrollment, credit, or honors info found.\n")
+    else:
+        openFile.write("> Enrolled Now:   " + qInfoDict['enrollNow'] + "\n")
+        openFile.write("> Enrollment Max: " + qInfoDict['enrollMax'] + "\n")
+        openFile.write("> Credit Value:   " + qInfoDict['creditValue'] + "\n")
+        openFile.write("> Honors Section: " + qInfoDict['honors'] + "\n")
+
+def writeMeetingInfoToFile(openFile, meetInfoDict):
+    """
+    This function writes out the passed Meeting Info dictionary to a
+    passed file that is currently open in write mode.
+
+    Parameters
+    ----------
+    openFile : _io.TextIOWrapper
+        A file that is already open in write mode, and we will write
+        to this file.
+    meetInfoDict : dict
+        The dictionary with the meeting info for the class section.
+    """
+    if meetInfoDict is None:
+        openFile.write("> No meeting info found.\n")
+    else:
+        openFile.write("> Meeting Days:   " + meetInfoDict['days'] + "\n")
+        openFile.write("> Time Start:     " + meetInfoDict['timeStart'] + "\n")
+        openFile.write("> Time End:       " + meetInfoDict['timeEnd'] + "\n")
+        openFile.write("> Session Start:  " + meetInfoDict['sessionStart'] + "\n")
+        openFile.write("> Session End:    " + meetInfoDict['sessionEnd'] + "\n")
+        openFile.write("> Instructor:     " + meetInfoDict['instructor'] + "\n")
+        openFile.write("> Room:           " + meetInfoDict['room'] + "\n")
 
 # End

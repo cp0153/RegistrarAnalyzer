@@ -55,10 +55,11 @@ with open(outFilePath, 'w') as outFile:
     # Tell the user which course they're scraping and which semesters
     scrapePrompt = "\n> You chose to scrape the course " + courseNameDict[courseInput]
     print(scrapePrompt)
-    outFile.write(scrapePrompt + "\n")
+    writeStringToFile(outFile, scrapePrompt + "\n")
+
     scrapePrompt = "> You chose to scrape semesters " + startSemester + " through " + endSemester
     print(scrapePrompt)
-    outFile.write(scrapePrompt + "\n")
+    writeStringToFile(outFile, scrapePrompt + "\n")
     
     # Set up necessary variables for scraping
     beginning = time.time()
@@ -82,9 +83,10 @@ with open(outFilePath, 'w') as outFile:
         # Form the URL.
         currentTermNum = allSemesters[currentSemIndex]
         scrapeUrl = createRegistrarUrl(currentTermNum, courseTitle)
+
         scrapePrompt = "\n>>> Getting Info for Semester " + numDict[currentTermNum]
         print(scrapePrompt)
-        outFile.write(scrapePrompt + "\n")
+        writeStringToFile(outFile, scrapePrompt + "\n")
 
         # Now that we have the user input, request the URL.
         responseSoup = getSiteBody(session, scrapeUrl, 5)
@@ -94,7 +96,7 @@ with open(outFilePath, 'w') as outFile:
 
             scrapePrompt = "\n>> Reached a group result."
             # print(scrapePrompt)
-            outFile.write(scrapePrompt + "\n")
+            writeStringToFile(outFile, scrapePrompt + "\n")
 
             # Now we have the group, and with that group we can get individual sections.
             courseSections = getCourseSectionDivs(courseGroupDiv)
@@ -105,11 +107,12 @@ with open(outFilePath, 'w') as outFile:
                 # If there is then there's no point in continuing
                 scrapePrompt = "\n>> Parsing Course Section " + str(i)
                 # print(scrapePrompt)
-                outFile.write(scrapePrompt + "\n")
+                writeStringToFile(outFile, scrapePrompt + "\n")
                 if isCancelled(courseSection) is True:
+                    
                     scrapePrompt = "> This course section is cancelled."
                     # print(scrapePrompt)
-                    outFile.write(scrapePrompt + "\n")
+                    writeStringToFile(outFile, scrapePrompt + "\n")
                     i += 1
                 else:
 
@@ -121,17 +124,11 @@ with open(outFilePath, 'w') as outFile:
                         quickDict = getQuickInfoDetails(sectionDetailsDiv)
                         # printQuickInfoDict(quickDict)
                         # print("> Successfully parsed quick info for this section.")
-                        if quickDict is None:
-                            outFile.write("> No enrollment, credit, or honors info found.\n")
-                        else:
-                            outFile.write("> Enrolled Now:   " + quickDict['enrollNow'] + "\n")
-                            outFile.write("> Enrollment Max: " + quickDict['enrollMax'] + "\n")
-                            outFile.write("> Credit Value:   " + quickDict['creditValue'] + "\n")
-                            outFile.write("> Honors Section: " + quickDict['honors'] + "\n")
+                        writeQuickInfoToFile(outFile, quickDict)
                     except:
                         scrapePrompt = "> Something went wrong trying to get quick info for this section."
                         print(scrapePrompt)
-                        outFile.write(scrapePrompt + "\n")
+                        writeStringToFile(outFile, scrapePrompt + "\n")
 
                     # From section details, search for meeting info
                     try:
@@ -139,7 +136,7 @@ with open(outFilePath, 'w') as outFile:
                         # It's possible there are no results for meeting info
                         meetingInfoDivs = getMeetingInfoDivs(sectionDetailsDiv)
                         if meetingInfoDivs is None:
-                            outFile.write("> This course section has no meeting information.\n")
+                            writeStringToFile(outFile, "> This course section has no meeting information.\n")
                         else:
                             for sectionMeetingDiv in meetingInfoDivs:
 
@@ -149,21 +146,12 @@ with open(outFilePath, 'w') as outFile:
                                 meetDict = meetList[0]
                                 semProfs = meetList[1]
                                 # printMeetingInfoDict(meetDict)
-                                if meetDict is None:
-                                    outFile.write("> No meeting info found.\n")
-                                else:
-                                    outFile.write("> Meeting Days:   " + meetDict['days'] + "\n")
-                                    outFile.write("> Time Start:     " + meetDict['timeStart'] + "\n")
-                                    outFile.write("> Time End:       " + meetDict['timeEnd'] + "\n")
-                                    outFile.write("> Session Start:  " + meetDict['sessionStart'] + "\n")
-                                    outFile.write("> Session End:    " + meetDict['sessionEnd'] + "\n")
-                                    outFile.write("> Instructor:     " + meetDict['instructor'] + "\n")
-                                    outFile.write("> Room:           " + meetDict['room'] + "\n")
+                                writeMeetingInfoToFile(outFile, meetDict)
                         # print("> Successfully parsed meeting info for this section.")
                     except:
                         scrapePrompt = "> Something went wrong trying to get meeting info for this section."
                         print(scrapePrompt)
-                        outFile.write(scrapePrompt + "\n")
+                        writeStringToFile(outFile, scrapePrompt + "\n")
                     i += 1
 
         # Now add this semester's information to the semesterProfs list
@@ -183,7 +171,7 @@ with open(outFilePath, 'w') as outFile:
             # Time Info Header for this section
             scrapePrompt = "\n>> Time Info"
             print(scrapePrompt)
-            outFile.write(scrapePrompt + "\n")
+            writeStringToFile(outFile, scrapePrompt + "\n")
 
             # Calculate time analytics
             timeSoFar += semParseTime
@@ -194,15 +182,17 @@ with open(outFilePath, 'w') as outFile:
             # Output the time analytics
             scrapePrompt = "> This semester took " + str(round(semParseTime, 3)) + " seconds"
             print(scrapePrompt)
-            outFile.write(scrapePrompt + "\n")
+            writeStringToFile(outFile, scrapePrompt + "\n")
+            
             scrapePrompt = "> " + str(semsParsed) + " Semesters Parsed in "
             scrapePrompt += str(round(timeSoFar, 3)) + " seconds."
             print(scrapePrompt)
-            outFile.write(scrapePrompt + "\n")
+            writeStringToFile(outFile, scrapePrompt + "\n")
+
             scrapePrompt = "> " + str(semsLeft) + " Semesters Left, should take around "
             scrapePrompt += str(round(timeLeft, 3)) + " seconds."
             print(scrapePrompt)
-            outFile.write(scrapePrompt + "\n")
+            writeStringToFile(outFile, scrapePrompt + "\n")
 
         # Move on to the next semester.
         currentSemIndex += 1
@@ -212,31 +202,34 @@ with open(outFilePath, 'w') as outFile:
     scrapePrompt = "\n>>> Now writing out " + startSemester + " through "
     scrapePrompt += endSemester + " for " + courseNameDict[courseInput]
     print(scrapePrompt)
-    outFile.write(scrapePrompt + "\n")
+    writeStringToFile(outFile, scrapePrompt + "\n")
     # printSemesterProfs(semesterProfs)
     for sem in semesterProfs:
         scrapePrompt = ">> Writing out professor count for semester " + sem[0]
         # print(scrapePrompt)
-        outFile.write(scrapePrompt + "\n")
+        writeStringToFile(outFile, scrapePrompt + "\n")
         semDict = sem[1]
         for prof in sorted(semDict):
-            outFile.write("> " + prof + ": " + str(semDict[prof]) + "\n")
+            writeStringToFile(outFile, "> " + prof + ": " + str(semDict[prof]) + "\n")
             
     # Now go through the semesterProfs dictionary and get a total prof count
     profTotals = getProfTotals(semesterProfs)
+    
     scrapePrompt = "\n>>> Writing Professor Totals for " + courseNameDict[courseInput]
     scrapePrompt += " for semesters " + startSemester + " through " + endSemester
     print(scrapePrompt)
-    outFile.write(scrapePrompt + "\n")
+    writeStringToFile(outFile, scrapePrompt + "\n")
+    
     for prof in profTotals:
-        outFile.write("> " + prof + ": " + str(profTotals[prof]) + "\n")
+        writeStringToFile(outFile, "> " + prof + ": " + str(profTotals[prof]) + "\n")
 
     # Print how long this took.
     finished = time.time()
     runningTime = round(finished - beginning, 3)
+    
     scrapePrompt = "\n>>> All of this took " + str(runningTime) + " seconds."
     print(scrapePrompt)
-    outFile.write(scrapePrompt + "\n")
+    writeStringToFile(outFile, scrapePrompt + "\n")
 
 # Close the file we wrote out to.
 outFile.close()
