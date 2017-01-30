@@ -149,7 +149,8 @@ with open(outFilePath, 'w') as outFile:
                     # info into one dictionary.
                     sectionDict = parser.combineInfoDicts(quickDict,
                                                           meetInfoDicts,
-                                                          numDict[currentTermNum])
+                                                          numDict[currentTermNum],
+                                                          readableCourse)
                     sections.append(sectionDict)
 
         # Now add this semester's prof information to the semesterProfs list

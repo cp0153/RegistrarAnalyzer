@@ -469,7 +469,7 @@ class RegistrarParser(object):
                     profTotals[prof] += semDict[prof]
         return profTotals
 
-    def combineInfoDicts(self, qInfoDict, meetInfoDicts, sem):
+    def combineInfoDicts(self, qInfoDict, meetInfoDicts, sem, crs):
         """
         This function combines both the quick info and meeting info
         dictionaries for one course section into one dictionary.
@@ -484,6 +484,8 @@ class RegistrarParser(object):
             it can be 2.
         sem : str
             The semester as a human-readable string.
+        crs : str
+            The course name as a human-readable string.
 
         Returns
         -------
@@ -499,6 +501,7 @@ class RegistrarParser(object):
         combineDict['creditValue'] = qInfoDict['creditValue']
         combineDict['honors'] = qInfoDict['honors']
         combineDict['semester'] = sem
+        combineDict['course'] = crs
 
         # Now add the meeting info for this course section.
         combineDict['meetings'] = []
