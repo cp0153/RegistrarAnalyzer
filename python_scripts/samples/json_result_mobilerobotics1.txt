@@ -1,0 +1,405 @@
+// Structure of the JSON array is as follows:
+//
+// list of semesters
+//   list of individual class sections (as dictionaries)
+//     individual class section (as dictionary), with meetings in a list
+//	 meetings list (as dictionaries)
+
+[
+  [],
+  [],
+  [
+    {
+      "enrollNow": "19",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 412",
+          "timeEnd": "12:20 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "12/22/2001",
+          "sessionStart": "9/5/2001",
+          "timeStart": "11:30 AM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "0",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "20",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 412",
+          "timeEnd": "2:15 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "12/21/2002",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:00 PM",
+          "days": "T"
+        },
+        {
+          "room": "OS 304",
+          "timeEnd": "2:50 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/21/2002",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:00 PM",
+          "days": "R"
+        }
+      ],
+      "enrollMax": "20",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "16",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 311",
+          "timeEnd": "3:30 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/20/2003",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "M"
+        },
+        {
+          "room": "OS 311",
+          "timeEnd": "2:20 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/20/2003",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "F"
+        }
+      ],
+      "enrollMax": "0",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003"
+    },
+    {
+      "enrollNow": "0",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 412",
+          "timeEnd": "2:15 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/20/2003",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:00 PM",
+          "days": "T"
+        },
+        {
+          "room": "OS 304",
+          "timeEnd": "2:50 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/20/2003",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:00 PM",
+          "days": "R"
+        }
+      ],
+      "enrollMax": "0",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "16",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 415",
+          "timeEnd": "3:30 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/22/2004",
+          "sessionStart": "9/7/2004",
+          "timeStart": "1:30 PM",
+          "days": "M"
+        },
+        {
+          "room": "OS 415",
+          "timeEnd": "2:20 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/22/2004",
+          "sessionStart": "9/7/2004",
+          "timeStart": "1:30 PM",
+          "days": "F"
+        }
+      ],
+      "enrollMax": "0",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "6",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 412",
+          "timeEnd": "3:30 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/22/2005",
+          "sessionStart": "9/6/2005",
+          "timeStart": "1:30 PM",
+          "days": "M"
+        },
+        {
+          "room": "OS 412",
+          "timeEnd": "2:20 PM",
+          "instructor": "TBA",
+          "sessionEnd": "12/22/2005",
+          "sessionStart": "9/6/2005",
+          "timeStart": "1:30 PM",
+          "days": "F"
+        }
+      ],
+      "enrollMax": "25",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2005"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "11",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 403",
+          "timeEnd": "2:15 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/22/2006",
+          "sessionStart": "9/5/2006",
+          "timeStart": "1:00 PM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "25",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006"
+    },
+    {
+      "enrollNow": "1",
+      "course": "Mobile Robotics I",
+      "meetings": [],
+      "enrollMax": "20",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "11",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 403",
+          "timeEnd": "3:20 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/21/2007",
+          "sessionStart": "9/5/2007",
+          "timeStart": "1:30 PM",
+          "days": "M"
+        },
+        {
+          "room": "OS 403",
+          "timeEnd": "2:20 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/21/2007",
+          "sessionStart": "9/5/2007",
+          "timeStart": "1:30 PM",
+          "days": "F"
+        }
+      ],
+      "enrollMax": "25",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "15",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OS 302",
+          "timeEnd": "2:45 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "12/15/2009",
+          "sessionStart": "9/2/2009",
+          "timeStart": "1:30 PM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "20",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2009"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "20",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-403",
+          "timeEnd": "1:45 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "12/12/2011",
+          "sessionStart": "9/1/2011",
+          "timeStart": "12:30 PM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "19",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2011"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "20",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-403",
+          "timeEnd": "12:15 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "5/1/2013",
+          "sessionStart": "1/22/2013",
+          "timeStart": "11:00 AM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "20",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2013"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "19",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "timeEnd": "12:15 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "5/2/2014",
+          "sessionStart": "1/21/2014",
+          "timeStart": "11:00 AM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "19",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2014"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "19",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "timeEnd": "12:15 PM",
+          "instructor": "Holly Yanco",
+          "sessionEnd": "5/1/2015",
+          "sessionStart": "1/20/2015",
+          "timeStart": "11:00 AM",
+          "days": "TR"
+        }
+      ],
+      "enrollMax": "19",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2015"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "24",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "timeEnd": "1:50 PM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "5/7/2016",
+          "sessionStart": "1/19/2016",
+          "timeStart": "1:00 PM",
+          "days": "MWF"
+        }
+      ],
+      "enrollMax": "25",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2016"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "24",
+      "course": "Mobile Robotics I",
+      "meetings": [
+        {
+          "room": "OLS-219",
+          "timeEnd": "11:50 AM",
+          "instructor": "Fred Martin",
+          "sessionEnd": "5/6/2017",
+          "sessionStart": "1/17/2017",
+          "timeStart": "11:00 AM",
+          "days": "MWF"
+        }
+      ],
+      "enrollMax": "20",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2017"
+    }
+  ]
+]
