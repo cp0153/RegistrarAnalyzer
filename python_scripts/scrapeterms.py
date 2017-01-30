@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 import sys
 import os
+import json
 from registrarparse import *
 from terminfo import *
 from cmdmanage import *
@@ -93,6 +94,7 @@ with open(outFilePath, 'w') as outFile:
         # Now that we have the user input, request the URL.
         responseSoup = parser.getSiteBody(scrapeUrl, 5)
         semProfs = {} # Professor section count for this semester
+        sections = [] # The list of course sections for this semester
         courseGroupDivs = parser.getCourseGroupDivs(responseSoup)
         for courseGroupDiv in courseGroupDivs:
 
@@ -114,6 +116,7 @@ with open(outFilePath, 'w') as outFile:
 
                     # We need the section details div before proceeding.
                     sectionDetailsDiv = parser.getDetailsDiv(courseSection)
+                    meetInfoDicts = []
                     
                     # From the section details, find quick info first
                     try:
@@ -133,6 +136,7 @@ with open(outFilePath, 'w') as outFile:
                             for sectionMeetingDiv in meetingInfoDivs:
                                 meetList = parser.getSectionMeetingInfo(sectionMeetingDiv, semProfs)
                                 meetDict = meetList[0]
+                                meetInfoDicts.append(meetDict)
                                 semProfs = meetList[1]
                                 parser.writeMeetingInfoToFile(outFile, meetDict)
                     except:
@@ -141,11 +145,21 @@ with open(outFilePath, 'w') as outFile:
                         parser.writeStringToFile(outFile, scrapePrompt + "\n")
                     i += 1
 
-        # Now add this semester's information to the semesterProfs list
+                    # Now that we've parsed this course section, combine the
+                    # info into one dictionary.
+                    sectionDict = parser.combineInfoDicts(quickDict,
+                                                          meetInfoDicts,
+                                                          numDict[currentTermNum])
+                    sections.append(sectionDict)
+
+        # Now add this semester's prof information to the semesterProfs list
         semesterProfsToAdd = []
         semesterProfsToAdd.append(numDict[currentTermNum])
         semesterProfsToAdd.append(semProfs)
         parser.addSemesterProfs(semesterProfsToAdd)
+
+        # Also add the list of individual sections from this semester
+        parser.addSectionListing(sections)
 
         # Get end time for this semester, and calculate time analytics.
         currSemTimeEnd = time.time()
@@ -207,6 +221,13 @@ with open(outFilePath, 'w') as outFile:
 
 # Close the file we wrote out to.
 outFile.close()
+
+# Now it's time to write the JSON of the semester information.
+courseSemesters = parser.getSemesterListing()
+jsonFileName = "json_result_" + courseInput + ".txt"
+with open(jsonFileName, 'w') as jsonFile:
+    json.dump(courseSemesters, jsonFile, indent=2)
+jsonFile.close()
 
 # Kill the webkit_server processes to prevent memory leak
 print("Killing webkit_server processes...")

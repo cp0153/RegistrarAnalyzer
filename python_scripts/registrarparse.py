@@ -22,7 +22,6 @@ class RegistrarParser(object):
         filePath : str
             The path to the file to be written out to.
         """
-
         self.startSemester = startSem
         self.endSemester = endSem
         self.courseShort = crs
@@ -35,6 +34,7 @@ class RegistrarParser(object):
 
         self.semesterProfs = [] # Professor information for the semesters
         self.profTotals = {} # Total section counts for all professors
+        self.semesters = [] # Info for each semester
         self.session = dryscrape.Session()
         
     def __str__(self):
@@ -61,8 +61,6 @@ class RegistrarParser(object):
     def addSemesterProfs(self, semProfsToAdd):
         self.semesterProfs.append(semProfsToAdd)
 
-    
-
     def calculateProfTotals(self):
         """
         This function calculates the total number of sections every
@@ -85,7 +83,22 @@ class RegistrarParser(object):
                 else:
                     self.profTotals[prof] += semDict[prof]
 
+    def addSectionListing(self, sectionList):
+        """
+        This function adds a list of individual sections found for
+        one semester into the parser's list of semesters.
 
+        Parameters
+        ----------
+        sectionList : list
+            The list where each element is a dictionary that contains
+            both quick info and a list of all meeting info for each
+            individual course section.
+        """
+        self.semesters.append(sectionList)
+
+    def getSemesterListing(self):
+        return self.semesters
 
     ####################################
     # FUNCTIONS AND PARSING            #
@@ -161,7 +174,6 @@ class RegistrarParser(object):
         list
             A list of bs4.element.Tag objects representing entire groups of
             section results. This list is usually 1 in length.
-
         """
         return soup.select("div.class-schedule-search-results-group-results")
 
@@ -178,7 +190,6 @@ class RegistrarParser(object):
         -------
         ResultSet
             A ResultSet of Tag objects representing individual class sections.
-
         """
         return groupDivTag.find_all('div', attrs = {'class': 'class-schedule-search-result'})
 
@@ -197,7 +208,6 @@ class RegistrarParser(object):
         boolean
             True if the section is found to be cancelled, False if the section
             is not cancelled.
-
         """
         topPart = sectionTag.find('div', attrs = {'class': 'inside'})
         cancelled = topPart.find("i", attrs = {'class': 'fa-times-circle'})
@@ -206,7 +216,6 @@ class RegistrarParser(object):
         else:
             return False
         
-
     def getDetailsDiv(self, sectionTag):
         """
         This function gets the div with all the class section details.
@@ -220,7 +229,6 @@ class RegistrarParser(object):
         -------
         Tag
             The div with all the inner class section details as a Tag.
-
         """
         return sectionTag.find('div', attrs = {'class': 'details'})
 
@@ -241,7 +249,6 @@ class RegistrarParser(object):
             A ResultSet of Tag objects representing individual meeting info divs.
         None
             The NoneType object is returned if no meeting info was found.
-
         """
         classMeetingDivs = sectionDetailsTag.find('div', attrs = {'class': 'class-meetings'})
         if classMeetingDivs is None:
@@ -286,7 +293,6 @@ class RegistrarParser(object):
             - The second item is an updated dictionary containing the instructor
             names as keys, and how many sections they taught in the semester
             as an integer value.
-
         """
 
         # In these two base cases, this means there was no meeting info.
@@ -385,7 +391,6 @@ class RegistrarParser(object):
         dict
             The dictionary with 4 pieces of info as key/value pairs:
             - 'enrollNow', 'enrollMax', 'creditValue', 'honors'
-
         """
 
         # First find the Quick Info div
@@ -464,6 +469,44 @@ class RegistrarParser(object):
                     profTotals[prof] += semDict[prof]
         return profTotals
 
+    def combineInfoDicts(self, qInfoDict, meetInfoDicts, sem):
+        """
+        This function combines both the quick info and meeting info
+        dictionaries for one course section into one dictionary.
+
+        Parameters
+        ----------
+        qInfoDict : dict
+            The dictionary with the quick info for the class section.
+        meetInfoDicts : list
+            The list of dictionaries with the meeting info for the
+            class section. Usually this is just 1, but in some cases
+            it can be 2.
+        sem : str
+            The semester as a human-readable string.
+
+        Returns
+        -------
+        dict
+            The dictionary that has the quick info and all meeting
+            sections for one course section in the semester.
+        """
+
+        # First start with the quick info
+        combineDict = {}
+        combineDict['enrollNow'] = qInfoDict['enrollNow']
+        combineDict['enrollMax'] = qInfoDict['enrollMax']
+        combineDict['creditValue'] = qInfoDict['creditValue']
+        combineDict['honors'] = qInfoDict['honors']
+        combineDict['semester'] = sem
+
+        # Now add the meeting info for this course section.
+        combineDict['meetings'] = []
+        for meetDict in meetInfoDicts:
+            combineDict['meetings'].append(meetDict)
+        return combineDict
+
+
     ####################################
     # PRINTING (FOR DEBUGGING)         #
     ####################################
@@ -506,6 +549,7 @@ class RegistrarParser(object):
             print("> Enrollment Max: " + qInfoDict['enrollMax'])
             print("> Credit Value:   " + qInfoDict['creditValue'])
             print("> Honors Section: " + qInfoDict['honors'])
+
 
     ####################################
     # WRITING TO AN OPEN FILE          #
@@ -571,6 +615,8 @@ class RegistrarParser(object):
             openFile.write("> Session End:    " + meetInfoDict['sessionEnd'] + "\n")
             openFile.write("> Instructor:     " + meetInfoDict['instructor'] + "\n")
             openFile.write("> Room:           " + meetInfoDict['room'] + "\n")
+
+    
 
     def writeSemCountsToFile(self, openFile):
         """
