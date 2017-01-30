@@ -85,7 +85,7 @@ numDict['2630'] = 'Spring 2017'
 courseDict = {}
 
 # Mandatory courses
-courseDict['algorithms'] = 'Analysis%20of%20Algorithms%20(Formerly%2091.404)'
+courseDict['algorithms'] = 'Analysis%20of%20Algorithms%20(Formerly%209'
 courseDict['assembly'] = 'Assembly%20Language%20Programming%20(Formerly%2091.203)'
 courseDict['arch'] = 'Computer%20Architecture%20(Formerly%2091.305)'
 courseDict['cp1'] = 'Computing%20I%20(Formerly%2091.101)'
