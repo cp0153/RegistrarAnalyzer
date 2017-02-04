@@ -6,7 +6,7 @@ from plotly.graph_objs import Bar, Layout, Figure
 # Parse and check command line arguments
 if len(sys.argv) != 4:
     print("\nUsage:\n\tpython3 proftotalgraph.py <prof_total_json> <course_long> <course_short>")
-    print('Example:\n\tpython3 proftotalgraph.py' +
+    print('Example:\n\tpython3 proftotalgraph.py ' +
           'samples/prof_totals/json_profTotals_cp3.txt ' +
           '"Computing III" cp3\n')
     exit()
