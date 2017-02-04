@@ -1,0 +1,11 @@
+{
+  "William Moloney Jr": 2,
+  "TBA": 1,
+  "Yu Cao": 3,
+  "Anna Rumshisky": 3,
+  "George Grinstein": 1,
+  "Patrick Krolak": 1,
+  "Karen Daniels": 1,
+  "Xinwen Fu": 3,
+  "John O'Callahan": 1
+}

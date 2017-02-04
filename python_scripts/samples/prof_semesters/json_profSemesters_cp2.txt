@@ -1,0 +1,219 @@
+[
+  [
+    "Fall 2000",
+    {
+      "TBA": 6,
+      "Giampiero Pecelli": 4
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "TBA": 7,
+      "Giampiero Pecelli": 7
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "TBA": 4,
+      "Giampiero Pecelli": 4
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "TBA": 8,
+      "Giampiero Pecelli": 8
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "TBA": 4,
+      "Giampiero Pecelli": 4
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "TBA": 6,
+      "Giampiero Pecelli": 6
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "TBA": 4,
+      "Giampiero Pecelli": 4
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "Cindy Chen": 4,
+      "TBA": 5,
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "Cindy Chen": 3,
+      "TBA": 3
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "Cindy Chen": 3,
+      "TBA": 3
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Cindy Chen": 4
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {}
+  ],
+  [
+    "Spring 2007",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {}
+  ],
+  [
+    "Spring 2008",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "James Canning": 8
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Cindy Chen": 4
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Joelle Vrana": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Mark Sheldon": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Mark Sheldon": 2
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Anne Mulhern": 4
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "James Canning": 2,
+      "Anne Mulhern": 3
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Olga Lepsky": 2
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "James Canning": 1,
+      "Olga Lepsky": 2,
+      "David Adams": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Olga Lepsky": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Olga Lepsky": 3
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Ayat Hatem": 1,
+      "Krishnan Seetharaman": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Ayat Hatem": 1,
+      "David Adams": 2
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Yelena Rykalova": 2
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "David Adams": 2,
+      "Yelena Rykalova": 1
+    }
+  ]
+]

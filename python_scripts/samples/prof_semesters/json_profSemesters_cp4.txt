@@ -1,0 +1,211 @@
+[
+  [
+    "Fall 2000",
+    {
+      "Robert Lechner": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "Robert Lechner": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "John Sieg Jr": 2
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "John Sieg Jr": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "John Sieg Jr": 2
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "John Sieg Jr": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "John Sieg Jr": 2,
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "John Sieg Jr": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "John Sieg Jr": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "Li Xu": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Li Xu": 2
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Li Xu": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "Li Xu": 1
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Li Xu": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Gary Livingston": 1
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Li Xu": 2
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Xinwen Fu": 1
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Marc Chiarini": 2
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Xinwen Fu": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Xinwen Fu": 2
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Xinwen Fu": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Xinwen Fu": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "Fred Martin": 1,
+      "Xinwen Fu": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Fred Martin": 1,
+      "Victor Grinberg": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Ayat Hatem": 2
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Yelena Rykalova": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Yelena Rykalova": 2
+    }
+  ]
+]

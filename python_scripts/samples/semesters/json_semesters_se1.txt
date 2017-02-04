@@ -1,0 +1,266 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "8",
+      "semester": "Fall 2003",
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "0"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "22",
+      "semester": "Fall 2004",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "instructor": "Kajal Claypool",
+          "room": "OS 414",
+          "days": "TR",
+          "sessionStart": "9/7/2004",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "12:45 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "0"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "21",
+      "semester": "Fall 2005",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "instructor": "Kajal Claypool",
+          "room": "OS 415",
+          "days": "MW",
+          "sessionStart": "9/6/2005",
+          "sessionEnd": "12/22/2005",
+          "timeEnd": "2:45 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "25"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "9",
+      "semester": "Fall 2007",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "instructor": "Fred Martin",
+          "room": "OS 403",
+          "days": "MWF",
+          "sessionStart": "9/5/2007",
+          "sessionEnd": "12/21/2007",
+          "timeEnd": "10:20 AM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "30"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "15",
+      "semester": "Spring 2009",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "instructor": "Fred Martin",
+          "room": "OS 403",
+          "days": "MWF",
+          "sessionStart": "1/26/2009",
+          "sessionEnd": "5/13/2009",
+          "timeEnd": "12:20 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "30"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "9",
+      "semester": "Spring 2011",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "4:00 PM",
+          "instructor": "Roger Marshall",
+          "room": "OLS-403",
+          "days": "R",
+          "sessionStart": "1/24/2011",
+          "sessionEnd": "5/9/2011",
+          "timeEnd": "6:45 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "30"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "14",
+      "semester": "Spring 2012",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "instructor": "Sarita Hakimian",
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionStart": "1/23/2012",
+          "sessionEnd": "5/7/2012",
+          "timeEnd": "1:45 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "30"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "27",
+      "semester": "Spring 2013",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "instructor": "Sarita Hakimian",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionStart": "1/22/2013",
+          "sessionEnd": "5/1/2013",
+          "timeEnd": "11:50 AM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "30"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "14",
+      "semester": "Spring 2014",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "instructor": "Yu Cao",
+          "room": "OLS-406",
+          "days": "TR",
+          "sessionStart": "1/21/2014",
+          "sessionEnd": "5/2/2014",
+          "timeEnd": "12:15 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "49"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "44",
+      "semester": "Spring 2015",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "instructor": "Yu Cao",
+          "room": "OLS-109",
+          "days": "TR",
+          "sessionStart": "1/20/2015",
+          "sessionEnd": "5/1/2015",
+          "timeEnd": "3:15 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "49"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "41",
+      "semester": "Spring 2016",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "4:00 PM",
+          "instructor": "Michael McGonagle",
+          "room": "OLS-404",
+          "days": "TR",
+          "sessionStart": "1/19/2016",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "5:15 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "40"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "42",
+      "semester": "Spring 2017",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "3:30 PM",
+          "instructor": "Yu Cao",
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionStart": "1/17/2017",
+          "sessionEnd": "5/6/2017",
+          "timeEnd": "4:45 PM"
+        }
+      ],
+      "honors": "No",
+      "course": "Software Engineering I",
+      "enrollMax": "45"
+    }
+  ]
+]

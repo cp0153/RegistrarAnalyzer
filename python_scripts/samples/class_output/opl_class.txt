@@ -1,0 +1,1131 @@
+
+> You chose to scrape the course Organization of Programming Languages
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   37
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Stuart Smith
+> Room:           OS 412
+
+>> Parsing Course Section 2
+> Enrolled Now:   26
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     7:00 PM
+> Time End:       10:00 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     TBA
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 27.568 seconds
+> 1 Semesters Parsed in 27.568 seconds.
+> 33 Semesters Left, should take around 909.731 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   38
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     Raymond Gumb
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 13.37 seconds
+> 2 Semesters Parsed in 40.938 seconds.
+> 32 Semesters Left, should take around 655.009 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   26
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Raymond Gumb
+> Room:           OS 408
+
+>> Parsing Course Section 2
+> Enrolled Now:   32
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Raymond Gumb
+> Room:           OS 408
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 4
+> Enrolled Now:   13
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 15.563 seconds
+> 3 Semesters Parsed in 56.501 seconds.
+> 31 Semesters Left, should take around 583.841 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   28
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     Raymond Gumb
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   16
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     TBA
+> Room:           OS 413
+
+>> Parsing Course Section 3
+> Enrolled Now:   12
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 12.642 seconds
+> 4 Semesters Parsed in 69.143 seconds.
+> 30 Semesters Left, should take around 518.573 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   20
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Marian Williams
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   23
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Holly Yanco
+> Room:           OS 415
+
+>> Parsing Course Section 3
+> Enrolled Now:   22
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 14.007 seconds
+> 5 Semesters Parsed in 83.15 seconds.
+> 29 Semesters Left, should take around 482.271 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   36
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Marian Williams
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   19
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     TBA
+> Room:           OS 404
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 13.35 seconds
+> 6 Semesters Parsed in 96.5 seconds.
+> 28 Semesters Left, should take around 450.333 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   26
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     Holly Yanco
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   31
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:15 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     David Martin Jr
+> Room:           OS 412
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     TBA
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 16.528 seconds
+> 7 Semesters Parsed in 113.028 seconds.
+> 27 Semesters Left, should take around 435.965 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   38
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/20/2004
+> Session End:    5/19/2004
+> Instructor:     Holly Yanco
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 11.592 seconds
+> 8 Semesters Parsed in 124.62 seconds.
+> 26 Semesters Left, should take around 405.013 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Allyn Dimock
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   23
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Holly Yanco
+> Room:           OS 415
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/7/2004
+> Session End:    12/20/2004
+> Instructor:     TBA
+> Room:           OS 413
+
+>> Time Info:
+> This semester took 11.724 seconds
+> 9 Semesters Parsed in 136.344 seconds.
+> 25 Semesters Left, should take around 378.733 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   30
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Allyn Dimock
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 15.457 seconds
+> 10 Semesters Parsed in 151.801 seconds.
+> 24 Semesters Left, should take around 364.322 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Parsing Course Section 2
+> Enrolled Now:   22
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Holly Yanco
+> Room:           OS 415
+
+>> Parsing Course Section 3
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 13.252 seconds
+> 11 Semesters Parsed in 165.053 seconds.
+> 23 Semesters Left, should take around 345.111 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   19
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 13.226 seconds
+> 12 Semesters Parsed in 178.279 seconds.
+> 22 Semesters Left, should take around 326.844 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Holly Yanco
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.957 seconds
+> 13 Semesters Parsed in 190.236 seconds.
+> 21 Semesters Left, should take around 307.304 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 13.238 seconds
+> 14 Semesters Parsed in 203.474 seconds.
+> 20 Semesters Left, should take around 290.677 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   22
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 18.061 seconds
+> 15 Semesters Parsed in 221.535 seconds.
+> 19 Semesters Left, should take around 280.611 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   14
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Holly Yanco
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 10.841 seconds
+> 16 Semesters Parsed in 232.376 seconds.
+> 18 Semesters Left, should take around 261.423 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Parsing Course Section 2
+> Enrolled Now:   5
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 12.526 seconds
+> 17 Semesters Parsed in 244.902 seconds.
+> 17 Semesters Left, should take around 244.902 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   15
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Fred Martin
+> Room:           OS 403
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Fred Martin
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 16.803 seconds
+> 18 Semesters Parsed in 261.704 seconds.
+> 16 Semesters Left, should take around 232.626 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   20
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Parsing Course Section 2
+> Enrolled Now:   4
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 14.221 seconds
+> 19 Semesters Parsed in 275.925 seconds.
+> 15 Semesters Left, should take around 217.836 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 13.391 seconds
+> 20 Semesters Parsed in 289.316 seconds.
+> 14 Semesters Left, should take around 202.521 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   28
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Holly Yanco
+> Room:           OLS-404
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Holly Yanco
+> Room:           OLS-404
+
+>> Time Info:
+> This semester took 12.018 seconds
+> 21 Semesters Parsed in 301.334 seconds.
+> 13 Semesters Left, should take around 186.54 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   22
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Fred Martin
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.342 seconds
+> 22 Semesters Parsed in 314.677 seconds.
+> 12 Semesters Left, should take around 171.642 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   35
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Holly Yanco
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 13.68 seconds
+> 23 Semesters Parsed in 328.357 seconds.
+> 11 Semesters Left, should take around 157.04 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Mark Sheldon
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.529 seconds
+> 24 Semesters Parsed in 341.885 seconds.
+> 10 Semesters Left, should take around 142.452 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   40
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Anne Mulhern
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 14.583 seconds
+> 25 Semesters Parsed in 356.468 seconds.
+> 9 Semesters Left, should take around 128.329 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   34
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Anne Mulhern
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.012 seconds
+> 26 Semesters Parsed in 369.48 seconds.
+> 8 Semesters Left, should take around 113.686 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   42
+> Enrollment Max: 45
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Holly Yanco
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 8.815 seconds
+> 27 Semesters Parsed in 378.295 seconds.
+> 7 Semesters Left, should take around 98.076 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   40
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     TBA
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 8.126 seconds
+> 28 Semesters Parsed in 386.421 seconds.
+> 6 Semesters Left, should take around 82.805 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   82
+> Enrollment Max: 85
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Fred Martin
+> Room:           OLS-503
+
+>> Time Info:
+> This semester took 7.099 seconds
+> 29 Semesters Parsed in 393.52 seconds.
+> 5 Semesters Left, should take around 67.848 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   65
+> Enrollment Max: 65
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Mark Sherman
+> Room:           OLS-102
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 5.895 seconds
+> 30 Semesters Parsed in 399.416 seconds.
+> 4 Semesters Left, should take around 53.255 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Holly Yanco
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 5.709 seconds
+> 31 Semesters Parsed in 405.125 seconds.
+> 3 Semesters Left, should take around 39.206 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Fred Martin
+> Room:           OLS-109
+
+>> Parsing Course Section 2
+> Enrolled Now:   26
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Mark Sherman
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 5.5 seconds
+> 32 Semesters Parsed in 410.624 seconds.
+> 2 Semesters Left, should take around 25.664 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   52
+> Enrollment Max: 63
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Jay McCarthy
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 5.579 seconds
+> 33 Semesters Parsed in 416.203 seconds.
+> 1 Semesters Left, should take around 12.612 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   96
+> Enrollment Max: 100
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Fred Martin
+> Room:           OLS-503
+
+>> Parsing Course Section 2
+> Enrolled Now:   33
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Jay McCarthy
+> Room:           OLS-401
+
+>>> Now writing out Fall 2000 through Spring 2017 for Organization of Programming Languages
+>> Writing professor count for semester Fall 2000
+> Stuart Smith: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2001
+> Raymond Gumb: 1
+>> Writing professor count for semester Fall 2001
+> Raymond Gumb: 2
+>> Writing professor count for semester Spring 2002
+> Raymond Gumb: 1
+> TBA: 2
+>> Writing professor count for semester Fall 2002
+> Holly Yanco: 1
+> Marian Williams: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2003
+> Marian Williams: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2003
+> David Martin Jr: 1
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2004
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2004
+> Allyn Dimock: 1
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2005
+> Allyn Dimock: 1
+>> Writing professor count for semester Fall 2005
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2006
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2006
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2007
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2007
+> Holly Yanco: 2
+>> Writing professor count for semester Spring 2008
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2008
+> Fred Martin: 2
+>> Writing professor count for semester Spring 2009
+> Fred Martin: 2
+>> Writing professor count for semester Fall 2009
+> Fred Martin: 2
+>> Writing professor count for semester Spring 2010
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2010
+> Holly Yanco: 2
+>> Writing professor count for semester Spring 2011
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2011
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2012
+> Mark Sheldon: 1
+>> Writing professor count for semester Fall 2012
+> Anne Mulhern: 1
+>> Writing professor count for semester Spring 2013
+> Anne Mulhern: 1
+>> Writing professor count for semester Fall 2013
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2014
+> TBA: 1
+>> Writing professor count for semester Fall 2014
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2015
+> Mark Sherman: 1
+>> Writing professor count for semester Fall 2015
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2016
+> Fred Martin: 1
+> Mark Sherman: 1
+>> Writing professor count for semester Fall 2016
+> Jay McCarthy: 1
+>> Writing professor count for semester Spring 2017
+> Fred Martin: 1
+> Jay McCarthy: 1
+
+>>> Writing Professor Totals for Organization of Programming Languages for semesters Fall 2000 through Spring 2017
+> Marian Williams: 2
+> Allyn Dimock: 2
+> Mark Sherman: 2
+> Fred Martin: 10
+> Stuart Smith: 1
+> David Martin Jr: 1
+> Mark Sheldon: 1
+> TBA: 9
+> Holly Yanco: 17
+> Jay McCarthy: 2
+> Raymond Gumb: 4
+> Anne Mulhern: 2
+
+>>> All of this took 423.654 seconds.

@@ -1,0 +1,316 @@
+[
+  [],
+  [
+    {
+      "enrollNow": "22",
+      "semester": "Spring 2001",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/25/2001",
+          "instructor": "Robert Lechner",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "room": "OS 414",
+          "timeStart": "1:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "27",
+      "semester": "Spring 2002",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/10/2002",
+          "instructor": "John Sieg Jr",
+          "timeEnd": "1:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "room": "OS 415",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "32",
+      "semester": "Spring 2003",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "sessionEnd": "5/17/2003",
+          "instructor": "John Sieg Jr",
+          "timeEnd": "1:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "room": "OS 414",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "28",
+      "semester": "Spring 2004",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "sessionEnd": "5/19/2004",
+          "instructor": "John Sieg Jr",
+          "timeEnd": "1:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "room": "OS 415",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "30",
+      "semester": "Spring 2005",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/21/2005",
+          "instructor": "John Sieg Jr",
+          "timeEnd": "1:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/21/2005",
+          "room": "OS 415",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "15",
+      "semester": "Spring 2006",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/20/2006",
+          "instructor": "Cindy Chen",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/24/2006",
+          "room": "OS 401",
+          "timeStart": "1:30 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "6",
+      "semester": "Spring 2007",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/18/2007",
+          "instructor": "Cindy Chen",
+          "timeEnd": "2:15 PM",
+          "days": "TR",
+          "sessionStart": "1/23/2007",
+          "room": "OS 404",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "7",
+      "semester": "Spring 2008",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "sessionEnd": "5/22/2008",
+          "instructor": "Cindy Chen",
+          "timeEnd": "12:45 PM",
+          "days": "TR",
+          "sessionStart": "1/28/2008",
+          "room": "OS 403",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "16",
+      "semester": "Spring 2010",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "sessionEnd": "5/12/2010",
+          "instructor": "Cindy Chen",
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "1/25/2010",
+          "room": "OS 402",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "31",
+      "semester": "Fall 2012",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "sessionEnd": "12/10/2012",
+          "instructor": "Tingjian Ge",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/5/2012",
+          "room": "OLS-401",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "30",
+      "semester": "Fall 2013",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "sessionEnd": "12/11/2013",
+          "instructor": "Cindy Chen",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/4/2013",
+          "room": "OLS-406",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "44",
+      "semester": "Fall 2014",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "sessionEnd": "12/10/2014",
+          "instructor": "Tingjian Ge",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/3/2014",
+          "room": "OLS-402",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "49",
+      "semester": "Fall 2015",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "sessionEnd": "12/9/2015",
+          "instructor": "Cindy Chen",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/1/2015",
+          "room": "OLS-407",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "58",
+      "semester": "Fall 2016",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "58",
+      "meetings": [
+        {
+          "sessionEnd": "12/9/2016",
+          "instructor": "Cindy Chen",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/1/2016",
+          "room": "OLS-408",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "course": "Database I"
+    }
+  ],
+  []
+]

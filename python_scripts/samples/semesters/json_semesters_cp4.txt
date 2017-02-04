@@ -1,0 +1,1020 @@
+[
+  [
+    {
+      "enrollNow": "17",
+      "semester": "Fall 2000",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "9/6/2000",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 415",
+          "instructor": "Robert Lechner",
+          "sessionEnd": "12/19/2000"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "1",
+      "semester": "Fall 2000",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "9/6/2000",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 415",
+          "instructor": "TBA",
+          "sessionEnd": "12/19/2000"
+        }
+      ],
+      "enrollMax": "10",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "54",
+      "semester": "Spring 2001",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "sessionStart": "1/30/2001",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "room": "OS 412",
+          "instructor": "Robert Lechner",
+          "sessionEnd": "5/25/2001"
+        }
+      ],
+      "enrollMax": "50",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "32",
+      "semester": "Fall 2001",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "sessionStart": "9/5/2001",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/22/2001"
+        }
+      ],
+      "enrollMax": "30",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "1",
+      "semester": "Fall 2001",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "sessionStart": "9/5/2001",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/22/2001"
+        }
+      ],
+      "enrollMax": "10",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "42",
+      "semester": "Spring 2002",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/23/2002",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "5/10/2002"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "39",
+      "semester": "Fall 2002",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "sessionStart": "9/3/2002",
+          "days": "MWF",
+          "timeEnd": "1:20 PM",
+          "room": "OS 414",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/21/2002"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "3",
+      "semester": "Fall 2002",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "sessionStart": "9/3/2002",
+          "days": "MWF",
+          "timeEnd": "1:20 PM",
+          "room": "OS 414",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/21/2002"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "33",
+      "semester": "Spring 2003",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/22/2003",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "5/17/2003"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "19",
+      "semester": "Spring 2003",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "1/22/2003",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 410",
+          "instructor": "TBA",
+          "sessionEnd": "5/17/2003"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "25",
+      "semester": "Fall 2003",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/2/2003",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/20/2003"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "17",
+      "semester": "Fall 2003",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "9/2/2003",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 415",
+          "instructor": "William Moloney Jr",
+          "sessionEnd": "12/20/2003"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "1",
+      "semester": "Fall 2003",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/2/2003",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/20/2003"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "34",
+      "semester": "Spring 2004",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/20/2004",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "5/19/2004"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "25",
+      "semester": "Fall 2004",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/7/2004",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/22/2004"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "2",
+      "semester": "Fall 2004",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/7/2004",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "instructor": "John Sieg Jr",
+          "sessionEnd": "12/22/2004"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "26",
+      "semester": "Spring 2005",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "sessionStart": "1/21/2005",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "room": "OS 415",
+          "instructor": "Li Xu",
+          "sessionEnd": "5/21/2005"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "21",
+      "semester": "Fall 2005",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/6/2005",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "instructor": "Li Xu",
+          "sessionEnd": "12/22/2005"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "2",
+      "semester": "Fall 2005",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/6/2005",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "instructor": "Li Xu",
+          "sessionEnd": "12/22/2005"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "25",
+      "semester": "Spring 2006",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/24/2006",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 401",
+          "instructor": "Li Xu",
+          "sessionEnd": "5/20/2006"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "5",
+      "semester": "Fall 2006",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "sessionStart": "9/5/2006",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "room": "OS 403",
+          "instructor": "William Moloney Jr",
+          "sessionEnd": "12/22/2006"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "30",
+      "semester": "Spring 2007",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "1/23/2007",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 401",
+          "instructor": "William Moloney Jr",
+          "sessionEnd": "5/18/2007"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "7",
+      "semester": "Fall 2007",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "sessionStart": "9/5/2007",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "room": "OS 219",
+          "instructor": "Li Xu",
+          "sessionEnd": "12/21/2007"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "32",
+      "semester": "Spring 2008",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/28/2008",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 402",
+          "instructor": "Li Xu",
+          "sessionEnd": "5/22/2008"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "8",
+      "semester": "Fall 2008",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "sessionStart": "9/3/2008",
+          "days": "TR",
+          "timeEnd": "2:15 PM",
+          "room": "OS 402",
+          "instructor": "Gary Livingston",
+          "sessionEnd": "12/12/2008"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "29",
+      "semester": "Spring 2009",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/26/2009",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 401",
+          "instructor": "Li Xu",
+          "sessionEnd": "5/13/2009"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "1",
+      "semester": "Spring 2009",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/26/2009",
+          "days": "MWF",
+          "timeEnd": "11:20 AM",
+          "room": "OS 401",
+          "instructor": "Li Xu",
+          "sessionEnd": "5/13/2009"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "17",
+      "semester": "Fall 2009",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "sessionStart": "9/2/2009",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "room": "OS 402",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "12/15/2009"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "24",
+      "semester": "Spring 2010",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/25/2010",
+          "days": "TR",
+          "timeEnd": "1:45 PM",
+          "room": "OS 401",
+          "instructor": "Marc Chiarini",
+          "sessionEnd": "5/12/2010"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "2",
+      "semester": "Spring 2010",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/25/2010",
+          "days": "TR",
+          "timeEnd": "1:45 PM",
+          "room": "OS 401",
+          "instructor": "Marc Chiarini",
+          "sessionEnd": "5/12/2010"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "24",
+      "semester": "Fall 2010",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "sessionStart": "9/1/2010",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-402",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "12/10/2010"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "1",
+      "semester": "Fall 2010",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "sessionStart": "9/1/2010",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-402",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "12/10/2010"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "31",
+      "semester": "Spring 2011",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/24/2011",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-401",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "5/9/2011"
+        }
+      ],
+      "enrollMax": "44",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "4",
+      "semester": "Spring 2011",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/24/2011",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-401",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "5/9/2011"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "21",
+      "semester": "Fall 2011",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "sessionStart": "9/1/2011",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "room": "OLS-402",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "12/12/2011"
+        }
+      ],
+      "enrollMax": "30",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "41",
+      "semester": "Spring 2012",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/23/2012",
+          "days": "TR",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "instructor": "Jesse Heines",
+          "sessionEnd": "5/7/2012"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "27",
+      "semester": "Fall 2012",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/5/2012",
+          "days": "TR",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-402",
+          "instructor": "Jesse Heines",
+          "sessionEnd": "12/10/2012"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "50",
+      "semester": "Spring 2013",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "3:30 PM",
+          "sessionStart": "1/22/2013",
+          "days": "TR",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-408",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "5/1/2013"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "49",
+      "semester": "Fall 2013",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/4/2013",
+          "days": "TR",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-402",
+          "instructor": "Jesse Heines",
+          "sessionEnd": "12/11/2013"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "50",
+      "semester": "Spring 2014",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "3:30 PM",
+          "sessionStart": "1/21/2014",
+          "days": "TR",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-401",
+          "instructor": "Xinwen Fu",
+          "sessionEnd": "5/2/2014"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "34",
+      "semester": "Spring 2014",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/21/2014",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-402",
+          "instructor": "Fred Martin",
+          "sessionEnd": "5/2/2014"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "49",
+      "semester": "Fall 2014",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/3/2014",
+          "days": "TR",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-109",
+          "instructor": "Jesse Heines",
+          "sessionEnd": "12/10/2014"
+        }
+      ],
+      "enrollMax": "50",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "53",
+      "semester": "Spring 2015",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/20/2015",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-408",
+          "instructor": "Fred Martin",
+          "sessionEnd": "5/1/2015"
+        }
+      ],
+      "enrollMax": "51",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "40",
+      "semester": "Spring 2015",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/20/2015",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-311",
+          "instructor": "Victor Grinberg",
+          "sessionEnd": "5/1/2015"
+        }
+      ],
+      "enrollMax": "40",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "58",
+      "semester": "Fall 2015",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/1/2015",
+          "days": "TR",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-109",
+          "instructor": "Jesse Heines",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "51",
+      "semester": "Spring 2016",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "sessionStart": "1/19/2016",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-503",
+          "instructor": "Ayat Hatem",
+          "sessionEnd": "5/7/2016"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "51",
+      "semester": "Spring 2016",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/19/2016",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-408",
+          "instructor": "Ayat Hatem",
+          "sessionEnd": "5/7/2016"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "70",
+      "semester": "Fall 2016",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "sessionStart": "9/1/2016",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "room": "OLS-503",
+          "instructor": "Yelena Rykalova",
+          "sessionEnd": "12/9/2016"
+        }
+      ],
+      "enrollMax": "70",
+      "course": "Computing IV"
+    }
+  ],
+  [
+    {
+      "enrollNow": "52",
+      "semester": "Spring 2017",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "sessionStart": "1/17/2017",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-408",
+          "instructor": "Yelena Rykalova",
+          "sessionEnd": "5/6/2017"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing IV"
+    },
+    {
+      "enrollNow": "44",
+      "semester": "Spring 2017",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "sessionStart": "1/17/2017",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-102",
+          "instructor": "Yelena Rykalova",
+          "sessionEnd": "5/6/2017"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing IV"
+    }
+  ]
+]

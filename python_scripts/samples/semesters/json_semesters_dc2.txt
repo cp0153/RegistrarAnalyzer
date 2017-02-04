@@ -1,0 +1,276 @@
+[
+  [],
+  [
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "0",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "sessionEnd": "5/25/2001",
+          "timeStart": "5:30 PM",
+          "days": "T",
+          "room": "OS 415",
+          "timeEnd": "8:20 PM"
+        }
+      ],
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "13",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "instructor": "Struan Robertson",
+          "sessionEnd": "5/10/2002",
+          "timeStart": "2:30 PM",
+          "days": "W",
+          "room": "OS 415",
+          "timeEnd": "4:50 PM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "5",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2003",
+          "instructor": "Struan Robertson",
+          "sessionEnd": "5/17/2003",
+          "timeStart": "2:30 PM",
+          "days": "W",
+          "room": "OS 415",
+          "timeEnd": "4:50 PM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "7",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2004",
+          "instructor": "Kary Robertson",
+          "sessionEnd": "5/19/2004",
+          "timeStart": "2:30 PM",
+          "days": "W",
+          "room": "OS 414",
+          "timeEnd": "4:50 PM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2005",
+      "enrollNow": "4",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2005",
+          "instructor": "Thomas Costello",
+          "sessionEnd": "5/21/2005",
+          "timeStart": "2:30 PM",
+          "days": "T",
+          "room": "OS 414",
+          "timeEnd": "4:50 PM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2006",
+      "enrollNow": "5",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/24/2006",
+          "instructor": "TBA",
+          "sessionEnd": "5/20/2006",
+          "timeStart": "Unknown",
+          "days": "Unknown",
+          "room": "OS 402",
+          "timeEnd": "Unknown"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2007",
+      "enrollNow": "3",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2007",
+          "instructor": "Kary Robertson",
+          "sessionEnd": "5/18/2007",
+          "timeStart": "2:30 PM",
+          "days": "W",
+          "room": "OS 404",
+          "timeEnd": "5:00 PM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Spring 2008",
+      "enrollNow": "4",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/28/2008",
+          "instructor": "Benyuan Liu",
+          "sessionEnd": "5/22/2008",
+          "timeStart": "10:00 AM",
+          "days": "TR",
+          "room": "OS 404",
+          "timeEnd": "11:15 AM"
+        }
+      ],
+      "enrollMax": "20",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Spring 2010",
+      "enrollNow": "10",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/25/2010",
+          "instructor": "Guanling Chen",
+          "sessionEnd": "5/12/2010",
+          "timeStart": "12:00 PM",
+          "days": "MWF",
+          "room": "OS 401",
+          "timeEnd": "12:50 PM"
+        }
+      ],
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Spring 2012",
+      "enrollNow": "10",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2012",
+          "instructor": "Guanling Chen",
+          "sessionEnd": "5/7/2012",
+          "timeStart": "5:30 PM",
+          "days": "M",
+          "room": "OLS-405",
+          "timeEnd": "8:15 PM"
+        }
+      ],
+      "enrollMax": "19",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Spring 2014",
+      "enrollNow": "8",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2014",
+          "instructor": "Guanling Chen",
+          "sessionEnd": "5/2/2014",
+          "timeStart": "2:00 PM",
+          "days": "TR",
+          "room": "OLS-406",
+          "timeEnd": "3:15 PM"
+        }
+      ],
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "16",
+      "course": "Data Communications II",
+      "meetings": [
+        {
+          "sessionStart": "1/19/2016",
+          "instructor": "Guanling Chen",
+          "sessionEnd": "5/7/2016",
+          "timeStart": "12:30 PM",
+          "days": "TR",
+          "room": "OLS-406",
+          "timeEnd": "1:45 PM"
+        }
+      ],
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  []
+]

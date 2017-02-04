@@ -1,0 +1,472 @@
+
+> You chose to scrape the course Software Engineering II
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 22.681 seconds
+> 1 Semesters Parsed in 22.681 seconds.
+> 33 Semesters Left, should take around 748.458 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 12.575 seconds
+> 2 Semesters Parsed in 35.256 seconds.
+> 32 Semesters Left, should take around 564.093 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 11.598 seconds
+> 3 Semesters Parsed in 46.854 seconds.
+> 31 Semesters Left, should take around 484.156 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 14.246 seconds
+> 4 Semesters Parsed in 61.1 seconds.
+> 30 Semesters Left, should take around 458.25 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 13.681 seconds
+> 5 Semesters Parsed in 74.781 seconds.
+> 29 Semesters Left, should take around 433.729 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Time Info:
+> This semester took 14.891 seconds
+> 6 Semesters Parsed in 89.672 seconds.
+> 28 Semesters Left, should take around 418.47 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 11.9 seconds
+> 7 Semesters Parsed in 101.572 seconds.
+> 27 Semesters Left, should take around 391.777 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     Kajal Claypool
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 6.527 seconds
+> 8 Semesters Parsed in 108.098 seconds.
+> 26 Semesters Left, should take around 351.32 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 10.777 seconds
+> 9 Semesters Parsed in 118.876 seconds.
+> 25 Semesters Left, should take around 330.21 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   10
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Kajal Claypool
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 14.802 seconds
+> 10 Semesters Parsed in 133.678 seconds.
+> 24 Semesters Left, should take around 320.827 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 10.727 seconds
+> 11 Semesters Parsed in 144.405 seconds.
+> 23 Semesters Left, should take around 301.938 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   15
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Kajal Claypool
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.317 seconds
+> 12 Semesters Parsed in 155.722 seconds.
+> 22 Semesters Left, should take around 285.49 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 9.843 seconds
+> 13 Semesters Parsed in 165.565 seconds.
+> 21 Semesters Left, should take around 267.451 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Time Info:
+> This semester took 9.148 seconds
+> 14 Semesters Parsed in 174.713 seconds.
+> 20 Semesters Left, should take around 249.59 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 11.664 seconds
+> 15 Semesters Parsed in 186.377 seconds.
+> 19 Semesters Left, should take around 236.078 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 14.587 seconds
+> 16 Semesters Parsed in 200.964 seconds.
+> 18 Semesters Left, should take around 226.085 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 11.866 seconds
+> 17 Semesters Parsed in 212.83 seconds.
+> 17 Semesters Left, should take around 212.83 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 11.595 seconds
+> 18 Semesters Parsed in 224.425 seconds.
+> 16 Semesters Left, should take around 199.489 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   10
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     George Grinstein
+> Room:           OS210A
+
+>> Time Info:
+> This semester took 9.28 seconds
+> 19 Semesters Parsed in 233.705 seconds.
+> 15 Semesters Left, should take around 184.504 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 8.983 seconds
+> 20 Semesters Parsed in 242.688 seconds.
+> 14 Semesters Left, should take around 169.882 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 11.008 seconds
+> 21 Semesters Parsed in 253.696 seconds.
+> 13 Semesters Left, should take around 157.05 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.585 seconds
+> 22 Semesters Parsed in 265.281 seconds.
+> 12 Semesters Left, should take around 144.699 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Fred Martin
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 9.279 seconds
+> 23 Semesters Parsed in 274.56 seconds.
+> 11 Semesters Left, should take around 131.311 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 8.778 seconds
+> 24 Semesters Parsed in 283.338 seconds.
+> 10 Semesters Left, should take around 118.058 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     2:00 PM
+> Time End:       2:50 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Sarita Hakimian
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 10.888 seconds
+> 25 Semesters Parsed in 294.227 seconds.
+> 9 Semesters Left, should take around 105.922 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 12.943 seconds
+> 26 Semesters Parsed in 307.169 seconds.
+> 8 Semesters Left, should take around 94.514 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   11
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     4:00 PM
+> Time End:       4:50 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Michael McGonagle
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 9.993 seconds
+> 27 Semesters Parsed in 317.162 seconds.
+> 7 Semesters Left, should take around 82.227 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 8.614 seconds
+> 28 Semesters Parsed in 325.776 seconds.
+> 6 Semesters Left, should take around 69.809 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Yu Cao
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 13.008 seconds
+> 29 Semesters Parsed in 338.784 seconds.
+> 5 Semesters Left, should take around 58.411 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 11.491 seconds
+> 30 Semesters Parsed in 350.275 seconds.
+> 4 Semesters Left, should take around 46.703 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Yu Cao
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 8.964 seconds
+> 31 Semesters Parsed in 359.239 seconds.
+> 3 Semesters Left, should take around 34.765 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 9.348 seconds
+> 32 Semesters Parsed in 368.587 seconds.
+> 2 Semesters Left, should take around 23.037 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   19
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Yu Cao
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 9.569 seconds
+> 33 Semesters Parsed in 378.157 seconds.
+> 1 Semesters Left, should take around 11.459 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Software Engineering II
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+> Kajal Claypool: 1
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+> Kajal Claypool: 1
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+> Kajal Claypool: 1
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+> George Grinstein: 1
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+> Sarita Hakimian: 1
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+> Michael McGonagle: 1
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+> Yu Cao: 1
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+> Yu Cao: 1
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+> Yu Cao: 1
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Software Engineering II for semesters Fall 2000 through Spring 2017
+> Fred Martin: 2
+> Michael McGonagle: 1
+> George Grinstein: 1
+> Yu Cao: 3
+> Sarita Hakimian: 1
+> Kajal Claypool: 3
+
+>>> All of this took 388.142 seconds.

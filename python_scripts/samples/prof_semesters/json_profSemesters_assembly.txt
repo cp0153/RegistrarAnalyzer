@@ -1,0 +1,209 @@
+[
+  [
+    "Fall 2000",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Gary Livingston": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2007",
+    {}
+  ],
+  [
+    "Fall 2007",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Gary Livingston": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Gary Livingston": 2
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Haim Levkowitz": 1,
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Haim Levkowitz": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Xinwen Fu": 1,
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "David Hendrickson": 1,
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "David Hendrickson": 1,
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "David Hendrickson": 1,
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Byung Kim": 2
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Byung Kim": 1
+    }
+  ]
+]

@@ -1,0 +1,221 @@
+[
+  [
+    "Fall 2000",
+    {
+      "Karen Daniels": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "Karen Daniels": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "Karen Daniels": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "Karen Daniels": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "Karen Daniels": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "Thomas Costello": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "TBA": 2
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "TBA": 2
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "TBA": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "Thomas Costello": 1,
+      "Mikhail Zelikov": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Karen Daniels": 1,
+      "Mikhail Zelikov": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "Karen Daniels": 1,
+      "Mikhail Zelikov": 1
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "Jose Annunziato": 1,
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "Jose Annunziato": 1,
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Benyuan Liu": 1,
+      "Aparna Mahadev": 1
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Cindy Chen": 1,
+      "Aparna Mahadev": 1
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Roger Marshall": 1,
+      "Karen Daniels": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Benyuan Liu": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Benyuan Liu": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Benyuan Liu": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Benyuan Liu": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Benyuan Liu": 3
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Sirong Lin": 2
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Benyuan Liu": 1,
+      "Sirong Lin": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Sirong Lin": 1
+    }
+  ]
+]

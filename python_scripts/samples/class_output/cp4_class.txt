@@ -1,0 +1,1052 @@
+
+> You chose to scrape the course Computing IV
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   17
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Robert Lechner
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     TBA
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 25.082 seconds
+> 1 Semesters Parsed in 25.082 seconds.
+> 33 Semesters Left, should take around 827.717 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   54
+> Enrollment Max: 50
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     Robert Lechner
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 12.245 seconds
+> 2 Semesters Parsed in 37.327 seconds.
+> 32 Semesters Left, should take around 597.236 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   32
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 7.594 seconds
+> 3 Semesters Parsed in 44.922 seconds.
+> 31 Semesters Left, should take around 464.19 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   42
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 11.055 seconds
+> 4 Semesters Parsed in 55.977 seconds.
+> 30 Semesters Left, should take around 419.825 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   39
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     John Sieg Jr
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   3
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     John Sieg Jr
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.971 seconds
+> 5 Semesters Parsed in 67.948 seconds.
+> 29 Semesters Left, should take around 394.099 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   33
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     John Sieg Jr
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   19
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 14.344 seconds
+> 6 Semesters Parsed in 82.292 seconds.
+> 28 Semesters Left, should take around 384.028 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   17
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     William Moloney Jr
+> Room:           OS 415
+
+>> Parsing Course Section 3
+> Enrolled Now:   1
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 11.156 seconds
+> 7 Semesters Parsed in 93.447 seconds.
+> 27 Semesters Left, should take around 360.44 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   34
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/20/2004
+> Session End:    5/19/2004
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 7.257 seconds
+> 8 Semesters Parsed in 100.704 seconds.
+> 26 Semesters Left, should take around 327.288 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 12.186 seconds
+> 9 Semesters Parsed in 112.89 seconds.
+> 25 Semesters Left, should take around 313.585 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   26
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Li Xu
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 11.191 seconds
+> 10 Semesters Parsed in 124.081 seconds.
+> 24 Semesters Left, should take around 297.795 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   21
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Li Xu
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Li Xu
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.57 seconds
+> 11 Semesters Parsed in 135.651 seconds.
+> 23 Semesters Left, should take around 283.634 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Li Xu
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 14.831 seconds
+> 12 Semesters Parsed in 150.482 seconds.
+> 22 Semesters Left, should take around 275.883 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Parsing Course Section 2
+> Enrolled Now:   5
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     William Moloney Jr
+> Room:           OS 403
+
+>> Parsing Course Section 3
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 15.648 seconds
+> 13 Semesters Parsed in 166.13 seconds.
+> 21 Semesters Left, should take around 268.363 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   30
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     William Moloney Jr
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 10.81 seconds
+> 14 Semesters Parsed in 176.94 seconds.
+> 20 Semesters Left, should take around 252.771 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     Li Xu
+> Room:           OS 219
+
+>> Time Info:
+> This semester took 11.624 seconds
+> 15 Semesters Parsed in 188.563 seconds.
+> 19 Semesters Left, should take around 238.847 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   32
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Li Xu
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 7.275 seconds
+> 16 Semesters Parsed in 195.839 seconds.
+> 18 Semesters Left, should take around 220.319 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Gary Livingston
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 11.192 seconds
+> 17 Semesters Parsed in 207.031 seconds.
+> 17 Semesters Left, should take around 207.031 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   29
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Li Xu
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Li Xu
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.001 seconds
+> 18 Semesters Parsed in 218.032 seconds.
+> 16 Semesters Left, should take around 193.807 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   17
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Xinwen Fu
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 15.133 seconds
+> 19 Semesters Parsed in 233.165 seconds.
+> 15 Semesters Left, should take around 184.078 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   24
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Marc Chiarini
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Marc Chiarini
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 14.599 seconds
+> 20 Semesters Parsed in 247.764 seconds.
+> 14 Semesters Left, should take around 173.435 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   24
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Xinwen Fu
+> Room:           OLS-402
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Xinwen Fu
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 11.583 seconds
+> 21 Semesters Parsed in 259.347 seconds.
+> 13 Semesters Left, should take around 160.548 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   31
+> Enrollment Max: 44
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Xinwen Fu
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   4
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Xinwen Fu
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 10.858 seconds
+> 22 Semesters Parsed in 270.205 seconds.
+> 12 Semesters Left, should take around 147.384 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   21
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Xinwen Fu
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 7.061 seconds
+> 23 Semesters Parsed in 277.266 seconds.
+> 11 Semesters Left, should take around 132.605 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   41
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Jesse Heines
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 10.927 seconds
+> 24 Semesters Parsed in 288.192 seconds.
+> 10 Semesters Left, should take around 120.08 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Jesse Heines
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 14.49 seconds
+> 25 Semesters Parsed in 302.682 seconds.
+> 9 Semesters Left, should take around 108.966 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   50
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Xinwen Fu
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 10.57 seconds
+> 26 Semesters Parsed in 313.252 seconds.
+> 8 Semesters Left, should take around 96.385 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Jesse Heines
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 11.424 seconds
+> 27 Semesters Parsed in 324.676 seconds.
+> 7 Semesters Left, should take around 84.175 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   50
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Xinwen Fu
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   34
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Fred Martin
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 10.106 seconds
+> 28 Semesters Parsed in 334.782 seconds.
+> 6 Semesters Left, should take around 71.739 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 50
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Jesse Heines
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 11.12 seconds
+> 29 Semesters Parsed in 345.903 seconds.
+> 5 Semesters Left, should take around 59.638 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   53
+> Enrollment Max: 51
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Fred Martin
+> Room:           OLS-408
+
+>> Parsing Course Section 2
+> Enrolled Now:   40
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Victor Grinberg
+> Room:           OLS-311
+
+>> Time Info:
+> This semester took 13.046 seconds
+> 30 Semesters Parsed in 358.948 seconds.
+> 4 Semesters Left, should take around 47.86 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   58
+> Enrollment Max: 60
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Jesse Heines
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 8.854 seconds
+> 31 Semesters Parsed in 367.803 seconds.
+> 3 Semesters Left, should take around 35.594 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   51
+> Enrollment Max: 55
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Ayat Hatem
+> Room:           OLS-503
+
+>> Parsing Course Section 2
+> Enrolled Now:   51
+> Enrollment Max: 55
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Ayat Hatem
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 8.099 seconds
+> 32 Semesters Parsed in 375.902 seconds.
+> 2 Semesters Left, should take around 23.494 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   70
+> Enrollment Max: 70
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Yelena Rykalova
+> Room:           OLS-503
+
+>> Time Info:
+> This semester took 9.286 seconds
+> 33 Semesters Parsed in 385.188 seconds.
+> 1 Semesters Left, should take around 11.672 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   52
+> Enrollment Max: 55
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Yelena Rykalova
+> Room:           OLS-408
+
+>> Parsing Course Section 2
+> Enrolled Now:   44
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Yelena Rykalova
+> Room:           OLS-102
+
+>>> Now writing out Fall 2000 through Spring 2017 for Computing IV
+>> Writing professor count for semester Fall 2000
+> Robert Lechner: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2001
+> Robert Lechner: 1
+>> Writing professor count for semester Fall 2001
+> John Sieg Jr: 2
+>> Writing professor count for semester Spring 2002
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2002
+> John Sieg Jr: 2
+>> Writing professor count for semester Spring 2003
+> John Sieg Jr: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2003
+> John Sieg Jr: 2
+> William Moloney Jr: 1
+>> Writing professor count for semester Spring 2004
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2004
+> John Sieg Jr: 2
+>> Writing professor count for semester Spring 2005
+> Li Xu: 1
+>> Writing professor count for semester Fall 2005
+> Li Xu: 2
+>> Writing professor count for semester Spring 2006
+> Li Xu: 1
+>> Writing professor count for semester Fall 2006
+> William Moloney Jr: 1
+>> Writing professor count for semester Spring 2007
+> William Moloney Jr: 1
+>> Writing professor count for semester Fall 2007
+> Li Xu: 1
+>> Writing professor count for semester Spring 2008
+> Li Xu: 1
+>> Writing professor count for semester Fall 2008
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2009
+> Li Xu: 2
+>> Writing professor count for semester Fall 2009
+> Xinwen Fu: 1
+>> Writing professor count for semester Spring 2010
+> Marc Chiarini: 2
+>> Writing professor count for semester Fall 2010
+> Xinwen Fu: 2
+>> Writing professor count for semester Spring 2011
+> Xinwen Fu: 2
+>> Writing professor count for semester Fall 2011
+> Xinwen Fu: 1
+>> Writing professor count for semester Spring 2012
+> Jesse Heines: 1
+>> Writing professor count for semester Fall 2012
+> Jesse Heines: 1
+>> Writing professor count for semester Spring 2013
+> Xinwen Fu: 1
+>> Writing professor count for semester Fall 2013
+> Jesse Heines: 1
+>> Writing professor count for semester Spring 2014
+> Fred Martin: 1
+> Xinwen Fu: 1
+>> Writing professor count for semester Fall 2014
+> Jesse Heines: 1
+>> Writing professor count for semester Spring 2015
+> Fred Martin: 1
+> Victor Grinberg: 1
+>> Writing professor count for semester Fall 2015
+> Jesse Heines: 1
+>> Writing professor count for semester Spring 2016
+> Ayat Hatem: 2
+>> Writing professor count for semester Fall 2016
+> Yelena Rykalova: 1
+>> Writing professor count for semester Spring 2017
+> Yelena Rykalova: 2
+
+>>> Writing Professor Totals for Computing IV for semesters Fall 2000 through Spring 2017
+> Gary Livingston: 1
+> John Sieg Jr: 11
+> Fred Martin: 2
+> Li Xu: 8
+> William Moloney Jr: 3
+> Ayat Hatem: 2
+> Xinwen Fu: 8
+> Robert Lechner: 2
+> Jesse Heines: 5
+> Victor Grinberg: 1
+> Marc Chiarini: 2
+> TBA: 2
+> Yelena Rykalova: 3
+
+>>> All of this took 395.185 seconds.

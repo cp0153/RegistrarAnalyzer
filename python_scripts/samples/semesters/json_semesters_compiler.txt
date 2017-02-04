@@ -1,0 +1,286 @@
+[
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "7:50 PM",
+          "timeStart": "5:30 PM",
+          "room": "OS 415",
+          "days": "M",
+          "sessionEnd": "12/19/2000",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2000"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "8:30 PM",
+          "timeStart": "5:30 PM",
+          "room": "OS 415",
+          "days": "M",
+          "sessionEnd": "5/25/2001",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2001"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "4:50 PM",
+          "timeStart": "2:30 PM",
+          "room": "OS 414",
+          "days": "M",
+          "sessionEnd": "12/22/2001",
+          "sessionStart": "9/5/2001",
+          "instructor": "James Canning"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "12",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2001"
+    }
+  ],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "3:45 PM",
+          "timeStart": "2:30 PM",
+          "room": "OS 415",
+          "days": "WF",
+          "sessionEnd": "12/21/2002",
+          "sessionStart": "9/3/2002",
+          "instructor": "Allyn Dimock"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "7",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2002"
+    }
+  ],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "6:30 PM",
+          "timeStart": "4:00 PM",
+          "room": "OS 311",
+          "days": "M",
+          "sessionEnd": "12/20/2003",
+          "sessionStart": "9/2/2003",
+          "instructor": "James Canning"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "7",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2003"
+    }
+  ],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "6:30 PM",
+          "timeStart": "4:00 PM",
+          "room": "OS 311",
+          "days": "M",
+          "sessionEnd": "12/22/2004",
+          "sessionStart": "9/7/2004",
+          "instructor": "Li Xu"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "2",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2004"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "timeStart": "5:30 PM",
+          "room": "OS 219",
+          "days": "W",
+          "sessionEnd": "12/22/2006",
+          "sessionStart": "9/5/2006",
+          "instructor": "Li Xu"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "5",
+      "honors": "No",
+      "enrollMax": "25",
+      "semester": "Fall 2006"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "timeStart": "5:30 PM",
+          "room": "OS 402",
+          "days": "W",
+          "sessionEnd": "12/12/2008",
+          "sessionStart": "9/3/2008",
+          "instructor": "Li Xu"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "2",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2008"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "meetings": [],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "1",
+      "honors": "No",
+      "enrollMax": "1",
+      "semester": "Fall 2010"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "12:50 PM",
+          "timeStart": "12:00 PM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "5/9/2011",
+          "sessionStart": "1/24/2011",
+          "instructor": "James Canning"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "16",
+      "honors": "No",
+      "enrollMax": "25",
+      "semester": "Spring 2011"
+    }
+  ],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "12:50 PM",
+          "timeStart": "12:00 PM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "5/7/2012",
+          "sessionStart": "1/23/2012",
+          "instructor": "James Canning"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "23",
+      "honors": "No",
+      "enrollMax": "23",
+      "semester": "Spring 2012"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "Unknown",
+          "timeStart": "Unknown",
+          "room": "FAC_TBD",
+          "days": "Unknown",
+          "sessionEnd": "12/11/2013",
+          "sessionStart": "9/4/2013",
+          "instructor": "James Canning"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "1",
+      "honors": "No",
+      "enrollMax": "10",
+      "semester": "Fall 2013"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "timeEnd": "12:15 PM",
+          "timeStart": "11:00 AM",
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "5/6/2017",
+          "sessionStart": "1/17/2017",
+          "instructor": "Jay McCarthy"
+        }
+      ],
+      "course": "Compiler Construction I",
+      "creditValue": "3 Credits",
+      "enrollNow": "18",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Spring 2017"
+    }
+  ]
+]

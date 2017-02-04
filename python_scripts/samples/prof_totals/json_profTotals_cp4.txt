@@ -1,0 +1,15 @@
+{
+  "Gary Livingston": 1,
+  "John Sieg Jr": 11,
+  "Fred Martin": 2,
+  "Li Xu": 8,
+  "William Moloney Jr": 3,
+  "Ayat Hatem": 2,
+  "Xinwen Fu": 8,
+  "Robert Lechner": 2,
+  "Jesse Heines": 5,
+  "Victor Grinberg": 1,
+  "Marc Chiarini": 2,
+  "TBA": 2,
+  "Yelena Rykalova": 3
+}

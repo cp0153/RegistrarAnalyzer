@@ -1,0 +1,7 @@
+{
+  "TBA": 2,
+  "Jay McCarthy": 1,
+  "James Canning": 5,
+  "Allyn Dimock": 1,
+  "Li Xu": 3
+}

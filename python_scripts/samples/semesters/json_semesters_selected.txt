@@ -1,0 +1,379 @@
+[
+  [
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "1",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "0",
+      "meetings": []
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "1",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "1",
+      "meetings": []
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "19",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "days": "TR",
+          "sessionStart": "1/30/2001",
+          "instructor": "Patrick Krolak",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "5/25/2001",
+          "timeEnd": "5:15 PM",
+          "room": "OS 410"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "9",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/5/2001",
+          "instructor": "William Moloney Jr",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/22/2001",
+          "timeEnd": "4:50 PM",
+          "room": "OS 413"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "0",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "days": "R",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "7:50 PM",
+          "room": "OS 410"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "1",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "15",
+      "meetings": []
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/3/2002",
+          "instructor": "William Moloney Jr",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "5:00 PM",
+          "room": "OS 414"
+        }
+      ]
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Fall 2004",
+      "enrollNow": "0",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "days": "TR",
+          "sessionStart": "9/7/2004",
+          "instructor": "John O'Callahan",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "4:45 PM",
+          "room": "OS 415"
+        }
+      ]
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "7",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "20",
+      "meetings": [
+        {
+          "days": "TR",
+          "sessionStart": "9/5/2012",
+          "instructor": "Xinwen Fu",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "12/10/2012",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-401"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "1",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "20",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/5/2012",
+          "instructor": "Karen Daniels",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/10/2012",
+          "timeEnd": "8:00 PM",
+          "room": "OLS-401"
+        }
+      ]
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "2",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "20",
+      "meetings": [
+        {
+          "days": "R",
+          "sessionStart": "9/4/2013",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/11/2013",
+          "timeEnd": "6:30 PM",
+          "room": "OLS-404"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "2",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "10",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/4/2013",
+          "instructor": "Yu Cao",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/11/2013",
+          "timeEnd": "8:20 PM",
+          "room": "OLS-401"
+        }
+      ]
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "2",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "20",
+      "meetings": [
+        {
+          "days": "R",
+          "sessionStart": "9/3/2014",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/10/2014",
+          "timeEnd": "6:30 PM",
+          "room": "OLS-103"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "4",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "10",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/3/2014",
+          "instructor": "Yu Cao",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/10/2014",
+          "timeEnd": "8:20 PM",
+          "room": "OLS-401"
+        }
+      ]
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "19",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "19",
+      "meetings": [
+        {
+          "days": "T",
+          "sessionStart": "9/1/2015",
+          "instructor": "Xinwen Fu",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/9/2015",
+          "timeEnd": "8:00 PM",
+          "room": "OLS-109"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "8",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "19",
+      "meetings": [
+        {
+          "days": "W",
+          "sessionStart": "9/1/2015",
+          "instructor": "Yu Cao",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/9/2015",
+          "timeEnd": "8:20 PM",
+          "room": "OLS-402"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "2",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "19",
+      "meetings": [
+        {
+          "days": "M",
+          "sessionStart": "1/19/2016",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "6:20 PM",
+          "room": "OLS-103"
+        }
+      ]
+    },
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "39",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "days": "TR",
+          "sessionStart": "1/19/2016",
+          "instructor": "Xinwen Fu",
+          "timeStart": "2:00 PM",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "3:15 PM",
+          "room": "OLS-404"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "2",
+      "course": "Selected Topics",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollMax": "15",
+      "meetings": [
+        {
+          "days": "M",
+          "sessionStart": "9/1/2016",
+          "instructor": "George Grinstein",
+          "timeStart": "6:30 PM",
+          "sessionEnd": "12/14/2016",
+          "timeEnd": "9:20 PM",
+          "room": "OLS-401"
+        }
+      ]
+    }
+  ],
+  []
+]

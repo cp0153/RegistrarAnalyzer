@@ -1,0 +1,172 @@
+[
+  [
+    "Fall 2000",
+    {}
+  ],
+  [
+    "Spring 2001",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {}
+  ],
+  [
+    "Spring 2002",
+    {}
+  ],
+  [
+    "Fall 2002",
+    {}
+  ],
+  [
+    "Spring 2003",
+    {}
+  ],
+  [
+    "Fall 2003",
+    {}
+  ],
+  [
+    "Spring 2004",
+    {}
+  ],
+  [
+    "Fall 2004",
+    {}
+  ],
+  [
+    "Spring 2005",
+    {}
+  ],
+  [
+    "Fall 2005",
+    {}
+  ],
+  [
+    "Spring 2006",
+    {}
+  ],
+  [
+    "Fall 2006",
+    {}
+  ],
+  [
+    "Spring 2007",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {}
+  ],
+  [
+    "Spring 2008",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {}
+  ],
+  [
+    "Spring 2009",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2009",
+    {}
+  ],
+  [
+    "Spring 2010",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Spring 2011",
+    {}
+  ],
+  [
+    "Fall 2011",
+    {
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Byung Kim": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {}
+  ],
+  [
+    "Spring 2013",
+    {
+      "Byung Kim": 1,
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {}
+  ],
+  [
+    "Spring 2014",
+    {
+      "Byung Kim": 1,
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {}
+  ],
+  [
+    "Spring 2015",
+    {
+      "Byung Kim": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Byung Kim": 1,
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Byung Kim": 1
+    }
+  ]
+]

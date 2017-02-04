@@ -1,0 +1,9 @@
+{
+  "Adam Elbirt": 7,
+  "Jay McCarthy": 1,
+  "TBA": 12,
+  "James Canning": 9,
+  "David Hendrickson": 2,
+  "Fred Martin": 7,
+  "William Moloney Jr": 24
+}

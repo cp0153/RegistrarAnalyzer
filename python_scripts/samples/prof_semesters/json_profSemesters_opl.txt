@@ -1,0 +1,218 @@
+[
+  [
+    "Fall 2000",
+    {
+      "TBA": 1,
+      "Stuart Smith": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "Raymond Gumb": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "Raymond Gumb": 2
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "TBA": 2,
+      "Raymond Gumb": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "Marian Williams": 1,
+      "TBA": 1,
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "Marian Williams": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "TBA": 1,
+      "David Martin Jr": 1,
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "TBA": 1,
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "TBA": 1,
+      "Allyn Dimock": 1,
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "Allyn Dimock": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "Holly Yanco": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Holly Yanco": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Mark Sheldon": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Anne Mulhern": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Anne Mulhern": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Mark Sherman": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Mark Sherman": 1,
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Jay McCarthy": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Jay McCarthy": 1,
+      "Fred Martin": 1
+    }
+  ]
+]

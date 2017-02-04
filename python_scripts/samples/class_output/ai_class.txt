@@ -1,0 +1,526 @@
+
+> You chose to scrape the course Artificial Intelligence
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 24.781 seconds
+> 1 Semesters Parsed in 24.781 seconds.
+> 33 Semesters Left, should take around 817.77 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 13.865 seconds
+> 2 Semesters Parsed in 38.646 seconds.
+> 32 Semesters Left, should take around 618.333 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 15.292 seconds
+> 3 Semesters Parsed in 53.938 seconds.
+> 31 Semesters Left, should take around 557.355 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     Holly Yanco
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.297 seconds
+> 4 Semesters Parsed in 65.235 seconds.
+> 30 Semesters Left, should take around 489.262 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 12.304 seconds
+> 5 Semesters Parsed in 77.539 seconds.
+> 29 Semesters Left, should take around 449.728 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   6
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Gary Livingston
+> Room:           OS 311
+
+>> Time Info:
+> This semester took 9.508 seconds
+> 6 Semesters Parsed in 87.048 seconds.
+> 28 Semesters Left, should take around 406.222 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 10.499 seconds
+> 7 Semesters Parsed in 97.546 seconds.
+> 27 Semesters Left, should take around 376.249 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/20/2004
+> Session End:    5/19/2004
+> Instructor:     Gary Livingston
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 12.827 seconds
+> 8 Semesters Parsed in 110.374 seconds.
+> 26 Semesters Left, should take around 358.714 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 11.182 seconds
+> 9 Semesters Parsed in 121.556 seconds.
+> 25 Semesters Left, should take around 337.656 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Gary Livingston
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 10.018 seconds
+> 10 Semesters Parsed in 131.574 seconds.
+> 24 Semesters Left, should take around 315.777 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 11.89 seconds
+> 11 Semesters Parsed in 143.464 seconds.
+> 23 Semesters Left, should take around 299.971 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   6
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Gary Livingston
+> Room:           OS 404
+
+>> Time Info:
+> This semester took 9.437 seconds
+> 12 Semesters Parsed in 152.901 seconds.
+> 22 Semesters Left, should take around 280.319 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 12.373 seconds
+> 13 Semesters Parsed in 165.275 seconds.
+> 21 Semesters Left, should take around 266.982 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Gary Livingston
+> Room:           OS 404
+
+>> Time Info:
+> This semester took 10.809 seconds
+> 14 Semesters Parsed in 176.083 seconds.
+> 20 Semesters Left, should take around 251.547 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 10.077 seconds
+> 15 Semesters Parsed in 186.16 seconds.
+> 19 Semesters Left, should take around 235.802 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   3
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Gary Livingston
+> Room:           OS 404
+
+>> Time Info:
+> This semester took 7.546 seconds
+> 16 Semesters Parsed in 193.706 seconds.
+> 18 Semesters Left, should take around 217.919 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   11
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Gary Livingston
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 11.253 seconds
+> 17 Semesters Parsed in 204.958 seconds.
+> 17 Semesters Left, should take around 204.958 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 14.811 seconds
+> 18 Semesters Parsed in 219.769 seconds.
+> 16 Semesters Left, should take around 195.35 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 10.706 seconds
+> 19 Semesters Parsed in 230.474 seconds.
+> 15 Semesters Left, should take around 181.953 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   4
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Roger Marshall
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 9.989 seconds
+> 20 Semesters Parsed in 240.463 seconds.
+> 14 Semesters Left, should take around 168.324 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Fred Martin
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Fred Martin
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 9.451 seconds
+> 21 Semesters Parsed in 249.914 seconds.
+> 13 Semesters Left, should take around 154.709 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 10.775 seconds
+> 22 Semesters Parsed in 260.69 seconds.
+> 12 Semesters Left, should take around 142.194 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 6
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Unknown
+> Time Start:     Unknown
+> Time End:       Unknown
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Fred Martin
+> Room:           FAC_TBD
+
+>> Time Info:
+> This semester took 14.265 seconds
+> 23 Semesters Parsed in 274.955 seconds.
+> 11 Semesters Left, should take around 131.5 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 10.671 seconds
+> 24 Semesters Parsed in 285.626 seconds.
+> 10 Semesters Left, should take around 119.011 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Fred Martin
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 13.086 seconds
+> 25 Semesters Parsed in 298.712 seconds.
+> 9 Semesters Left, should take around 107.536 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 11.947 seconds
+> 26 Semesters Parsed in 310.658 seconds.
+> 8 Semesters Left, should take around 95.587 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Time Info:
+> This semester took 6.344 seconds
+> 27 Semesters Parsed in 317.003 seconds.
+> 7 Semesters Left, should take around 82.186 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 12.974 seconds
+> 28 Semesters Parsed in 329.977 seconds.
+> 6 Semesters Left, should take around 70.709 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Fred Martin
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 13.339 seconds
+> 29 Semesters Parsed in 343.317 seconds.
+> 5 Semesters Left, should take around 59.193 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 10.818 seconds
+> 30 Semesters Parsed in 354.134 seconds.
+> 4 Semesters Left, should take around 47.218 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Time Info:
+> This semester took 7.826 seconds
+> 31 Semesters Parsed in 361.96 seconds.
+> 3 Semesters Left, should take around 35.028 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 8.981 seconds
+> 32 Semesters Parsed in 370.941 seconds.
+> 2 Semesters Left, should take around 23.184 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   37
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Fred Martin
+> Room:           OLS-102
+
+>> Time Info:
+> This semester took 9.246 seconds
+> 33 Semesters Parsed in 380.187 seconds.
+> 1 Semesters Left, should take around 11.521 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Artificial Intelligence
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2008
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+> Roger Marshall: 1
+>> Writing professor count for semester Fall 2010
+> Fred Martin: 2
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Artificial Intelligence for semesters Fall 2000 through Spring 2017
+> Holly Yanco: 1
+> Roger Marshall: 1
+> Fred Martin: 6
+> Gary Livingston: 7
+
+>>> All of this took 389.953 seconds.

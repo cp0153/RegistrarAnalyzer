@@ -1,0 +1,275 @@
+[
+  [
+    {
+      "enrollNow": "21",
+      "semester": "Fall 2000",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/6/2000",
+          "timeEnd": "9:20 AM",
+          "timeStart": "8:30 AM",
+          "days": "MWF",
+          "room": "OS 410",
+          "sessionEnd": "12/19/2000"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "14",
+      "semester": "Spring 2003",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeEnd": "12:20 PM",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "room": "OS 410",
+          "sessionEnd": "5/17/2003"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "1",
+      "semester": "Fall 2005",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/6/2005",
+          "timeEnd": "2:20 PM",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "room": "OS 414",
+          "sessionEnd": "12/22/2005"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "17",
+      "semester": "Spring 2007",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "1/23/2007",
+          "timeEnd": "11:15 AM",
+          "timeStart": "10:00 AM",
+          "days": "TR",
+          "room": "OS 311",
+          "sessionEnd": "5/18/2007"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "9",
+      "semester": "Fall 2008",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2008",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "days": "MWF",
+          "room": "OS 402",
+          "sessionEnd": "12/12/2008"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "25",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "13",
+      "semester": "Fall 2010",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/1/2010",
+          "timeEnd": "3:15 PM",
+          "timeStart": "2:00 PM",
+          "days": "TR",
+          "room": "OLS-404",
+          "sessionEnd": "12/10/2010"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    },
+    {
+      "enrollNow": "0",
+      "semester": "Fall 2010",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/1/2010",
+          "timeEnd": "3:15 PM",
+          "timeStart": "2:00 PM",
+          "days": "TR",
+          "room": "OLS-404",
+          "sessionEnd": "12/10/2010"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "honors": "Yes"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "23",
+      "semester": "Fall 2012",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2012",
+          "timeEnd": "3:15 PM",
+          "timeStart": "2:00 PM",
+          "days": "TR",
+          "room": "OLS-402",
+          "sessionEnd": "12/10/2012"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "enrollNow": "9",
+      "semester": "Spring 2014",
+      "meetings": [
+        {
+          "instructor": "Hugh Masterman",
+          "sessionStart": "1/21/2014",
+          "timeEnd": "9:20 PM",
+          "timeStart": "6:30 PM",
+          "days": "T",
+          "room": "OLS-406",
+          "sessionEnd": "5/7/2014"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "27",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "24",
+      "semester": "Spring 2015",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/20/2015",
+          "timeEnd": "8:15 PM",
+          "timeStart": "5:30 PM",
+          "days": "T",
+          "room": "OLS-109",
+          "sessionEnd": "5/1/2015"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "18",
+      "semester": "Spring 2016",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/19/2016",
+          "timeEnd": "8:15 PM",
+          "timeStart": "5:30 PM",
+          "days": "T",
+          "room": "OLS-408",
+          "sessionEnd": "5/7/2016"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "19",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollNow": "22",
+      "semester": "Spring 2017",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/17/2017",
+          "timeEnd": "8:15 PM",
+          "timeStart": "5:30 PM",
+          "days": "W",
+          "room": "OLS-405",
+          "sessionEnd": "5/6/2017"
+        }
+      ],
+      "course": "Computer Graphics I",
+      "enrollMax": "22",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ]
+]

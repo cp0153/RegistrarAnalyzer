@@ -1,0 +1,1260 @@
+
+> You chose to scrape the course Analysis of Algorithms
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   33
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Karen Daniels
+> Room:           OS 413
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> This course section has no meeting information.
+
+>> Parsing Course Section 3
+> Enrolled Now:   21
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Sa
+> Time Start:     9:00 AM
+> Time End:       12:00 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     TBA
+> Room:           OS 311
+
+>> Time Info:
+> This semester took 26.153 seconds
+> 1 Semesters Parsed in 26.153 seconds.
+> 33 Semesters Left, should take around 863.064 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   33
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     Karen Daniels
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   17
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Sa
+> Time Start:     9:00 AM
+> Time End:       12:00 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     TBA
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 13.139 seconds
+> 2 Semesters Parsed in 39.293 seconds.
+> 32 Semesters Left, should take around 628.685 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   37
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Karen Daniels
+> Room:           OS 311
+
+>> Parsing Course Section 2
+> Enrolled Now:   14
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Sa
+> Time Start:     9:00 AM
+> Time End:       12:00 PM
+> Session Start:  9/6/2001
+> Session End:    12/19/2001
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 16.29 seconds
+> 3 Semesters Parsed in 55.583 seconds.
+> 31 Semesters Left, should take around 574.354 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   3
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   40
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     Karen Daniels
+> Room:           OS 311
+
+>> Parsing Course Section 3
+> Enrolled Now:   14
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     TBA
+> Room:           OS 413
+
+>> Parsing Course Section 4
+> Enrolled Now:   9
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 12.604 seconds
+> 4 Semesters Parsed in 68.186 seconds.
+> 30 Semesters Left, should take around 511.397 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   36
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Karen Daniels
+> Room:           OS 410
+
+>> Parsing Course Section 2
+> Enrolled Now:   18
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     TBA
+> Room:           OS 407
+
+>> Time Info:
+> This semester took 14.259 seconds
+> 5 Semesters Parsed in 82.445 seconds.
+> 29 Semesters Left, should take around 478.183 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   39
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Thomas Costello
+> Room:           OS 311
+
+>> Parsing Course Section 2
+> Enrolled Now:   16
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     TBA
+> Room:           OS 406
+
+>> Time Info:
+> This semester took 12.928 seconds
+> 6 Semesters Parsed in 95.373 seconds.
+> 28 Semesters Left, should take around 445.075 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 1
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   18
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 16.557 seconds
+> 7 Semesters Parsed in 111.93 seconds.
+> 27 Semesters Left, should take around 431.73 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     TBA
+> Room:           OS 402
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   3
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   6
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     TBA
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 12.178 seconds
+> 8 Semesters Parsed in 124.108 seconds.
+> 26 Semesters Left, should take around 403.351 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/7/2004
+> Session End:    12/20/2004
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  9/7/2004
+> Session End:    12/20/2004
+> Instructor:     TBA
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 11.582 seconds
+> 9 Semesters Parsed in 135.69 seconds.
+> 25 Semesters Left, should take around 376.917 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   31
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Thomas Costello
+> Room:           OS 412
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   21
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/25/2005
+> Session End:    5/20/2005
+> Instructor:     Mikhail Zelikov
+> Room:           OS 406
+
+>> Time Info:
+> This semester took 15.247 seconds
+> 10 Semesters Parsed in 150.937 seconds.
+> 24 Semesters Left, should take around 362.25 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Karen Daniels
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 11.997 seconds
+> 11 Semesters Parsed in 162.934 seconds.
+> 23 Semesters Left, should take around 340.68 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   14
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Karen Daniels
+> Room:           OS 311
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 27
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:00 PM
+> Time End:       9:00 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Mikhail Zelikov
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 16.194 seconds
+> 12 Semesters Parsed in 179.128 seconds.
+> 22 Semesters Left, should take around 328.402 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   20
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Karen Daniels
+> Room:           OS 311
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   11
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Mikhail Zelikov
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 12.096 seconds
+> 13 Semesters Parsed in 191.224 seconds.
+> 21 Semesters Left, should take around 308.901 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   22
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Karen Daniels
+> Room:           OS 404
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 27
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Jose Annunziato
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 11.7 seconds
+> 14 Semesters Parsed in 202.924 seconds.
+> 20 Semesters Left, should take around 289.892 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     Giampiero Pecelli
+> Room:           OS 402
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     Jose Annunziato
+> Room:           OS 405
+
+>> Time Info:
+> This semester took 13.965 seconds
+> 15 Semesters Parsed in 216.889 seconds.
+> 19 Semesters Left, should take around 274.727 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Karen Daniels
+> Room:           OS 402
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 10.169 seconds
+> 16 Semesters Parsed in 227.058 seconds.
+> 18 Semesters Left, should take around 255.44 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Benyuan Liu
+> Room:           OS 401
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  9/3/2008
+> Session End:    12/22/2008
+> Instructor:     Aparna Mahadev
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 8.591 seconds
+> 17 Semesters Parsed in 235.649 seconds.
+> 17 Semesters Left, should take around 235.649 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   20
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Cindy Chen
+> Room:           OS 401
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 27
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Aparna Mahadev
+> Room:           OS 405
+
+>> Time Info:
+> This semester took 13.014 seconds
+> 18 Semesters Parsed in 248.664 seconds.
+> 16 Semesters Left, should take around 221.034 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   14
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Karen Daniels
+> Room:           OS 403
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 12.07 seconds
+> 19 Semesters Parsed in 260.734 seconds.
+> 15 Semesters Left, should take around 205.843 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   14
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Giampiero Pecelli
+> Room:           OS 402
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 2
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 11.384 seconds
+> 20 Semesters Parsed in 272.118 seconds.
+> 14 Semesters Left, should take around 190.483 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Karen Daniels
+> Room:           OLS-404
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Karen Daniels
+> Room:           OLS-404
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Roger Marshall
+> Room:           OLS-405
+
+>> Time Info:
+> This semester took 11.713 seconds
+> 21 Semesters Parsed in 283.831 seconds.
+> 13 Semesters Left, should take around 175.705 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   10
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Giampiero Pecelli
+> Room:           OLS-404
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 8.261 seconds
+> 22 Semesters Parsed in 292.091 seconds.
+> 12 Semesters Left, should take around 159.323 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   32
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Karen Daniels
+> Room:           OLS-401
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 10.509 seconds
+> 23 Semesters Parsed in 302.6 seconds.
+> 11 Semesters Left, should take around 144.722 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Benyuan Liu
+> Room:           OLS-407
+
+>> Time Info:
+> This semester took 10.821 seconds
+> 24 Semesters Parsed in 313.421 seconds.
+> 10 Semesters Left, should take around 130.592 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Benyuan Liu
+> Room:           PAS-307
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 13.539 seconds
+> 25 Semesters Parsed in 326.96 seconds.
+> 9 Semesters Left, should take around 117.706 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   26
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Karen Daniels
+> Room:           OLS-405
+
+>> Time Info:
+> This semester took 11.312 seconds
+> 26 Semesters Parsed in 338.272 seconds.
+> 8 Semesters Left, should take around 104.084 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   41
+> Enrollment Max: 45
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Benyuan Liu
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 8.181 seconds
+> 27 Semesters Parsed in 346.453 seconds.
+> 7 Semesters Left, should take around 89.821 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Karen Daniels
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 12.023 seconds
+> 28 Semesters Parsed in 358.476 seconds.
+> 6 Semesters Left, should take around 76.816 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Benyuan Liu
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 8.832 seconds
+> 29 Semesters Parsed in 367.308 seconds.
+> 5 Semesters Left, should take around 63.329 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   45
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Karen Daniels
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 7.863 seconds
+> 30 Semesters Parsed in 375.171 seconds.
+> 4 Semesters Left, should take around 50.023 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Benyuan Liu
+> Room:           OLS-408
+
+>> Parsing Course Section 2
+> Enrolled Now:   25
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     9:30 AM
+> Time End:       10:45 AM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Benyuan Liu
+> Room:           OLS-412
+
+>> Parsing Course Section 3
+> Enrolled Now:   2
+> Enrollment Max: 2
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Unknown
+> Time Start:     Unknown
+> Time End:       Unknown
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Benyuan Liu
+> Room:           FAC_TBD
+
+>> Time Info:
+> This semester took 10.022 seconds
+> 31 Semesters Parsed in 385.193 seconds.
+> 3 Semesters Left, should take around 37.277 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   36
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     2:00 PM
+> Time End:       2:50 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Sirong Lin
+> Room:           OLS-109
+
+>> Parsing Course Section 2
+> Enrolled Now:   27
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Sirong Lin
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 7.147 seconds
+> 32 Semesters Parsed in 392.34 seconds.
+> 2 Semesters Left, should take around 24.521 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   48
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Benyuan Liu
+> Room:           OLS-104
+
+>> Parsing Course Section 2
+> Enrolled Now:   33
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     2:00 PM
+> Time End:       2:50 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Sirong Lin
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 5.773 seconds
+> 33 Semesters Parsed in 398.113 seconds.
+> 1 Semesters Left, should take around 12.064 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   62
+> Enrollment Max: 70
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Sirong Lin
+> Room:           OLS-503
+
+>>> Now writing out Fall 2000 through Spring 2017 for Analysis of Algorithms
+>> Writing professor count for semester Fall 2000
+> Karen Daniels: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2001
+> Karen Daniels: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2001
+> Karen Daniels: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2002
+> Karen Daniels: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2002
+> Karen Daniels: 1
+> TBA: 1
+>> Writing professor count for semester Spring 2003
+> TBA: 1
+> Thomas Costello: 1
+>> Writing professor count for semester Fall 2003
+> TBA: 2
+>> Writing professor count for semester Spring 2004
+> TBA: 2
+>> Writing professor count for semester Fall 2004
+> TBA: 2
+>> Writing professor count for semester Spring 2005
+> Mikhail Zelikov: 1
+> Thomas Costello: 1
+>> Writing professor count for semester Fall 2005
+> Karen Daniels: 1
+>> Writing professor count for semester Spring 2006
+> Karen Daniels: 1
+> Mikhail Zelikov: 1
+>> Writing professor count for semester Fall 2006
+> Karen Daniels: 1
+> Mikhail Zelikov: 1
+>> Writing professor count for semester Spring 2007
+> Jose Annunziato: 1
+> Karen Daniels: 1
+>> Writing professor count for semester Fall 2007
+> Giampiero Pecelli: 1
+> Jose Annunziato: 1
+>> Writing professor count for semester Spring 2008
+> Karen Daniels: 1
+>> Writing professor count for semester Fall 2008
+> Aparna Mahadev: 1
+> Benyuan Liu: 1
+>> Writing professor count for semester Spring 2009
+> Aparna Mahadev: 1
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2009
+> Karen Daniels: 1
+>> Writing professor count for semester Spring 2010
+> Giampiero Pecelli: 1
+>> Writing professor count for semester Fall 2010
+> Karen Daniels: 2
+> Roger Marshall: 1
+>> Writing professor count for semester Spring 2011
+> Giampiero Pecelli: 1
+>> Writing professor count for semester Fall 2011
+> Karen Daniels: 1
+>> Writing professor count for semester Spring 2012
+> Benyuan Liu: 1
+>> Writing professor count for semester Fall 2012
+> Benyuan Liu: 1
+>> Writing professor count for semester Spring 2013
+> Karen Daniels: 1
+>> Writing professor count for semester Fall 2013
+> Benyuan Liu: 1
+>> Writing professor count for semester Spring 2014
+> Karen Daniels: 1
+>> Writing professor count for semester Fall 2014
+> Benyuan Liu: 1
+>> Writing professor count for semester Spring 2015
+> Karen Daniels: 1
+>> Writing professor count for semester Fall 2015
+> Benyuan Liu: 3
+>> Writing professor count for semester Spring 2016
+> Sirong Lin: 2
+>> Writing professor count for semester Fall 2016
+> Benyuan Liu: 1
+> Sirong Lin: 1
+>> Writing professor count for semester Spring 2017
+> Sirong Lin: 1
+
+>>> Writing Professor Totals for Analysis of Algorithms for semesters Fall 2000 through Spring 2017
+> Benyuan Liu: 9
+> Giampiero Pecelli: 3
+> Karen Daniels: 17
+> Mikhail Zelikov: 3
+> Sirong Lin: 4
+> Jose Annunziato: 2
+> Roger Marshall: 1
+> Cindy Chen: 1
+> Thomas Costello: 2
+> Aparna Mahadev: 2
+> TBA: 12
+
+>>> All of this took 406.208 seconds.

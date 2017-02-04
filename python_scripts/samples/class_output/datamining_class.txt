@@ -1,0 +1,465 @@
+
+> You chose to scrape the course Data Mining
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 24.194 seconds
+> 1 Semesters Parsed in 24.194 seconds.
+> 33 Semesters Left, should take around 798.398 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 13.947 seconds
+> 2 Semesters Parsed in 38.141 seconds.
+> 32 Semesters Left, should take around 610.261 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 13.998 seconds
+> 3 Semesters Parsed in 52.139 seconds.
+> 31 Semesters Left, should take around 538.769 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 12.734 seconds
+> 4 Semesters Parsed in 64.873 seconds.
+> 30 Semesters Left, should take around 486.55 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 11.885 seconds
+> 5 Semesters Parsed in 76.758 seconds.
+> 29 Semesters Left, should take around 445.196 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Time Info:
+> This semester took 12.334 seconds
+> 6 Semesters Parsed in 89.092 seconds.
+> 28 Semesters Left, should take around 415.763 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     Gary Livingston
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 7.701 seconds
+> 7 Semesters Parsed in 96.793 seconds.
+> 27 Semesters Left, should take around 373.343 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Time Info:
+> This semester took 12.463 seconds
+> 8 Semesters Parsed in 109.256 seconds.
+> 26 Semesters Left, should take around 355.082 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Gary Livingston
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.16 seconds
+> 9 Semesters Parsed in 120.416 seconds.
+> 25 Semesters Left, should take around 334.488 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 13.724 seconds
+> 10 Semesters Parsed in 134.14 seconds.
+> 24 Semesters Left, should take around 321.937 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Gary Livingston
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 12.44 seconds
+> 11 Semesters Parsed in 146.58 seconds.
+> 23 Semesters Left, should take around 306.486 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 8.145 seconds
+> 12 Semesters Parsed in 154.725 seconds.
+> 22 Semesters Left, should take around 283.662 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Gary Livingston
+> Room:           OS 219
+
+>> Time Info:
+> This semester took 10.237 seconds
+> 13 Semesters Parsed in 164.961 seconds.
+> 21 Semesters Left, should take around 266.476 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Time Info:
+> This semester took 10.956 seconds
+> 14 Semesters Parsed in 175.917 seconds.
+> 20 Semesters Left, should take around 251.311 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 15.075 seconds
+> 15 Semesters Parsed in 190.993 seconds.
+> 19 Semesters Left, should take around 241.924 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Time Info:
+> This semester took 10.993 seconds
+> 16 Semesters Parsed in 201.985 seconds.
+> 18 Semesters Left, should take around 227.234 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 11.843 seconds
+> 17 Semesters Parsed in 213.828 seconds.
+> 17 Semesters Left, should take around 213.828 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Gary Livingston
+> Room:           OS 404
+
+>> Time Info:
+> This semester took 6.391 seconds
+> 18 Semesters Parsed in 220.219 seconds.
+> 16 Semesters Left, should take around 195.751 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 12.074 seconds
+> 19 Semesters Parsed in 232.294 seconds.
+> 15 Semesters Left, should take around 183.39 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 13.088 seconds
+> 20 Semesters Parsed in 245.382 seconds.
+> 14 Semesters Left, should take around 171.768 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Time Info:
+> This semester took 11.101 seconds
+> 21 Semesters Parsed in 256.483 seconds.
+> 13 Semesters Left, should take around 158.775 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   6
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Cindy Chen
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 13.773 seconds
+> 22 Semesters Parsed in 270.256 seconds.
+> 12 Semesters Left, should take around 147.412 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 11.329 seconds
+> 23 Semesters Parsed in 281.585 seconds.
+> 11 Semesters Left, should take around 134.671 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 6.63 seconds
+> 24 Semesters Parsed in 288.215 seconds.
+> 10 Semesters Left, should take around 120.09 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 11.53 seconds
+> 25 Semesters Parsed in 299.744 seconds.
+> 9 Semesters Left, should take around 107.908 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 14
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Ekaterina Saenko
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 11.565 seconds
+> 26 Semesters Parsed in 311.31 seconds.
+> 8 Semesters Left, should take around 95.788 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     4:30 PM
+> Time End:       7:00 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Cindy Chen
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 10.804 seconds
+> 27 Semesters Parsed in 322.113 seconds.
+> 7 Semesters Left, should take around 83.511 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 10.326 seconds
+> 28 Semesters Parsed in 332.439 seconds.
+> 6 Semesters Left, should take around 71.237 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     4:30 PM
+> Time End:       7:00 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Cindy Chen
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 10.053 seconds
+> 29 Semesters Parsed in 342.492 seconds.
+> 5 Semesters Left, should take around 59.05 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 11.532 seconds
+> 30 Semesters Parsed in 354.024 seconds.
+> 4 Semesters Left, should take around 47.203 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   4
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     4:30 PM
+> Time End:       7:00 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Cindy Chen
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 9.023 seconds
+> 31 Semesters Parsed in 363.047 seconds.
+> 3 Semesters Left, should take around 35.134 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 8.946 seconds
+> 32 Semesters Parsed in 371.993 seconds.
+> 2 Semesters Left, should take around 23.25 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     4:30 PM
+> Time End:       7:15 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Tingjian Ge
+> Room:           OLS-405
+
+>> Time Info:
+> This semester took 8.883 seconds
+> 33 Semesters Parsed in 380.876 seconds.
+> 1 Semesters Left, should take around 11.542 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Data Mining
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+> Gary Livingston: 1
+>> Writing professor count for semester Spring 2007
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+> Gary Livingston: 1
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+> Ekaterina Saenko: 1
+>> Writing professor count for semester Fall 2013
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+> Tingjian Ge: 1
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Data Mining for semesters Fall 2000 through Spring 2017
+> Cindy Chen: 4
+> Gary Livingston: 5
+> Ekaterina Saenko: 1
+> Tingjian Ge: 1
+
+>>> All of this took 392.173 seconds.

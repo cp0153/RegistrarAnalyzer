@@ -1,0 +1,285 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [],
+      "semester": "Fall 2003",
+      "enrollNow": "0",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "MWF",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM",
+          "sessionStart": "1/28/2004",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "sessionEnd": "5/22/2004"
+        }
+      ],
+      "semester": "Spring 2004",
+      "enrollNow": "23",
+      "course": "Graphical User Interface Programming II"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "meetings": [],
+      "semester": "Spring 2004",
+      "enrollNow": "0",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "1",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [],
+      "semester": "Fall 2004",
+      "enrollNow": "1",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "MWF",
+          "instructor": "Jesse Heines",
+          "timeStart": "9:30 AM",
+          "sessionStart": "1/21/2005",
+          "timeEnd": "10:20 AM",
+          "room": "OS 414",
+          "sessionEnd": "5/21/2005"
+        }
+      ],
+      "semester": "Spring 2005",
+      "enrollNow": "7",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "25",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "MWF",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM",
+          "sessionStart": "1/24/2006",
+          "timeEnd": "12:20 PM",
+          "room": "OS210A",
+          "sessionEnd": "5/20/2006"
+        }
+      ],
+      "semester": "Spring 2006",
+      "enrollNow": "3",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM",
+          "sessionStart": "1/28/2008",
+          "timeEnd": "12:45 PM",
+          "room": "OS 402",
+          "sessionEnd": "5/22/2008"
+        }
+      ],
+      "semester": "Spring 2008",
+      "enrollNow": "6",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "8:30 AM",
+          "sessionStart": "1/26/2009",
+          "timeEnd": "9:45 AM",
+          "room": "OS 402",
+          "sessionEnd": "5/13/2009"
+        }
+      ],
+      "semester": "Spring 2009",
+      "enrollNow": "7",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/24/2011",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "sessionEnd": "5/9/2011"
+        }
+      ],
+      "semester": "Spring 2011",
+      "enrollNow": "20",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/22/2013",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "sessionEnd": "5/1/2013"
+        }
+      ],
+      "semester": "Spring 2013",
+      "enrollNow": "23",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/21/2014",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "sessionEnd": "5/2/2014"
+        }
+      ],
+      "semester": "Spring 2014",
+      "enrollNow": "25",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/20/2015",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "sessionEnd": "5/1/2015"
+        }
+      ],
+      "semester": "Spring 2015",
+      "enrollNow": "31",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Jesse Heines",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/19/2016",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-109",
+          "sessionEnd": "5/7/2016"
+        }
+      ],
+      "semester": "Spring 2016",
+      "enrollNow": "37",
+      "course": "Graphical User Interface Programming II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Wenjin Zhou",
+          "timeStart": "3:30 PM",
+          "sessionStart": "1/17/2017",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-405",
+          "sessionEnd": "5/6/2017"
+        }
+      ],
+      "semester": "Spring 2017",
+      "enrollNow": "25",
+      "course": "Graphical User Interface Programming II"
+    }
+  ]
+]

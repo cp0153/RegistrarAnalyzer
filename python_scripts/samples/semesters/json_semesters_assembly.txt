@@ -1,0 +1,1085 @@
+[
+  [
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "56",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "50",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OS 503",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "1:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "sessionEnd": "12/19/2000"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": []
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "36",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 410",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "sessionEnd": "5/25/2001"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "47",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 503",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "sessionEnd": "12/22/2001"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "3",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 503",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "sessionEnd": "12/22/2001"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "39",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 415",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "sessionEnd": "5/10/2002"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "35",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 410",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "sessionEnd": "12/21/2002"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "6",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 415",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "sessionEnd": "12/21/2002"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "27",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 414",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "sessionEnd": "5/17/2003"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "30",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 414",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "sessionEnd": "12/20/2003"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "3",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 414",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "sessionEnd": "12/20/2003"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "12",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 412",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "sessionEnd": "5/19/2004"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2004",
+      "enrollNow": "20",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 415",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/7/2004",
+          "sessionEnd": "12/22/2004"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2004",
+      "enrollNow": "4",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 415",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/7/2004",
+          "sessionEnd": "12/22/2004"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2005",
+      "enrollNow": "8",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 412",
+          "instructor": "William Moloney Jr",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/21/2005",
+          "sessionEnd": "5/21/2005"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2005",
+      "enrollNow": "24",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 412",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/6/2005",
+          "sessionEnd": "12/22/2005"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2005",
+      "enrollNow": "0",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 412",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/6/2005",
+          "sessionEnd": "12/22/2005"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2006",
+      "enrollNow": "8",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 402",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "MWF",
+          "sessionStart": "1/24/2006",
+          "sessionEnd": "5/20/2006"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2006",
+      "enrollNow": "25",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 404",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/5/2006",
+          "sessionEnd": "12/22/2006"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2006",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 404",
+          "instructor": "Gary Livingston",
+          "timeEnd": "2:20 PM",
+          "days": "TR",
+          "sessionStart": "9/5/2006",
+          "sessionEnd": "12/22/2006"
+        }
+      ]
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2007",
+      "enrollNow": "29",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 402",
+          "instructor": "Gary Livingston",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/5/2007",
+          "sessionEnd": "12/21/2007"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2007",
+      "enrollNow": "0",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 402",
+          "instructor": "Gary Livingston",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/5/2007",
+          "sessionEnd": "12/21/2007"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2008",
+      "enrollNow": "5",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 401",
+          "instructor": "Gary Livingston",
+          "timeEnd": "11:45 AM",
+          "days": "TR",
+          "sessionStart": "1/28/2008",
+          "sessionEnd": "5/22/2008"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2008",
+      "enrollNow": "36",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 401",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/3/2008",
+          "sessionEnd": "12/12/2008"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2008",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 401",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/3/2008",
+          "sessionEnd": "12/12/2008"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2009",
+      "enrollNow": "9",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 403",
+          "instructor": "Gary Livingston",
+          "timeEnd": "11:45 AM",
+          "days": "TR",
+          "sessionStart": "1/26/2009",
+          "sessionEnd": "5/13/2009"
+        }
+      ]
+    },
+    {
+      "semester": "Spring 2009",
+      "enrollNow": "0",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 403",
+          "instructor": "Gary Livingston",
+          "timeEnd": "11:45 AM",
+          "days": "TR",
+          "sessionStart": "1/26/2009",
+          "sessionEnd": "5/13/2009"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "26",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 402",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/2/2009",
+          "sessionEnd": "12/15/2009"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "0",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 402",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:15 AM",
+          "days": "TR",
+          "sessionStart": "9/2/2009",
+          "sessionEnd": "12/15/2009"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2010",
+      "enrollNow": "18",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OS 402",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "1/25/2010",
+          "sessionEnd": "5/12/2010"
+        }
+      ]
+    },
+    {
+      "semester": "Spring 2010",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OS 402",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "1/25/2010",
+          "sessionEnd": "5/12/2010"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "39",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "35",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-402",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "9/1/2010",
+          "sessionEnd": "12/10/2010"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-402",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "9/1/2010",
+          "sessionEnd": "12/10/2010"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2011",
+      "enrollNow": "16",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "44",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "1/24/2011",
+          "sessionEnd": "5/9/2011"
+        }
+      ]
+    },
+    {
+      "semester": "Spring 2011",
+      "enrollNow": "1",
+      "course": "Assembly Language Programming",
+      "honors": "Yes",
+      "creditValue": "4 Credits",
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "10:45 AM",
+          "days": "TR",
+          "sessionStart": "1/24/2011",
+          "sessionEnd": "5/9/2011"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2011",
+      "enrollNow": "31",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OLS-402",
+          "instructor": "Haim Levkowitz",
+          "timeEnd": "1:45 PM",
+          "days": "TR",
+          "sessionStart": "9/1/2011",
+          "sessionEnd": "12/12/2011"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2011",
+      "enrollNow": "30",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-402",
+          "instructor": "Byung Kim",
+          "timeEnd": "3:15 PM",
+          "days": "TR",
+          "sessionStart": "9/1/2011",
+          "sessionEnd": "12/12/2011"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2012",
+      "enrollNow": "23",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "44",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-408",
+          "instructor": "Haim Levkowitz",
+          "timeEnd": "3:45 PM",
+          "days": "TR",
+          "sessionStart": "1/23/2012",
+          "sessionEnd": "5/7/2012"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "39",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "1:45 PM",
+          "days": "TR",
+          "sessionStart": "9/5/2012",
+          "sessionEnd": "12/10/2012"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "20",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "3:15 PM",
+          "days": "TR",
+          "sessionStart": "9/5/2012",
+          "sessionEnd": "12/10/2012"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2013",
+      "enrollNow": "34",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "44",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "1/22/2013",
+          "sessionEnd": "5/1/2013"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "41",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-404",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/4/2013",
+          "sessionEnd": "12/11/2013"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "43",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-408",
+          "instructor": "Xinwen Fu",
+          "timeEnd": "12:15 PM",
+          "days": "TR",
+          "sessionStart": "9/4/2013",
+          "sessionEnd": "12/11/2013"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2014",
+      "enrollNow": "33",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "44",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2014",
+          "sessionEnd": "5/2/2014"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "39",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-401",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/3/2014",
+          "sessionEnd": "12/10/2014"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "45",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OLS-402",
+          "instructor": "David Hendrickson",
+          "timeEnd": "8:30 PM",
+          "days": "M",
+          "sessionStart": "9/3/2014",
+          "sessionEnd": "12/10/2014"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2015",
+      "enrollNow": "51",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "55",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-408",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2015",
+          "sessionEnd": "5/1/2015"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "49",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-503",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/1/2015",
+          "sessionEnd": "12/9/2015"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "48",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-109",
+          "instructor": "David Hendrickson",
+          "timeEnd": "3:15 PM",
+          "days": "TR",
+          "sessionStart": "9/1/2015",
+          "sessionEnd": "12/9/2015"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "37",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-405",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/19/2016",
+          "sessionEnd": "5/7/2016"
+        }
+      ]
+    },
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "20",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "4 Credits",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OLS-104",
+          "instructor": "David Hendrickson",
+          "timeEnd": "8:15 PM",
+          "days": "W",
+          "sessionStart": "1/19/2016",
+          "sessionEnd": "5/7/2016"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "52",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "55",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-408",
+          "instructor": "Byung Kim",
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/1/2016",
+          "sessionEnd": "12/9/2016"
+        }
+      ]
+    },
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "50",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "55",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OLS-109",
+          "instructor": "Byung Kim",
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/1/2016",
+          "sessionEnd": "12/9/2016"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2017",
+      "enrollNow": "54",
+      "course": "Assembly Language Programming",
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "enrollMax": "55",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OLS-109",
+          "instructor": "Byung Kim",
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/17/2017",
+          "sessionEnd": "5/6/2017"
+        }
+      ]
+    }
+  ]
+]

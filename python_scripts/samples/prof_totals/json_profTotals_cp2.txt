@@ -1,0 +1,14 @@
+{
+  "Ayat Hatem": 2,
+  "Cindy Chen": 18,
+  "Olga Lepsky": 8,
+  "Krishnan Seetharaman": 1,
+  "David Adams": 5,
+  "Giampiero Pecelli": 38,
+  "James Canning": 20,
+  "Yelena Rykalova": 3,
+  "TBA": 50,
+  "Joelle Vrana": 2,
+  "Mark Sheldon": 3,
+  "Anne Mulhern": 7
+}

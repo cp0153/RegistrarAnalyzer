@@ -1,0 +1,282 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 403",
+          "instructor": "Holly Yanco",
+          "timeStart": "11:30 AM",
+          "timeEnd": "12:45 PM",
+          "sessionStart": "1/22/2003",
+          "days": "T",
+          "sessionEnd": "5/17/2003"
+        },
+        {
+          "room": "OS 304",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "timeEnd": "2:00 PM",
+          "sessionStart": "1/22/2003",
+          "days": "R",
+          "sessionEnd": "5/17/2003"
+        }
+      ],
+      "enrollNow": "9",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "enrollMax": "20",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "meetings": [],
+      "enrollNow": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "enrollMax": "0",
+      "course": "Mobile Robotics II"
+    },
+    {
+      "honors": "No",
+      "meetings": [],
+      "enrollNow": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "enrollMax": "0",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 415",
+          "instructor": "Holly Yanco",
+          "timeStart": "1:00 PM",
+          "timeEnd": "2:15 PM",
+          "sessionStart": "1/28/2004",
+          "days": "T",
+          "sessionEnd": "5/22/2004"
+        },
+        {
+          "room": "OS 415",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "timeEnd": "3:00 PM",
+          "sessionStart": "1/28/2004",
+          "days": "R",
+          "sessionEnd": "5/22/2004"
+        }
+      ],
+      "enrollNow": "15",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "enrollMax": "30",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 415",
+          "instructor": "Holly Yanco",
+          "timeStart": "1:00 PM",
+          "timeEnd": "2:15 PM",
+          "sessionStart": "1/21/2005",
+          "days": "T",
+          "sessionEnd": "5/21/2005"
+        },
+        {
+          "room": "OS 415",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "timeEnd": "2:50 PM",
+          "sessionStart": "1/21/2005",
+          "days": "R",
+          "sessionEnd": "5/21/2005"
+        }
+      ],
+      "enrollNow": "7",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2005",
+      "enrollMax": "20",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 402",
+          "instructor": "Holly Yanco",
+          "timeStart": "1:00 PM",
+          "timeEnd": "2:15 PM",
+          "sessionStart": "1/24/2006",
+          "days": "TR",
+          "sessionEnd": "5/20/2006"
+        }
+      ],
+      "enrollNow": "1",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2006",
+      "enrollMax": "20",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 401",
+          "instructor": "Holly Yanco",
+          "timeStart": "11:30 AM",
+          "timeEnd": "12:45 PM",
+          "sessionStart": "1/23/2007",
+          "days": "TR",
+          "sessionEnd": "5/18/2007"
+        }
+      ],
+      "enrollNow": "6",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2007",
+      "enrollMax": "20",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 401",
+          "instructor": "Fred Martin",
+          "timeStart": "5:30 PM",
+          "timeEnd": "8:30 PM",
+          "sessionStart": "1/28/2008",
+          "days": "W",
+          "sessionEnd": "5/22/2008"
+        }
+      ],
+      "enrollNow": "2",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2008",
+      "enrollMax": "20",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OS 403",
+          "instructor": "Fred Martin",
+          "timeStart": "4:00 PM",
+          "timeEnd": "6:50 PM",
+          "sessionStart": "1/25/2010",
+          "days": "T",
+          "sessionEnd": "5/12/2010"
+        }
+      ],
+      "enrollNow": "9",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2010",
+      "enrollMax": "30",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OLS-403",
+          "instructor": "Fred Martin",
+          "timeStart": "12:30 PM",
+          "timeEnd": "1:45 PM",
+          "sessionStart": "1/23/2012",
+          "days": "TR",
+          "sessionEnd": "5/7/2012"
+        }
+      ],
+      "enrollNow": "12",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2012",
+      "enrollMax": "12",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "instructor": "Holly Yanco",
+          "timeStart": "4:00 PM",
+          "timeEnd": "6:30 PM",
+          "sessionStart": "9/4/2013",
+          "days": "T",
+          "sessionEnd": "12/11/2013"
+        }
+      ],
+      "enrollNow": "3",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2013",
+      "enrollMax": "10",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "instructor": "Fred Martin",
+          "timeStart": "3:30 PM",
+          "timeEnd": "4:45 PM",
+          "sessionStart": "9/1/2015",
+          "days": "TR",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "enrollNow": "8",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2015",
+      "enrollMax": "12",
+      "course": "Mobile Robotics II"
+    }
+  ],
+  [],
+  [],
+  []
+]

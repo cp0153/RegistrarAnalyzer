@@ -1,0 +1,13 @@
+{
+  "Sarita Hakimian": 10,
+  "David Adams": 17,
+  "James Canning": 50,
+  "Marc Chiarini": 2,
+  "Mark Sherman": 3,
+  "Derrell Lipman": 1,
+  "George Grinstein": 8,
+  "Marian Williams": 1,
+  "TBA": 72,
+  "Sirong Lin": 7,
+  "Haim Levkowitz": 31
+}

@@ -1,0 +1,1303 @@
+
+> You chose to scrape the course Computing III
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   37
+> Enrollment Max: 50
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Stuart Smith
+> Room:           OS 410
+
+>> Parsing Course Section 2
+> Enrolled Now:   42
+> Enrollment Max: 50
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Jesse Heines
+> Room:           OS 414
+
+>> Parsing Course Section 3
+> Enrolled Now:   10
+> Enrollment Max: 15
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 24.74 seconds
+> 1 Semesters Parsed in 24.74 seconds.
+> 33 Semesters Left, should take around 816.432 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   40
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     Stuart Smith
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 8.677 seconds
+> 2 Semesters Parsed in 33.418 seconds.
+> 32 Semesters Left, should take around 534.68 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   38
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Jesse Heines
+> Room:           OS 410
+
+>> Parsing Course Section 2
+> Enrolled Now:   25
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Kajal Claypool
+> Room:           OS 414
+
+>> Parsing Course Section 3
+> Enrolled Now:   26
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Kajal Claypool
+> Room:           OS 414
+
+>> Parsing Course Section 4
+> Enrolled Now:   8
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     Jesse Heines
+> Room:           OS 413
+
+>> Time Info:
+> This semester took 11.797 seconds
+> 3 Semesters Parsed in 45.214 seconds.
+> 31 Semesters Left, should take around 467.212 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   34
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     Gerald Pocock
+> Room:           OS 410
+
+>> Parsing Course Section 2
+> Enrolled Now:   27
+> Enrollment Max: 25
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     6:00 PM
+> Time End:       8:30 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     Jose Annunziato
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 11.481 seconds
+> 4 Semesters Parsed in 56.695 seconds.
+> 30 Semesters Left, should take around 425.214 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Kajal Claypool
+> Room:           OS 412
+
+>> Parsing Course Section 2
+> Enrolled Now:   13
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Kajal Claypool
+> Room:           OS 412
+
+>> Parsing Course Section 3
+> Enrolled Now:   39
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     David Martin Jr
+> Room:           OS 415
+
+>> Parsing Course Section 4
+> Enrolled Now:   12
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Kajal Claypool
+> Room:           OS 412
+
+>> Time Info:
+> This semester took 14.931 seconds
+> 5 Semesters Parsed in 71.626 seconds.
+> 29 Semesters Left, should take around 415.43 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   35
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Jesse Heines
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   8
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     David Martin Jr
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 12.915 seconds
+> 6 Semesters Parsed in 84.541 seconds.
+> 28 Semesters Left, should take around 394.523 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:20 AM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     David Martin Jr
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   26
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     Kajal Claypool
+> Room:           OS 415
+
+>> Parsing Course Section 3
+> Enrolled Now:   1
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:20 AM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     Kajal Claypool
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.076 seconds
+> 7 Semesters Parsed in 95.617 seconds.
+> 27 Semesters Left, should take around 368.809 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   24
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:30 AM
+> Time End:       10:20 AM
+> Session Start:  1/20/2004
+> Session End:    5/19/2004
+> Instructor:     Jesse Heines
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 13.81 seconds
+> 8 Semesters Parsed in 109.427 seconds.
+> 26 Semesters Left, should take around 355.639 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:20 AM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Jie Wang
+> Room:           OS 415
+
+>> Parsing Course Section 2
+> Enrolled Now:   3
+> Enrollment Max: 0
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:20 AM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Jie Wang
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 9.683 seconds
+> 9 Semesters Parsed in 119.11 seconds.
+> 25 Semesters Left, should take around 330.862 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 8.623 seconds
+> 10 Semesters Parsed in 127.733 seconds.
+> 24 Semesters Left, should take around 306.56 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 25
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Kajal Claypool
+> Room:           OS 414
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 25
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Kajal Claypool
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 12.725 seconds
+> 11 Semesters Parsed in 140.459 seconds.
+> 23 Semesters Left, should take around 293.686 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   5
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     William Moloney Jr
+> Room:           OS 403
+> Meeting Days:   W
+> Time Start:     3:30 PM
+> Time End:       4:20 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     TBA
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.6 seconds
+> 12 Semesters Parsed in 152.058 seconds.
+> 22 Semesters Left, should take around 278.774 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   28
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Jesse Heines
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   1
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Jesse Heines
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.357 seconds
+> 13 Semesters Parsed in 163.415 seconds.
+> 21 Semesters Left, should take around 263.979 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     David Martin Jr
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 13.242 seconds
+> 14 Semesters Parsed in 176.658 seconds.
+> 20 Semesters Left, should take around 252.368 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   41
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     David Martin Jr
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/5/2007
+> Session End:    12/21/2007
+> Instructor:     David Martin Jr
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 10.82 seconds
+> 15 Semesters Parsed in 187.478 seconds.
+> 19 Semesters Left, should take around 237.472 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Guanling Chen
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 8.248 seconds
+> 16 Semesters Parsed in 195.725 seconds.
+> 18 Semesters Left, should take around 220.191 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   31
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Guanling Chen
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Guanling Chen
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 12.407 seconds
+> 17 Semesters Parsed in 208.132 seconds.
+> 17 Semesters Left, should take around 208.132 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Guanling Chen
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Guanling Chen
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 13.982 seconds
+> 18 Semesters Parsed in 222.115 seconds.
+> 16 Semesters Left, should take around 197.435 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   33
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Benyuan Liu
+> Room:           OS 401
+
+>> Parsing Course Section 2
+> Enrolled Now:   2
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  9/2/2009
+> Session End:    12/15/2009
+> Instructor:     Benyuan Liu
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.248 seconds
+> 19 Semesters Parsed in 233.363 seconds.
+> 15 Semesters Left, should take around 184.234 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Jesse Heines
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 12.674 seconds
+> 20 Semesters Parsed in 246.037 seconds.
+> 14 Semesters Left, should take around 172.226 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   48
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Guanling Chen
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   3
+> Enrollment Max: 5
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Guanling Chen
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 13.745 seconds
+> 21 Semesters Parsed in 259.782 seconds.
+> 13 Semesters Left, should take around 160.818 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   20
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     Guanling Chen
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 15.802 seconds
+> 22 Semesters Parsed in 275.584 seconds.
+> 12 Semesters Left, should take around 150.319 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   30
+> Enrollment Max: 30
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Mark Sheldon
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   30
+> Enrollment Max: 30
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Jie Wang
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 11.972 seconds
+> 23 Semesters Parsed in 287.556 seconds.
+> 11 Semesters Left, should take around 137.527 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   33
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Sarita Hakimian
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 13.575 seconds
+> 24 Semesters Parsed in 301.131 seconds.
+> 10 Semesters Left, should take around 125.471 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   51
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:00 AM
+> Time End:       11:50 AM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     John Sharko
+> Room:           OLN-150
+
+>> Parsing Course Section 2
+> Enrolled Now:   17
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     John Sharko
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.5 seconds
+> 25 Semesters Parsed in 314.631 seconds.
+> 9 Semesters Left, should take around 113.267 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 55
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Anna Rumshisky
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   35
+> Enrollment Max: 55
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Guanling Chen
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.267 seconds
+> 26 Semesters Parsed in 327.898 seconds.
+> 8 Semesters Left, should take around 100.892 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   55
+> Enrollment Max: 60
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Olga Lepsky
+> Room:           OLS-503
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Parsing Course Section 3
+> Enrolled Now:   27
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Anna Rumshisky
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 11.335 seconds
+> 27 Semesters Parsed in 339.233 seconds.
+> 7 Semesters Left, should take around 87.949 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   28
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Olga Lepsky
+> Room:           OLS-402
+
+>> Parsing Course Section 2
+> Enrolled Now:   6
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Anna Rumshisky
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 14.483 seconds
+> 28 Semesters Parsed in 353.717 seconds.
+> 6 Semesters Left, should take around 75.796 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   31
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:00 AM
+> Time End:       9:50 AM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Olga Lepsky
+> Room:           OLS-402
+
+>> Parsing Course Section 2
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Olga Lepsky
+> Room:           OLS-402
+
+>> Parsing Course Section 3
+> Enrolled Now:   23
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Anna Rumshisky
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 8.612 seconds
+> 29 Semesters Parsed in 362.329 seconds.
+> 5 Semesters Left, should take around 62.47 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   35
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     David Adams
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   7
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Anna Rumshisky
+> Room:           OLS-314
+
+>> Time Info:
+> This semester took 9.37 seconds
+> 30 Semesters Parsed in 371.698 seconds.
+> 4 Semesters Left, should take around 49.56 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   47
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     9:00 AM
+> Time End:       9:50 AM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Ayat Hatem
+> Room:           OLS-402
+
+>> Parsing Course Section 2
+> Enrolled Now:   47
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Ayat Hatem
+> Room:           OLS-402
+
+>> Parsing Course Section 3
+> Enrolled Now:   22
+> Enrollment Max: 35
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Anna Rumshisky
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 10.516 seconds
+> 31 Semesters Parsed in 382.214 seconds.
+> 3 Semesters Left, should take around 36.988 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 49
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Krishnan Seetharaman
+> Room:           OLS-408
+
+>> Parsing Course Section 2
+> Enrolled Now:   38
+> Enrollment Max: 40
+> Credit Value:   4 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Anna Rumshisky
+> Room:           OLS-404
+
+>> Time Info:
+> This semester took 7.863 seconds
+> 32 Semesters Parsed in 390.077 seconds.
+> 2 Semesters Left, should take around 24.38 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   48
+> Enrollment Max: 55
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     2:00 PM
+> Time End:       2:50 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     David Adams
+> Room:           OLS-102
+
+>> Parsing Course Section 2
+> Enrolled Now:   47
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     David Adams
+> Room:           OLS-109
+
+>> Parsing Course Section 3
+> Enrolled Now:   19
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Anna Rumshisky
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 6.349 seconds
+> 33 Semesters Parsed in 396.426 seconds.
+> 1 Semesters Left, should take around 12.013 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:00 AM
+> Time End:       10:50 AM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Sirong Lin
+> Room:           OLS-405
+
+>> Parsing Course Section 2
+> Enrolled Now:   18
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Sirong Lin
+> Room:           OLS-405
+
+>>> Now writing out Fall 2000 through Spring 2017 for Computing III
+>> Writing professor count for semester Fall 2000
+> Jesse Heines: 1
+> Stuart Smith: 1
+>> Writing professor count for semester Spring 2001
+> Stuart Smith: 1
+>> Writing professor count for semester Fall 2001
+> Jesse Heines: 2
+> Kajal Claypool: 2
+>> Writing professor count for semester Spring 2002
+> Gerald Pocock: 1
+> Jose Annunziato: 1
+>> Writing professor count for semester Fall 2002
+> David Martin Jr: 1
+> Kajal Claypool: 3
+>> Writing professor count for semester Spring 2003
+> David Martin Jr: 1
+> Jesse Heines: 1
+>> Writing professor count for semester Fall 2003
+> David Martin Jr: 1
+> Kajal Claypool: 2
+>> Writing professor count for semester Spring 2004
+> Jesse Heines: 1
+>> Writing professor count for semester Fall 2004
+> Jie Wang: 2
+>> Writing professor count for semester Spring 2005
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2005
+> Kajal Claypool: 2
+>> Writing professor count for semester Spring 2006
+> TBA: 1
+> William Moloney Jr: 1
+>> Writing professor count for semester Fall 2006
+> Jesse Heines: 2
+>> Writing professor count for semester Spring 2007
+> David Martin Jr: 1
+>> Writing professor count for semester Fall 2007
+> David Martin Jr: 2
+>> Writing professor count for semester Spring 2008
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2008
+> Guanling Chen: 2
+>> Writing professor count for semester Spring 2009
+> Guanling Chen: 2
+>> Writing professor count for semester Fall 2009
+> Benyuan Liu: 2
+>> Writing professor count for semester Spring 2010
+> Jesse Heines: 1
+>> Writing professor count for semester Fall 2010
+> Guanling Chen: 2
+>> Writing professor count for semester Spring 2011
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2011
+> Jie Wang: 1
+> Mark Sheldon: 1
+>> Writing professor count for semester Spring 2012
+> Sarita Hakimian: 1
+>> Writing professor count for semester Fall 2012
+> John Sharko: 2
+>> Writing professor count for semester Spring 2013
+> Anna Rumshisky: 1
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2013
+> Anna Rumshisky: 1
+> Olga Lepsky: 1
+>> Writing professor count for semester Spring 2014
+> Anna Rumshisky: 1
+> Olga Lepsky: 1
+>> Writing professor count for semester Fall 2014
+> Anna Rumshisky: 1
+> Olga Lepsky: 2
+>> Writing professor count for semester Spring 2015
+> Anna Rumshisky: 1
+> David Adams: 1
+>> Writing professor count for semester Fall 2015
+> Anna Rumshisky: 1
+> Ayat Hatem: 2
+>> Writing professor count for semester Spring 2016
+> Anna Rumshisky: 1
+> Krishnan Seetharaman: 1
+>> Writing professor count for semester Fall 2016
+> Anna Rumshisky: 1
+> David Adams: 2
+>> Writing professor count for semester Spring 2017
+> Sirong Lin: 2
+
+>>> Writing Professor Totals for Computing III for semesters Fall 2000 through Spring 2017
+> Mark Sheldon: 1
+> Anna Rumshisky: 8
+> David Martin Jr: 6
+> John Sieg Jr: 1
+> Gerald Pocock: 1
+> Jose Annunziato: 1
+> David Adams: 3
+> Stuart Smith: 2
+> Ayat Hatem: 2
+> Krishnan Seetharaman: 1
+> Sirong Lin: 2
+> Jie Wang: 3
+> TBA: 1
+> William Moloney Jr: 1
+> Sarita Hakimian: 1
+> Jesse Heines: 8
+> John Sharko: 2
+> Guanling Chen: 9
+> Kajal Claypool: 9
+> Benyuan Liu: 2
+> Olga Lepsky: 4
+
+>>> All of this took 404.519 seconds.

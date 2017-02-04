@@ -1,0 +1,2487 @@
+[
+  [
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "T",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "19",
+      "semester": "Fall 2000",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "25",
+      "semester": "Fall 2000",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "16",
+      "semester": "Fall 2000",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "R",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "0",
+      "semester": "Fall 2000",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2000",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "3",
+      "semester": "Fall 2000",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "21",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "T",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "23",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "R",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "17",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "R",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "26",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "24",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 406"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "1",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/30/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "18",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "0",
+      "semester": "Spring 2001",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "T",
+          "sessionStart": "9/5/2001",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "22",
+      "semester": "Fall 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "9/5/2001",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "30",
+      "semester": "Fall 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/5/2001",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "24",
+      "semester": "Fall 2001",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2001",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/5/2001",
+          "instructor": "TBA",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "8",
+      "semester": "Fall 2001",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "23",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "T",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "18",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "R",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "12",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 406"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "11",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 306"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "3",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 404"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "3",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 503"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "R",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "7",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/23/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OH 150"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 414"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "16",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "0",
+      "semester": "Spring 2002",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 414"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "T",
+          "sessionStart": "9/3/2002",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "15",
+      "semester": "Fall 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 414"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "9/3/2002",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 414"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "18",
+      "semester": "Fall 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 414"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/3/2002",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "7",
+      "semester": "Fall 2002",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "10",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/3/2002",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 414"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/3/2002",
+          "instructor": "TBA",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "2",
+      "semester": "Fall 2002",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "17",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "T",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 404"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "10",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "R",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "1",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "R",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "6",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 311"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "10",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        },
+        {
+          "timeEnd": "2:15 PM",
+          "days": "R",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 403"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "3",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "0",
+      "semester": "Spring 2003",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "T",
+          "sessionStart": "9/2/2003",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "14",
+      "semester": "Fall 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "9/2/2003",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "8",
+      "semester": "Fall 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/2/2003",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "6",
+      "semester": "Fall 2003",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2003",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/2/2003",
+          "instructor": "TBA",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 311"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "semester": "Fall 2003",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/20/2004",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "14",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "T",
+          "sessionStart": "1/20/2004",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 404"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "6",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "R",
+          "sessionStart": "1/20/2004",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "3",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "1/20/2004",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "6",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2004",
+          "instructor": "Giampiero Pecelli",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 412"
+        },
+        {
+          "timeEnd": "2:15 PM",
+          "days": "R",
+          "sessionStart": "1/20/2004",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 403"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "14",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "0",
+      "semester": "Spring 2004",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/7/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "T",
+          "sessionStart": "9/7/2004",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 406"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "10",
+      "semester": "Fall 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/7/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/7/2004",
+          "instructor": "TBA",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "9",
+      "semester": "Fall 2004",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "0",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/7/2004",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/7/2004",
+          "instructor": "TBA",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 414"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "2",
+      "semester": "Fall 2004",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/21/2005",
+          "instructor": "TBA",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 415"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "15",
+      "semester": "Spring 2005",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "1:50 PM",
+          "days": "R",
+          "sessionStart": "1/21/2005",
+          "instructor": "TBA",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "10",
+      "semester": "Spring 2005",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 408"
+        },
+        {
+          "timeEnd": "12:20 PM",
+          "days": "T",
+          "sessionStart": "1/21/2005",
+          "instructor": "TBA",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 414"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "11",
+      "semester": "Spring 2005",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "1:20 PM",
+          "days": "R",
+          "sessionStart": "9/6/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "12:30 PM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "7",
+      "semester": "Fall 2005",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/6/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 415"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "9/6/2005",
+          "instructor": "Cindy Chen",
+          "timeStart": "2:30 PM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 410"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "semester": "Fall 2005",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "45",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWRF",
+          "sessionStart": "1/24/2006",
+          "instructor": "James Canning",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/20/2006",
+          "room": "OS 401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "31",
+      "semester": "Spring 2006",
+      "course": "Computing II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "55",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWRF",
+          "sessionStart": "1/23/2007",
+          "instructor": "James Canning",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/18/2007",
+          "room": "OS 408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "49",
+      "semester": "Spring 2007",
+      "course": "Computing II"
+    }
+  ],
+  [],
+  [
+    {
+      "enrollMax": "60",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWRF",
+          "sessionStart": "1/28/2008",
+          "instructor": "James Canning",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/22/2008",
+          "room": "OS 408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "54",
+      "semester": "Spring 2008",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "12:20 PM",
+          "days": "MWRF",
+          "sessionStart": "9/3/2008",
+          "instructor": "James Canning",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "12",
+      "semester": "Fall 2008",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "12:20 PM",
+          "days": "MWRF",
+          "sessionStart": "9/3/2008",
+          "instructor": "James Canning",
+          "timeStart": "11:30 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "semester": "Fall 2008",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        },
+        {
+          "timeEnd": "11:50 AM",
+          "days": "T",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "11:00 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "10",
+      "semester": "Spring 2009",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "11:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "10:30 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "30",
+      "semester": "Spring 2009",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        },
+        {
+          "timeEnd": "11:50 AM",
+          "days": "T",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "11:00 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "semester": "Spring 2009",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "11:20 AM",
+          "days": "MWF",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "10:30 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "1/26/2009",
+          "instructor": "James Canning",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "semester": "Spring 2009",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "11:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2009",
+          "instructor": "Cindy Chen",
+          "timeStart": "10:30 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 401"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "9/2/2009",
+          "instructor": "Cindy Chen",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "25",
+      "semester": "Fall 2009",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "11:20 AM",
+          "days": "MWF",
+          "sessionStart": "9/2/2009",
+          "instructor": "Cindy Chen",
+          "timeStart": "10:30 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 401"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "T",
+          "sessionStart": "9/2/2009",
+          "instructor": "Cindy Chen",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "2",
+      "semester": "Fall 2009",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/25/2010",
+          "instructor": "James Canning",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/12/2010",
+          "room": "OS 401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "29",
+      "semester": "Spring 2010",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/25/2010",
+          "instructor": "James Canning",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/12/2010",
+          "room": "OS 401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "39",
+      "semester": "Spring 2010",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWRF",
+          "sessionStart": "9/1/2010",
+          "instructor": "Joelle Vrana",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-403"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "13",
+      "semester": "Fall 2010",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "5",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWRF",
+          "sessionStart": "9/1/2010",
+          "instructor": "Joelle Vrana",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-403"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "semester": "Fall 2010",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/24/2011",
+          "instructor": "James Canning",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/9/2011",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "23",
+      "semester": "Spring 2011",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/24/2011",
+          "instructor": "James Canning",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/9/2011",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "49",
+      "semester": "Spring 2011",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MTWF",
+          "sessionStart": "9/1/2011",
+          "instructor": "Mark Sheldon",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/12/2011",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "26",
+      "semester": "Fall 2011",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/23/2012",
+          "instructor": "Mark Sheldon",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/7/2012",
+          "room": "OLS-401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "42",
+      "semester": "Spring 2012",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWRF",
+          "sessionStart": "1/23/2012",
+          "instructor": "Mark Sheldon",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/7/2012",
+          "room": "OLS-401"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "49",
+      "semester": "Spring 2012",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "19",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2012",
+          "instructor": "Anne Mulhern",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-615"
+        },
+        {
+          "timeEnd": "9:50 AM",
+          "days": "R",
+          "sessionStart": "9/5/2012",
+          "instructor": "Anne Mulhern",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-407"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "12",
+      "semester": "Fall 2012",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "45",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/5/2012",
+          "instructor": "Anne Mulhern",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-402"
+        },
+        {
+          "timeEnd": "10:50 AM",
+          "days": "R",
+          "sessionStart": "9/5/2012",
+          "instructor": "Anne Mulhern",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-405"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "38",
+      "semester": "Fall 2012",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "98",
+      "meetings": [
+        {
+          "timeEnd": "10:20 AM",
+          "days": "T",
+          "sessionStart": "1/22/2013",
+          "instructor": "Anne Mulhern",
+          "timeStart": "9:30 AM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-503"
+        }
+      ],
+      "creditValue": "0 Credits",
+      "honors": "No",
+      "enrollNow": "74",
+      "semester": "Spring 2013",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2013",
+          "instructor": "Anne Mulhern",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "27",
+      "semester": "Spring 2013",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2013",
+          "instructor": "Anne Mulhern",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "enrollNow": "47",
+      "semester": "Spring 2013",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/22/2013",
+          "instructor": "James Canning",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-401"
+        },
+        {
+          "timeEnd": "4:20 PM",
+          "days": "R",
+          "sessionStart": "1/22/2013",
+          "instructor": "James Canning",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "enrollNow": "22",
+      "semester": "Spring 2013",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "45",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/4/2013",
+          "instructor": "Olga Lepsky",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "20",
+      "semester": "Fall 2013",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "45",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/4/2013",
+          "instructor": "Olga Lepsky",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "23",
+      "semester": "Fall 2013",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "42",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-403"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "14",
+      "semester": "Spring 2014",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "42",
+      "meetings": [
+        {
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "11:00 AM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "23",
+      "semester": "Spring 2014",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2014",
+          "instructor": "David Adams",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "50",
+      "semester": "Spring 2014",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "30",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/21/2014",
+          "instructor": "James Canning",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-406"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "enrollNow": "26",
+      "semester": "Spring 2014",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "70",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "9/3/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-102"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "57",
+      "semester": "Fall 2014",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "42",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2015",
+          "instructor": "Olga Lepsky",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/1/2015",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "33",
+      "semester": "Spring 2015",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/20/2015",
+          "instructor": "Olga Lepsky",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/1/2015",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "40",
+      "semester": "Spring 2015",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "50",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "1/20/2015",
+          "instructor": "Olga Lepsky",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/1/2015",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "48",
+      "semester": "Spring 2015",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "9/1/2015",
+          "instructor": "Ayat Hatem",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "47",
+      "semester": "Fall 2015",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "days": "R",
+          "sessionStart": "9/1/2015",
+          "instructor": "Krishnan Seetharaman",
+          "timeStart": "5:30 PM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "24",
+      "semester": "Fall 2015",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "60",
+      "meetings": [
+        {
+          "timeEnd": "9:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/19/2016",
+          "instructor": "Ayat Hatem",
+          "timeStart": "9:00 AM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "52",
+      "semester": "Spring 2016",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "63",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/19/2016",
+          "instructor": "David Adams",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "63",
+      "semester": "Spring 2016",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "1/19/2016",
+          "instructor": "David Adams",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "enrollNow": "44",
+      "semester": "Spring 2016",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "9/1/2016",
+          "instructor": "Yelena Rykalova",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "31",
+      "semester": "Fall 2016",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "9/1/2016",
+          "instructor": "Yelena Rykalova",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-402"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "46",
+      "semester": "Fall 2016",
+      "course": "Computing II"
+    }
+  ],
+  [
+    {
+      "enrollMax": "60",
+      "meetings": [
+        {
+          "timeEnd": "11:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/17/2017",
+          "instructor": "Yelena Rykalova",
+          "timeStart": "11:00 AM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-408"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "52",
+      "semester": "Spring 2017",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "62",
+      "meetings": [
+        {
+          "timeEnd": "10:50 AM",
+          "days": "MWF",
+          "sessionStart": "1/17/2017",
+          "instructor": "David Adams",
+          "timeStart": "10:00 AM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "enrollNow": "59",
+      "semester": "Spring 2017",
+      "course": "Computing II"
+    },
+    {
+      "enrollMax": "60",
+      "meetings": [
+        {
+          "timeEnd": "1:50 PM",
+          "days": "MWF",
+          "sessionStart": "1/17/2017",
+          "instructor": "David Adams",
+          "timeStart": "1:00 PM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-109"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "enrollNow": "50",
+      "semester": "Spring 2017",
+      "course": "Computing II"
+    }
+  ]
+]

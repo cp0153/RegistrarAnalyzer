@@ -1,0 +1,473 @@
+
+> You chose to scrape the course Computer Graphics I
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   21
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     8:30 AM
+> Time End:       9:20 AM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     Haim Levkowitz
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 25.008 seconds
+> 1 Semesters Parsed in 25.008 seconds.
+> 33 Semesters Left, should take around 825.277 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 12.638 seconds
+> 2 Semesters Parsed in 37.647 seconds.
+> 32 Semesters Left, should take around 602.349 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 14.09 seconds
+> 3 Semesters Parsed in 51.737 seconds.
+> 31 Semesters Left, should take around 534.618 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 12.415 seconds
+> 4 Semesters Parsed in 64.153 seconds.
+> 30 Semesters Left, should take around 481.145 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 11.394 seconds
+> 5 Semesters Parsed in 75.547 seconds.
+> 29 Semesters Left, should take around 438.172 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   14
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     11:30 AM
+> Time End:       12:20 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Haim Levkowitz
+> Room:           OS 410
+
+>> Time Info:
+> This semester took 8.369 seconds
+> 6 Semesters Parsed in 83.915 seconds.
+> 28 Semesters Left, should take around 391.605 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Time Info:
+> This semester took 12.718 seconds
+> 7 Semesters Parsed in 96.634 seconds.
+> 27 Semesters Left, should take around 372.729 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Time Info:
+> This semester took 13.738 seconds
+> 8 Semesters Parsed in 110.372 seconds.
+> 26 Semesters Left, should take around 358.708 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 10.873 seconds
+> 9 Semesters Parsed in 121.245 seconds.
+> 25 Semesters Left, should take around 336.791 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 12.145 seconds
+> 10 Semesters Parsed in 133.39 seconds.
+> 24 Semesters Left, should take around 320.135 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  9/6/2005
+> Session End:    12/22/2005
+> Instructor:     Haim Levkowitz
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 11.728 seconds
+> 11 Semesters Parsed in 145.118 seconds.
+> 23 Semesters Left, should take around 303.428 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 6.427 seconds
+> 12 Semesters Parsed in 151.545 seconds.
+> 22 Semesters Left, should take around 277.832 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 10.495 seconds
+> 13 Semesters Parsed in 162.039 seconds.
+> 21 Semesters Left, should take around 261.755 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   17
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     10:00 AM
+> Time End:       11:15 AM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     George Grinstein
+> Room:           OS 311
+
+>> Time Info:
+> This semester took 15.279 seconds
+> 14 Semesters Parsed in 177.318 seconds.
+> 20 Semesters Left, should take around 253.311 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 11.149 seconds
+> 15 Semesters Parsed in 188.467 seconds.
+> 19 Semesters Left, should take around 238.725 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Time Info:
+> This semester took 12.218 seconds
+> 16 Semesters Parsed in 200.685 seconds.
+> 18 Semesters Left, should take around 225.771 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     10:30 AM
+> Time End:       11:20 AM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Haim Levkowitz
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 6.924 seconds
+> 17 Semesters Parsed in 207.609 seconds.
+> 17 Semesters Left, should take around 207.609 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 11.444 seconds
+> 18 Semesters Parsed in 219.053 seconds.
+> 16 Semesters Left, should take around 194.714 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 13.324 seconds
+> 19 Semesters Parsed in 232.377 seconds.
+> 15 Semesters Left, should take around 183.456 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 13.394 seconds
+> 20 Semesters Parsed in 245.771 seconds.
+> 14 Semesters Left, should take around 172.04 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Haim Levkowitz
+> Room:           OLS-404
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 5
+> Credit Value:   3 Credits
+> Honors Section: Yes
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Haim Levkowitz
+> Room:           OLS-404
+
+>> Time Info:
+> This semester took 11.546 seconds
+> 21 Semesters Parsed in 257.318 seconds.
+> 13 Semesters Left, should take around 159.292 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.262 seconds
+> 22 Semesters Parsed in 268.579 seconds.
+> 12 Semesters Left, should take around 146.498 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 7.762 seconds
+> 23 Semesters Parsed in 276.342 seconds.
+> 11 Semesters Left, should take around 132.163 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 10.005 seconds
+> 24 Semesters Parsed in 286.347 seconds.
+> 10 Semesters Left, should take around 119.311 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     George Grinstein
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 13.411 seconds
+> 25 Semesters Parsed in 299.758 seconds.
+> 9 Semesters Left, should take around 107.913 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 11.197 seconds
+> 26 Semesters Parsed in 310.955 seconds.
+> 8 Semesters Left, should take around 95.679 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Time Info:
+> This semester took 9.808 seconds
+> 27 Semesters Parsed in 320.763 seconds.
+> 7 Semesters Left, should take around 83.161 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 27
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     6:30 PM
+> Time End:       9:20 PM
+> Session Start:  1/21/2014
+> Session End:    5/7/2014
+> Instructor:     Hugh Masterman
+> Room:           OLS-406
+
+>> Time Info:
+> This semester took 9.736 seconds
+> 28 Semesters Parsed in 330.499 seconds.
+> 6 Semesters Left, should take around 70.821 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 11.011 seconds
+> 29 Semesters Parsed in 341.51 seconds.
+> 5 Semesters Left, should take around 58.881 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   24
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Haim Levkowitz
+> Room:           OLS-109
+
+>> Time Info:
+> This semester took 14.777 seconds
+> 30 Semesters Parsed in 356.287 seconds.
+> 4 Semesters Left, should take around 47.505 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Time Info:
+> This semester took 10.992 seconds
+> 31 Semesters Parsed in 367.279 seconds.
+> 3 Semesters Left, should take around 35.543 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 19
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Haim Levkowitz
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 8.554 seconds
+> 32 Semesters Parsed in 375.833 seconds.
+> 2 Semesters Left, should take around 23.49 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Time Info:
+> This semester took 9.287 seconds
+> 33 Semesters Parsed in 385.12 seconds.
+> 1 Semesters Left, should take around 11.67 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   22
+> Enrollment Max: 22
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Haim Levkowitz
+> Room:           OLS-405
+
+>>> Now writing out Fall 2000 through Spring 2017 for Computer Graphics I
+>> Writing professor count for semester Fall 2000
+> Haim Levkowitz: 1
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+> Haim Levkowitz: 1
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+> Haim Levkowitz: 1
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+> George Grinstein: 1
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+>> Writing professor count for semester Fall 2008
+> Haim Levkowitz: 1
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+> Haim Levkowitz: 2
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+> George Grinstein: 1
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+>> Writing professor count for semester Spring 2014
+> Hugh Masterman: 1
+>> Writing professor count for semester Fall 2014
+>> Writing professor count for semester Spring 2015
+> Haim Levkowitz: 1
+>> Writing professor count for semester Fall 2015
+>> Writing professor count for semester Spring 2016
+> Haim Levkowitz: 1
+>> Writing professor count for semester Fall 2016
+>> Writing professor count for semester Spring 2017
+> Haim Levkowitz: 1
+
+>>> Writing Professor Totals for Computer Graphics I for semesters Fall 2000 through Spring 2017
+> George Grinstein: 2
+> Hugh Masterman: 1
+> Haim Levkowitz: 9
+
+>>> All of this took 394.698 seconds.

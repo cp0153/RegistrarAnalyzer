@@ -1,0 +1,13 @@
+{
+  "Jie Wang": 5,
+  "Karen Daniels": 11,
+  "Raymond Gumb": 1,
+  "David Martin Jr": 3,
+  "John Sieg Jr": 2,
+  "Robert Lechner": 2,
+  "Krishnan Seetharaman": 2,
+  "Aparna Mahadev": 1,
+  "Jay McCarthy": 2,
+  "Giampiero Pecelli": 3,
+  "Haim Levkowitz": 1
+}

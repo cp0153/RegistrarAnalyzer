@@ -1,0 +1,1361 @@
+[
+  [
+    {
+      "enrollMax": "50",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2000",
+          "timeEnd": "12:20 PM",
+          "room": "OS 410",
+          "days": "MWF",
+          "sessionEnd": "12/19/2000",
+          "instructor": "Stuart Smith",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2000",
+      "enrollNow": "37"
+    },
+    {
+      "enrollMax": "50",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2000",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/19/2000",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2000",
+      "enrollNow": "42"
+    },
+    {
+      "enrollMax": "15",
+      "course": "Computing III",
+      "meetings": [],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2000",
+      "enrollNow": "10"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/30/2001",
+          "timeEnd": "10:20 AM",
+          "room": "OS 410",
+          "days": "MWF",
+          "sessionEnd": "5/25/2001",
+          "instructor": "Stuart Smith",
+          "timeStart": "9:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2001",
+      "enrollNow": "40"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "timeEnd": "11:20 AM",
+          "room": "OS 410",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "instructor": "Jesse Heines",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2001",
+      "enrollNow": "38"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "instructor": "Kajal Claypool",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2001",
+      "enrollNow": "25"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "instructor": "Kajal Claypool",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2001",
+      "enrollNow": "26"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "timeEnd": "11:20 AM",
+          "room": "OS 413",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "instructor": "Jesse Heines",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2001",
+      "enrollNow": "8"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "timeEnd": "10:20 AM",
+          "room": "OS 410",
+          "days": "MWF",
+          "sessionEnd": "5/10/2002",
+          "instructor": "Gerald Pocock",
+          "timeStart": "9:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2002",
+      "enrollNow": "34"
+    },
+    {
+      "enrollMax": "25",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "timeEnd": "8:30 PM",
+          "room": "OS 410",
+          "days": "W",
+          "sessionEnd": "5/10/2002",
+          "instructor": "Jose Annunziato",
+          "timeStart": "6:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2002",
+      "enrollNow": "27"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "timeEnd": "11:20 AM",
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "instructor": "Kajal Claypool",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2002",
+      "enrollNow": "23"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "timeEnd": "11:20 AM",
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "instructor": "Kajal Claypool",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2002",
+      "enrollNow": "13"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "timeEnd": "12:20 PM",
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "instructor": "David Martin Jr",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2002",
+      "enrollNow": "39"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "timeEnd": "11:20 AM",
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "instructor": "Kajal Claypool",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2002",
+      "enrollNow": "12"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2003",
+          "timeEnd": "10:20 AM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "5/17/2003",
+          "instructor": "Jesse Heines",
+          "timeStart": "9:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2003",
+      "enrollNow": "35"
+    },
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2003",
+          "timeEnd": "2:15 PM",
+          "room": "OS 414",
+          "days": "TR",
+          "sessionEnd": "5/17/2003",
+          "instructor": "David Martin Jr",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2003",
+      "enrollNow": "8"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "days": "TR",
+          "sessionEnd": "12/20/2003",
+          "instructor": "David Martin Jr",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2003",
+      "enrollNow": "23"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "timeEnd": "12:20 PM",
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/20/2003",
+          "instructor": "Kajal Claypool",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2003",
+      "enrollNow": "26"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "timeEnd": "11:20 AM",
+          "room": "OS 414",
+          "days": "TR",
+          "sessionEnd": "12/20/2003",
+          "instructor": "Kajal Claypool",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2003",
+      "enrollNow": "1"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2004",
+          "timeEnd": "10:20 AM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "5/19/2004",
+          "instructor": "Jesse Heines",
+          "timeStart": "9:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2004",
+      "enrollNow": "24"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/7/2004",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "days": "TR",
+          "sessionEnd": "12/22/2004",
+          "instructor": "Jie Wang",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2004",
+      "enrollNow": "25"
+    },
+    {
+      "enrollMax": "0",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/7/2004",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "days": "TR",
+          "sessionEnd": "12/22/2004",
+          "instructor": "Jie Wang",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2004",
+      "enrollNow": "3"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2005",
+          "timeEnd": "11:20 AM",
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "5/21/2005",
+          "instructor": "John Sieg Jr",
+          "timeStart": "10:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2005",
+      "enrollNow": "13"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2005",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2005",
+          "instructor": "Kajal Claypool",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2005",
+      "enrollNow": "25"
+    },
+    {
+      "enrollMax": "25",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2005",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2005",
+          "instructor": "Kajal Claypool",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2005",
+      "enrollNow": "1"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/24/2006",
+          "timeEnd": "1:20 PM",
+          "room": "OS 403",
+          "days": "MF",
+          "sessionEnd": "5/20/2006",
+          "instructor": "William Moloney Jr",
+          "timeStart": "12:30 PM"
+        },
+        {
+          "sessionStart": "1/24/2006",
+          "timeEnd": "4:20 PM",
+          "room": "OS 401",
+          "days": "W",
+          "sessionEnd": "5/20/2006",
+          "instructor": "TBA",
+          "timeStart": "3:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2006",
+      "enrollNow": "5"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2006",
+          "timeEnd": "12:20 PM",
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/22/2006",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2006",
+      "enrollNow": "28"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2006",
+          "timeEnd": "12:20 PM",
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/22/2006",
+          "instructor": "Jesse Heines",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2006",
+      "enrollNow": "1"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2007",
+          "timeEnd": "2:15 PM",
+          "room": "OS 403",
+          "days": "TR",
+          "sessionEnd": "5/18/2007",
+          "instructor": "David Martin Jr",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2007",
+      "enrollNow": "8"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2007",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/21/2007",
+          "instructor": "David Martin Jr",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2007",
+      "enrollNow": "41"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2007",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/21/2007",
+          "instructor": "David Martin Jr",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2007",
+      "enrollNow": "0"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/28/2008",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "5/22/2008",
+          "instructor": "Guanling Chen",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2008",
+      "enrollNow": "7"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2008",
+          "timeEnd": "12:45 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/12/2008",
+          "instructor": "Guanling Chen",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2008",
+      "enrollNow": "31"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2008",
+          "timeEnd": "12:45 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/12/2008",
+          "instructor": "Guanling Chen",
+          "timeStart": "11:30 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2008",
+      "enrollNow": "2"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/26/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "5/13/2009",
+          "instructor": "Guanling Chen",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2009",
+      "enrollNow": "13"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/26/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "5/13/2009",
+          "instructor": "Guanling Chen",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Spring 2009",
+      "enrollNow": "0"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/15/2009",
+          "instructor": "Benyuan Liu",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2009",
+      "enrollNow": "33"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 401",
+          "days": "TR",
+          "sessionEnd": "12/15/2009",
+          "instructor": "Benyuan Liu",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2009",
+      "enrollNow": "2"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/25/2010",
+          "timeEnd": "10:50 AM",
+          "room": "OS 402",
+          "days": "MWF",
+          "sessionEnd": "5/12/2010",
+          "instructor": "Jesse Heines",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2010",
+      "enrollNow": "18"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2010",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "12/10/2010",
+          "instructor": "Guanling Chen",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2010",
+      "enrollNow": "48"
+    },
+    {
+      "enrollMax": "5",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2010",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "12/10/2010",
+          "instructor": "Guanling Chen",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2010",
+      "enrollNow": "3"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/24/2011",
+          "timeEnd": "12:15 PM",
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "5/9/2011",
+          "instructor": "Guanling Chen",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2011",
+      "enrollNow": "20"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2011",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "12/12/2011",
+          "instructor": "Mark Sheldon",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2011",
+      "enrollNow": "30"
+    },
+    {
+      "enrollMax": "30",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2011",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "12/12/2011",
+          "instructor": "Jie Wang",
+          "timeStart": "12:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2011",
+      "enrollNow": "30"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2012",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "5/7/2012",
+          "instructor": "Sarita Hakimian",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2012",
+      "enrollNow": "33"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2012",
+          "timeEnd": "11:50 AM",
+          "room": "OLN-150",
+          "days": "MWF",
+          "sessionEnd": "12/10/2012",
+          "instructor": "John Sharko",
+          "timeStart": "11:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2012",
+      "enrollNow": "51"
+    },
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2012",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "12/10/2012",
+          "instructor": "John Sharko",
+          "timeStart": "12:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2012",
+      "enrollNow": "17"
+    }
+  ],
+  [
+    {
+      "enrollMax": "55",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2013",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "5/1/2013",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "3:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2013",
+      "enrollNow": "13"
+    },
+    {
+      "enrollMax": "55",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2013",
+          "timeEnd": "3:15 PM",
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "5/1/2013",
+          "instructor": "Guanling Chen",
+          "timeStart": "2:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2013",
+      "enrollNow": "35"
+    }
+  ],
+  [
+    {
+      "enrollMax": "60",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/4/2013",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-503",
+          "days": "MWF",
+          "sessionEnd": "12/11/2013",
+          "instructor": "Olga Lepsky",
+          "timeStart": "1:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2013",
+      "enrollNow": "55"
+    },
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/4/2013",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-408",
+          "days": "TR",
+          "sessionEnd": "12/11/2013",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2013",
+      "enrollNow": "27"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2014",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "5/2/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "12:00 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2014",
+      "enrollNow": "28"
+    },
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2014",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "5/2/2014",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2014",
+      "enrollNow": "6"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2014",
+          "timeEnd": "9:50 AM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "12/10/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "9:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2014",
+      "enrollNow": "31"
+    },
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2014",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "12/10/2014",
+          "instructor": "Olga Lepsky",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2014",
+      "enrollNow": "49"
+    },
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2014",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "12/10/2014",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2014",
+      "enrollNow": "23"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2015",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "5/1/2015",
+          "instructor": "David Adams",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2015",
+      "enrollNow": "35"
+    },
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2015",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-314",
+          "days": "TR",
+          "sessionEnd": "5/1/2015",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2015",
+      "enrollNow": "7"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2015",
+          "timeEnd": "9:50 AM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "12/9/2015",
+          "instructor": "Ayat Hatem",
+          "timeStart": "9:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2015",
+      "enrollNow": "47"
+    },
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2015",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "12/9/2015",
+          "instructor": "Ayat Hatem",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2015",
+      "enrollNow": "47"
+    },
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2015",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "12/9/2015",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Fall 2015",
+      "enrollNow": "22"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/19/2016",
+          "timeEnd": "8:30 PM",
+          "room": "OLS-408",
+          "days": "R",
+          "sessionEnd": "5/7/2016",
+          "instructor": "Krishnan Seetharaman",
+          "timeStart": "5:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2016",
+      "enrollNow": "23"
+    },
+    {
+      "enrollMax": "40",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/19/2016",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-404",
+          "days": "TR",
+          "sessionEnd": "5/7/2016",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "4 Credits",
+      "honors": "No",
+      "semester": "Spring 2016",
+      "enrollNow": "38"
+    }
+  ],
+  [
+    {
+      "enrollMax": "55",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2016",
+          "timeEnd": "2:50 PM",
+          "room": "OLS-102",
+          "days": "MWF",
+          "sessionEnd": "12/9/2016",
+          "instructor": "David Adams",
+          "timeStart": "2:00 PM"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "semester": "Fall 2016",
+      "enrollNow": "48"
+    },
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2016",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-109",
+          "days": "MWF",
+          "sessionEnd": "12/9/2016",
+          "instructor": "David Adams",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "semester": "Fall 2016",
+      "enrollNow": "47"
+    },
+    {
+      "enrollMax": "35",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2016",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "12/9/2016",
+          "instructor": "Anna Rumshisky",
+          "timeStart": "12:30 PM"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "Yes",
+      "semester": "Fall 2016",
+      "enrollNow": "19"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/17/2017",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-405",
+          "days": "MWF",
+          "sessionEnd": "5/6/2017",
+          "instructor": "Sirong Lin",
+          "timeStart": "10:00 AM"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "semester": "Spring 2017",
+      "enrollNow": "49"
+    },
+    {
+      "enrollMax": "49",
+      "course": "Computing III",
+      "meetings": [
+        {
+          "sessionStart": "1/17/2017",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-405",
+          "days": "MWF",
+          "sessionEnd": "5/6/2017",
+          "instructor": "Sirong Lin",
+          "timeStart": "12:00 PM"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "honors": "No",
+      "semester": "Spring 2017",
+      "enrollNow": "18"
+    }
+  ]
+]

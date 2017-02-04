@@ -1,0 +1,1133 @@
+[
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/19/2000",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/6/2000",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2000",
+      "honors": "No",
+      "enrollNow": "44",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2000",
+      "honors": "Yes",
+      "enrollNow": "2",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 407",
+          "days": "T",
+          "sessionEnd": "12/19/2000",
+          "timeEnd": "9:00 PM",
+          "timeStart": "6:00 PM",
+          "sessionStart": "9/6/2000",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2000",
+      "honors": "No",
+      "enrollNow": "19",
+      "enrollMax": "20",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "5/25/2001",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/30/2001",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2001",
+      "honors": "No",
+      "enrollNow": "44",
+      "enrollMax": "43",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "W",
+          "sessionEnd": "5/25/2001",
+          "timeEnd": "9:00 PM",
+          "timeStart": "6:00 PM",
+          "sessionStart": "1/30/2001",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2001",
+      "honors": "No",
+      "enrollNow": "19",
+      "enrollMax": "25",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2001",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "honors": "No",
+      "enrollNow": "35",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2001",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "M",
+          "sessionEnd": "12/19/2001",
+          "timeEnd": "9:00 PM",
+          "timeStart": "6:00 PM",
+          "sessionStart": "9/6/2001",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "honors": "No",
+      "enrollNow": "22",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/23/2002",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2002",
+      "honors": "No",
+      "enrollNow": "35",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "PA 405",
+          "days": "R",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "9:00 PM",
+          "timeStart": "6:00 PM",
+          "sessionStart": "1/23/2002",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2002",
+      "honors": "No",
+      "enrollNow": "13",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/3/2002",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "honors": "No",
+      "enrollNow": "31",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/3/2002",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "honors": "Yes",
+      "enrollNow": "3",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 410",
+          "days": "W",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "8:00 PM",
+          "timeStart": "5:00 PM",
+          "sessionStart": "9/3/2002",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "honors": "No",
+      "enrollNow": "13",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 410",
+          "days": "MWF",
+          "sessionEnd": "5/17/2003",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/22/2003",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "honors": "No",
+      "enrollNow": "39",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "KI 305",
+          "days": "W",
+          "sessionEnd": "5/17/2003",
+          "timeEnd": "9:00 PM",
+          "timeStart": "6:00 PM",
+          "sessionStart": "1/22/2003",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "honors": "No",
+      "enrollNow": "8",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/20/2003",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/2/2003",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "honors": "No",
+      "enrollNow": "20",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "W",
+          "sessionEnd": "12/20/2003",
+          "timeEnd": "8:00 PM",
+          "timeStart": "5:00 PM",
+          "sessionStart": "9/2/2003",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "honors": "No",
+      "enrollNow": "0",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "5/19/2004",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/20/2004",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "honors": "No",
+      "enrollNow": "35",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 404",
+          "days": "W",
+          "sessionEnd": "5/22/2004",
+          "timeEnd": "8:00 PM",
+          "timeStart": "5:00 PM",
+          "sessionStart": "1/28/2004",
+          "instructor": "TBA"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "honors": "No",
+      "enrollNow": "0",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/7/2004",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "honors": "No",
+      "enrollNow": "21",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 414",
+          "days": "MWF",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/7/2004",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "honors": "No",
+      "enrollNow": "0",
+      "enrollMax": "0",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 412",
+          "days": "MWF",
+          "sessionEnd": "5/21/2005",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/21/2005",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2005",
+      "honors": "No",
+      "enrollNow": "34",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/22/2005",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/6/2005",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2005",
+      "honors": "No",
+      "enrollNow": "14",
+      "enrollMax": "25",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 415",
+          "days": "MWF",
+          "sessionEnd": "12/22/2005",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/6/2005",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2005",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "enrollMax": "25",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 404",
+          "days": "MWF",
+          "sessionEnd": "5/20/2006",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/24/2006",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2006",
+      "honors": "No",
+      "enrollNow": "16",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/22/2006",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2006",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006",
+      "honors": "No",
+      "enrollNow": "15",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/22/2006",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2006",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 404",
+          "days": "MWF",
+          "sessionEnd": "5/18/2007",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/23/2007",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2007",
+      "honors": "No",
+      "enrollNow": "15",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/21/2007",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2007",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007",
+      "honors": "No",
+      "enrollNow": "12",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/21/2007",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/5/2007",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "5/22/2008",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/28/2008",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2008",
+      "honors": "No",
+      "enrollNow": "16",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/12/2008",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/3/2008",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2008",
+      "honors": "No",
+      "enrollNow": "9",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 401",
+          "days": "MWF",
+          "sessionEnd": "12/12/2008",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/3/2008",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2008",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 403",
+          "days": "MWF",
+          "sessionEnd": "5/13/2009",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/26/2009",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2009",
+      "honors": "No",
+      "enrollNow": "16",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 403",
+          "days": "MWF",
+          "sessionEnd": "5/13/2009",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "1/26/2009",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2009",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 402",
+          "days": "MWF",
+          "sessionEnd": "12/15/2009",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/2/2009",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2009",
+      "honors": "No",
+      "enrollNow": "20",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 402",
+          "days": "MWF",
+          "sessionEnd": "12/15/2009",
+          "timeEnd": "11:20 AM",
+          "timeStart": "10:30 AM",
+          "sessionStart": "9/2/2009",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2009",
+      "honors": "Yes",
+      "enrollNow": "1",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OS 402",
+          "days": "MWF",
+          "sessionEnd": "5/12/2010",
+          "timeEnd": "11:50 AM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/25/2010",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2010",
+      "honors": "No",
+      "enrollNow": "19",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OS 402",
+          "days": "MWF",
+          "sessionEnd": "5/12/2010",
+          "timeEnd": "11:50 AM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/25/2010",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2010",
+      "honors": "Yes",
+      "enrollNow": "0",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-404",
+          "days": "MWF",
+          "sessionEnd": "12/10/2010",
+          "timeEnd": "10:50 AM",
+          "timeStart": "10:00 AM",
+          "sessionStart": "9/1/2010",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2010",
+      "honors": "No",
+      "enrollNow": "12",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OLS-404",
+          "days": "MWF",
+          "sessionEnd": "12/10/2010",
+          "timeEnd": "10:50 AM",
+          "timeStart": "10:00 AM",
+          "sessionStart": "9/1/2010",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2010",
+      "honors": "Yes",
+      "enrollNow": "2",
+      "enrollMax": "5",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "5/9/2011",
+          "timeEnd": "11:50 AM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/24/2011",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2011",
+      "honors": "No",
+      "enrollNow": "22",
+      "enrollMax": "35",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "MWF",
+          "sessionEnd": "12/12/2011",
+          "timeEnd": "10:50 AM",
+          "timeStart": "10:00 AM",
+          "sessionStart": "9/1/2011",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2011",
+      "honors": "No",
+      "enrollNow": "15",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "days": "MWF",
+          "sessionEnd": "5/7/2012",
+          "timeEnd": "11:50 AM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/23/2012",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2012",
+      "honors": "No",
+      "enrollNow": "23",
+      "enrollMax": "40",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "12/10/2012",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/5/2012",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2012",
+      "honors": "No",
+      "enrollNow": "38",
+      "enrollMax": "40",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "5/1/2013",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "1/22/2013",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2013",
+      "honors": "No",
+      "enrollNow": "34",
+      "enrollMax": "40",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "12/11/2013",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/4/2013",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2013",
+      "honors": "No",
+      "enrollNow": "33",
+      "enrollMax": "45",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "5/2/2014",
+          "timeEnd": "12:15 PM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/21/2014",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2014",
+      "honors": "No",
+      "enrollNow": "26",
+      "enrollMax": "40",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-104",
+          "days": "TR",
+          "sessionEnd": "12/10/2014",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/3/2014",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2014",
+      "honors": "No",
+      "enrollNow": "48",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-109",
+          "days": "TR",
+          "sessionEnd": "5/1/2015",
+          "timeEnd": "12:15 PM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/20/2015",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2015",
+      "honors": "No",
+      "enrollNow": "43",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-401",
+          "days": "TR",
+          "sessionEnd": "12/9/2015",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/1/2015",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2015",
+      "honors": "No",
+      "enrollNow": "49",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-408",
+          "days": "TR",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "12:15 PM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/19/2016",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2016",
+      "honors": "No",
+      "enrollNow": "49",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OLS-402",
+          "days": "TR",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "1/19/2016",
+          "instructor": "Jay McCarthy"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2016",
+      "honors": "No",
+      "enrollNow": "12",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-109",
+          "days": "TR",
+          "sessionEnd": "12/9/2016",
+          "timeEnd": "10:45 AM",
+          "timeStart": "9:30 AM",
+          "sessionStart": "9/1/2016",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Fall 2016",
+      "honors": "No",
+      "enrollNow": "43",
+      "enrollMax": "49",
+      "course": "Operating Systems"
+    }
+  ],
+  [
+    {
+      "meetings": [
+        {
+          "room": "OLS-109",
+          "days": "TR",
+          "sessionEnd": "5/6/2017",
+          "timeEnd": "12:15 PM",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/17/2017",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2017",
+      "honors": "No",
+      "enrollNow": "61",
+      "enrollMax": "61",
+      "course": "Operating Systems"
+    },
+    {
+      "meetings": [
+        {
+          "room": "OLS-103",
+          "days": "TR",
+          "sessionEnd": "5/6/2017",
+          "timeEnd": "3:15 PM",
+          "timeStart": "2:00 PM",
+          "sessionStart": "1/17/2017",
+          "instructor": "William Moloney Jr"
+        }
+      ],
+      "creditValue": "3 Credits",
+      "semester": "Spring 2017",
+      "honors": "No",
+      "enrollNow": "29",
+      "enrollMax": "30",
+      "course": "Operating Systems"
+    }
+  ]
+]

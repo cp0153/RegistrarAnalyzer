@@ -1,0 +1,170 @@
+[
+  [
+    "Fall 2000",
+    {}
+  ],
+  [
+    "Spring 2001",
+    {}
+  ],
+  [
+    "Fall 2001",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2002",
+    {}
+  ],
+  [
+    "Fall 2002",
+    {
+      "Holly Yanco": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2003",
+    {}
+  ],
+  [
+    "Fall 2003",
+    {
+      "Fred Martin": 1,
+      "TBA": 3
+    }
+  ],
+  [
+    "Spring 2004",
+    {}
+  ],
+  [
+    "Fall 2004",
+    {
+      "Fred Martin": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2005",
+    {}
+  ],
+  [
+    "Fall 2005",
+    {
+      "Fred Martin": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Spring 2006",
+    {}
+  ],
+  [
+    "Fall 2006",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Spring 2007",
+    {}
+  ],
+  [
+    "Fall 2007",
+    {
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {}
+  ],
+  [
+    "Fall 2008",
+    {}
+  ],
+  [
+    "Spring 2009",
+    {}
+  ],
+  [
+    "Fall 2009",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2010",
+    {}
+  ],
+  [
+    "Fall 2010",
+    {}
+  ],
+  [
+    "Spring 2011",
+    {}
+  ],
+  [
+    "Fall 2011",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {}
+  ],
+  [
+    "Fall 2012",
+    {}
+  ],
+  [
+    "Spring 2013",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {}
+  ],
+  [
+    "Spring 2014",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {}
+  ],
+  [
+    "Spring 2015",
+    {
+      "Holly Yanco": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {}
+  ],
+  [
+    "Spring 2016",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {}
+  ],
+  [
+    "Spring 2017",
+    {
+      "Fred Martin": 1
+    }
+  ]
+]

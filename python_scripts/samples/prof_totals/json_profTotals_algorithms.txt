@@ -1,0 +1,13 @@
+{
+  "Benyuan Liu": 9,
+  "Giampiero Pecelli": 3,
+  "Karen Daniels": 17,
+  "Mikhail Zelikov": 3,
+  "Sirong Lin": 4,
+  "Jose Annunziato": 2,
+  "Roger Marshall": 1,
+  "Cindy Chen": 1,
+  "Thomas Costello": 2,
+  "Aparna Mahadev": 2,
+  "TBA": 12
+}

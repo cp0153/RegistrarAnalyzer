@@ -1,0 +1,160 @@
+[
+  [
+    "Fall 2000",
+    {}
+  ],
+  [
+    "Spring 2001",
+    {}
+  ],
+  [
+    "Fall 2001",
+    {}
+  ],
+  [
+    "Spring 2002",
+    {}
+  ],
+  [
+    "Fall 2002",
+    {}
+  ],
+  [
+    "Spring 2003",
+    {}
+  ],
+  [
+    "Fall 2003",
+    {}
+  ],
+  [
+    "Spring 2004",
+    {}
+  ],
+  [
+    "Fall 2004",
+    {
+      "Kajal Claypool": 1
+    }
+  ],
+  [
+    "Spring 2005",
+    {}
+  ],
+  [
+    "Fall 2005",
+    {
+      "Kajal Claypool": 1
+    }
+  ],
+  [
+    "Spring 2006",
+    {}
+  ],
+  [
+    "Fall 2006",
+    {}
+  ],
+  [
+    "Spring 2007",
+    {}
+  ],
+  [
+    "Fall 2007",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Spring 2008",
+    {}
+  ],
+  [
+    "Fall 2008",
+    {}
+  ],
+  [
+    "Spring 2009",
+    {
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2009",
+    {}
+  ],
+  [
+    "Spring 2010",
+    {}
+  ],
+  [
+    "Fall 2010",
+    {}
+  ],
+  [
+    "Spring 2011",
+    {
+      "Roger Marshall": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {}
+  ],
+  [
+    "Spring 2012",
+    {
+      "Sarita Hakimian": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {}
+  ],
+  [
+    "Spring 2013",
+    {
+      "Sarita Hakimian": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {}
+  ],
+  [
+    "Spring 2014",
+    {
+      "Yu Cao": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {}
+  ],
+  [
+    "Spring 2015",
+    {
+      "Yu Cao": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {}
+  ],
+  [
+    "Spring 2016",
+    {
+      "Michael McGonagle": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {}
+  ],
+  [
+    "Spring 2017",
+    {
+      "Yu Cao": 1
+    }
+  ]
+]

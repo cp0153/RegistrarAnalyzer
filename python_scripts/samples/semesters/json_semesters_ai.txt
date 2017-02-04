@@ -1,0 +1,345 @@
+[
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "20",
+      "semester": "Spring 2002",
+      "meetings": [
+        {
+          "instructor": "Holly Yanco",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 414",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "TR",
+          "timeEnd": "12:45 PM"
+        }
+      ],
+      "enrollNow": "23"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2003",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 311",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:00 PM",
+          "days": "TR",
+          "timeEnd": "2:15 PM"
+        }
+      ],
+      "enrollNow": "6"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "0",
+      "semester": "Fall 2003",
+      "meetings": [],
+      "enrollNow": "0"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2004",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 412",
+          "sessionStart": "1/20/2004",
+          "timeStart": "3:30 PM",
+          "days": "TR",
+          "timeEnd": "4:45 PM"
+        }
+      ],
+      "enrollNow": "12"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2005",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/21/2005",
+          "room": "OS 412",
+          "sessionStart": "1/21/2005",
+          "timeStart": "3:30 PM",
+          "days": "TR",
+          "timeEnd": "4:45 PM"
+        }
+      ],
+      "enrollNow": "8"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2006",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/20/2006",
+          "room": "OS 404",
+          "sessionStart": "1/24/2006",
+          "timeStart": "5:30 PM",
+          "days": "R",
+          "timeEnd": "8:30 PM"
+        }
+      ],
+      "enrollNow": "6"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2007",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/18/2007",
+          "room": "OS 404",
+          "sessionStart": "1/23/2007",
+          "timeStart": "5:30 PM",
+          "days": "M",
+          "timeEnd": "8:30 PM"
+        }
+      ],
+      "enrollNow": "7"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Spring 2008",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "5/22/2008",
+          "room": "OS 404",
+          "sessionStart": "1/28/2008",
+          "timeStart": "5:30 PM",
+          "days": "T",
+          "timeEnd": "8:30 PM"
+        }
+      ],
+      "enrollNow": "3"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "20",
+      "semester": "Fall 2008",
+      "meetings": [
+        {
+          "instructor": "Gary Livingston",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 402",
+          "sessionStart": "9/3/2008",
+          "timeStart": "5:30 PM",
+          "days": "T",
+          "timeEnd": "8:00 PM"
+        }
+      ],
+      "enrollNow": "11"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "20",
+      "semester": "Spring 2010",
+      "meetings": [
+        {
+          "instructor": "Roger Marshall",
+          "sessionEnd": "5/12/2010",
+          "room": "OS 401",
+          "sessionStart": "1/25/2010",
+          "timeStart": "6:00 PM",
+          "days": "M",
+          "timeEnd": "9:00 PM"
+        }
+      ],
+      "enrollNow": "4"
+    }
+  ],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Fall 2010",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-401",
+          "sessionStart": "9/1/2010",
+          "timeStart": "12:00 PM",
+          "days": "MWF",
+          "timeEnd": "12:50 PM"
+        }
+      ],
+      "enrollNow": "12"
+    },
+    {
+      "honors": "Yes",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "5",
+      "semester": "Fall 2010",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-401",
+          "sessionStart": "9/1/2010",
+          "timeStart": "12:00 PM",
+          "days": "MWF",
+          "timeEnd": "12:50 PM"
+        }
+      ],
+      "enrollNow": "0"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "6",
+      "semester": "Fall 2011",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/12/2011",
+          "room": "FAC_TBD",
+          "sessionStart": "9/1/2011",
+          "timeStart": "Unknown",
+          "days": "Unknown",
+          "timeEnd": "Unknown"
+        }
+      ],
+      "enrollNow": "7"
+    }
+  ],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "20",
+      "semester": "Fall 2012",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-403",
+          "sessionStart": "9/5/2012",
+          "timeStart": "12:30 PM",
+          "days": "TR",
+          "timeEnd": "1:45 PM"
+        }
+      ],
+      "enrollNow": "7"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "30",
+      "semester": "Fall 2014",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-401",
+          "sessionStart": "9/3/2014",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM"
+        }
+      ],
+      "enrollNow": "27"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "honors": "No",
+      "creditValue": "3 Credits",
+      "course": "Artificial Intelligence",
+      "enrollMax": "40",
+      "semester": "Fall 2016",
+      "meetings": [
+        {
+          "instructor": "Fred Martin",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-102",
+          "sessionStart": "9/1/2016",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM"
+        }
+      ],
+      "enrollNow": "37"
+    }
+  ],
+  []
+]

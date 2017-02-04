@@ -1,0 +1,56 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Spring 2017",
+      "course": "Mobile App Programming ll",
+      "enrollMax": "49",
+      "meetings": [
+        {
+          "room": "OLS-404",
+          "timeEnd": "4:45 PM",
+          "instructor": "Guanling Chen",
+          "days": "TR",
+          "timeStart": "3:30 PM",
+          "sessionEnd": "5/6/2017",
+          "sessionStart": "1/17/2017"
+        }
+      ],
+      "enrollNow": "10",
+      "creditValue": "3 Credits",
+      "honors": "No"
+    }
+  ]
+]

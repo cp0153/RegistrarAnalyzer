@@ -1,0 +1,638 @@
+
+> You chose to scrape the course Special Topics
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 22.927 seconds
+> 1 Semesters Parsed in 22.927 seconds.
+> 33 Semesters Left, should take around 756.577 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:00 PM
+> Time End:       5:50 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     James Canning
+> Room:           OS 309
+
+>> Time Info:
+> This semester took 12.837 seconds
+> 2 Semesters Parsed in 35.763 seconds.
+> 32 Semesters Left, should take around 572.213 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 11.545 seconds
+> 3 Semesters Parsed in 47.309 seconds.
+> 31 Semesters Left, should take around 488.857 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 11.545 seconds
+> 4 Semesters Parsed in 58.853 seconds.
+> 30 Semesters Left, should take around 441.399 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 6.892 seconds
+> 5 Semesters Parsed in 65.746 seconds.
+> 29 Semesters Left, should take around 381.325 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 2
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 11.785 seconds
+> 6 Semesters Parsed in 77.53 seconds.
+> 28 Semesters Left, should take around 361.808 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Time Info:
+> This semester took 10.868 seconds
+> 7 Semesters Parsed in 88.398 seconds.
+> 27 Semesters Left, should take around 340.963 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 2
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 7.219 seconds
+> 8 Semesters Parsed in 95.617 seconds.
+> 26 Semesters Left, should take around 310.756 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 10.931 seconds
+> 9 Semesters Parsed in 106.548 seconds.
+> 25 Semesters Left, should take around 295.967 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 11.14 seconds
+> 10 Semesters Parsed in 117.688 seconds.
+> 24 Semesters Left, should take around 282.451 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 10.824 seconds
+> 11 Semesters Parsed in 128.512 seconds.
+> 23 Semesters Left, should take around 268.707 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 10.859 seconds
+> 12 Semesters Parsed in 139.371 seconds.
+> 22 Semesters Left, should take around 255.514 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 7.498 seconds
+> 13 Semesters Parsed in 146.869 seconds.
+> 21 Semesters Left, should take around 237.249 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     James Canning
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 10.537 seconds
+> 14 Semesters Parsed in 157.406 seconds.
+> 20 Semesters Left, should take around 224.866 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 14.811 seconds
+> 15 Semesters Parsed in 172.217 seconds.
+> 19 Semesters Left, should take around 218.142 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   5
+> Enrollment Max: 25
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     James Canning
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 11.429 seconds
+> 16 Semesters Parsed in 183.646 seconds.
+> 18 Semesters Left, should take around 206.601 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 9.515 seconds
+> 17 Semesters Parsed in 193.16 seconds.
+> 17 Semesters Left, should take around 193.16 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   4
+> Enrollment Max: 5
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   3
+> Enrollment Max: 15
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     2:30 PM
+> Time End:       4:50 PM
+> Session Start:  1/26/2009
+> Session End:    5/13/2009
+> Instructor:     Fred Martin
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 9.059 seconds
+> 18 Semesters Parsed in 202.219 seconds.
+> 16 Semesters Left, should take around 179.75 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 11.184 seconds
+> 19 Semesters Parsed in 213.403 seconds.
+> 15 Semesters Left, should take around 168.476 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     James Canning
+> Room:           OS 402
+
+>> Parsing Course Section 2
+> Enrolled Now:   5
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 3
+> Enrolled Now:   0
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 15.538 seconds
+> 20 Semesters Parsed in 228.941 seconds.
+> 14 Semesters Left, should take around 160.259 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   5
+> Enrollment Max: 8
+> Credit Value:   1 Credits
+> Honors Section: No
+> Meeting Days:   F
+> Time Start:     2:00 PM
+> Time End:       4:50 PM
+> Session Start:  9/1/2010
+> Session End:    12/10/2010
+> Instructor:     Fred Martin
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 11.558 seconds
+> 21 Semesters Parsed in 240.499 seconds.
+> 13 Semesters Left, should take around 148.88 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.878 seconds
+> 22 Semesters Parsed in 252.377 seconds.
+> 12 Semesters Left, should take around 137.66 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     2:00 PM
+> Time End:       3:15 PM
+> Session Start:  9/1/2011
+> Session End:    12/12/2011
+> Instructor:     Guanling Chen
+> Room:           OLS-404
+
+>> Time Info:
+> This semester took 11.652 seconds
+> 23 Semesters Parsed in 264.029 seconds.
+> 11 Semesters Left, should take around 126.275 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   4
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Byung Kim
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 6.969 seconds
+> 24 Semesters Parsed in 270.998 seconds.
+> 10 Semesters Left, should take around 112.916 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 12.015 seconds
+> 25 Semesters Parsed in 283.013 seconds.
+> 9 Semesters Left, should take around 101.885 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 30
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Guanling Chen
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   6
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/22/2013
+> Session End:    5/1/2013
+> Instructor:     Byung Kim
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 10.909 seconds
+> 26 Semesters Parsed in 293.922 seconds.
+> 8 Semesters Left, should take around 90.437 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Time Info:
+> This semester took 15.289 seconds
+> 27 Semesters Parsed in 309.21 seconds.
+> 7 Semesters Left, should take around 80.166 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   25
+> Enrollment Max: 30
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Guanling Chen
+> Room:           OLS-408
+
+>> Parsing Course Section 2
+> Enrolled Now:   9
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     4:30 PM
+> Time End:       7:15 PM
+> Session Start:  1/21/2014
+> Session End:    5/2/2014
+> Instructor:     Byung Kim
+> Room:           OLS-406
+
+>> Time Info:
+> This semester took 11.475 seconds
+> 28 Semesters Parsed in 320.686 seconds.
+> 6 Semesters Left, should take around 68.718 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Time Info:
+> This semester took 11.629 seconds
+> 29 Semesters Parsed in 332.315 seconds.
+> 5 Semesters Left, should take around 57.296 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   29
+> Enrollment Max: 40
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   R
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     TBA
+> Room:           OLS-401
+
+>> Parsing Course Section 2
+> Enrolled Now:   8
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     4:30 PM
+> Time End:       7:15 PM
+> Session Start:  1/20/2015
+> Session End:    5/1/2015
+> Instructor:     Byung Kim
+> Room:           OLS-403
+
+>> Parsing Course Section 3
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 10.747 seconds
+> 30 Semesters Parsed in 343.062 seconds.
+> 4 Semesters Left, should take around 45.742 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     William Moloney Jr
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 9.15 seconds
+> 31 Semesters Parsed in 352.211 seconds.
+> 3 Semesters Left, should take around 34.085 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Guanling Chen
+> Room:           OLS-109
+
+>> Parsing Course Section 2
+> Enrolled Now:   14
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     4:30 PM
+> Time End:       7:15 PM
+> Session Start:  1/19/2016
+> Session End:    5/7/2016
+> Instructor:     Byung Kim
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 9.184 seconds
+> 32 Semesters Parsed in 361.395 seconds.
+> 2 Semesters Left, should take around 22.587 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 30
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Guanling Chen
+> Room:           OLS-104
+
+>> Time Info:
+> This semester took 7.759 seconds
+> 33 Semesters Parsed in 369.154 seconds.
+> 1 Semesters Left, should take around 11.186 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 19
+> Credit Value:   1-3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:15 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Byung Kim
+> Room:           OLS-412
+
+>>> Now writing out Fall 2000 through Spring 2017 for Special Topics
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+> James Canning: 1
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+> James Canning: 1
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+> James Canning: 1
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+> James Canning: 1
+>> Writing professor count for semester Fall 2010
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+> Guanling Chen: 1
+>> Writing professor count for semester Spring 2012
+> Byung Kim: 1
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+> Byung Kim: 1
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2013
+>> Writing professor count for semester Spring 2014
+> Byung Kim: 1
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2014
+>> Writing professor count for semester Spring 2015
+> Byung Kim: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2015
+> William Moloney Jr: 1
+>> Writing professor count for semester Spring 2016
+> Byung Kim: 1
+> Guanling Chen: 1
+>> Writing professor count for semester Fall 2016
+> Guanling Chen: 1
+>> Writing professor count for semester Spring 2017
+> Byung Kim: 1
+
+>>> Writing Professor Totals for Special Topics for semesters Fall 2000 through Spring 2017
+> TBA: 1
+> Byung Kim: 6
+> Fred Martin: 2
+> William Moloney Jr: 1
+> James Canning: 4
+> Guanling Chen: 5
+
+>>> All of this took 379.939 seconds.

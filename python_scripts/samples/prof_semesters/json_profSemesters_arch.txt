@@ -1,0 +1,218 @@
+[
+  [
+    "Fall 2000",
+    {
+      "TBA": 2,
+      "James Canning": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "TBA": 1,
+      "James Canning": 1,
+      "David Hendrickson": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "TBA": 2,
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "TBA": 1,
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "TBA": 2,
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "TBA": 1,
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "TBA": 1,
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "TBA": 1,
+      "Fred Martin": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "TBA": 1,
+      "Fred Martin": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "James Canning": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Adam Elbirt": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "Adam Elbirt": 2
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "Adam Elbirt": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "Adam Elbirt": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Adam Elbirt": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "William Moloney Jr": 2
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "William Moloney Jr": 1,
+      "Jay McCarthy": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "William Moloney Jr": 1,
+      "David Hendrickson": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "William Moloney Jr": 1
+    }
+  ]
+]

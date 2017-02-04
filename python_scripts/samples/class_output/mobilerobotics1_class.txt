@@ -5,16 +5,16 @@
 >>> Getting Info for Semester Fall 2000
 
 >> Time Info:
-> This semester took 13.468 seconds
-> 1 Semesters Parsed in 13.468 seconds.
-> 33 Semesters Left, should take around 444.437 seconds.
+> This semester took 23.328 seconds
+> 1 Semesters Parsed in 23.328 seconds.
+> 33 Semesters Left, should take around 769.811 seconds.
 
 >>> Getting Info for Semester Spring 2001
 
 >> Time Info:
-> This semester took 7.8 seconds
-> 2 Semesters Parsed in 21.268 seconds.
-> 32 Semesters Left, should take around 340.288 seconds.
+> This semester took 14.387 seconds
+> 2 Semesters Parsed in 37.714 seconds.
+> 32 Semesters Left, should take around 603.429 seconds.
 
 >>> Getting Info for Semester Fall 2001
 
@@ -34,16 +34,16 @@
 > Room:           OS 412
 
 >> Time Info:
-> This semester took 7.354 seconds
-> 3 Semesters Parsed in 28.622 seconds.
-> 31 Semesters Left, should take around 295.761 seconds.
+> This semester took 11.939 seconds
+> 3 Semesters Parsed in 49.654 seconds.
+> 31 Semesters Left, should take around 513.087 seconds.
 
 >>> Getting Info for Semester Spring 2002
 
 >> Time Info:
-> This semester took 6.831 seconds
-> 4 Semesters Parsed in 35.453 seconds.
-> 30 Semesters Left, should take around 265.901 seconds.
+> This semester took 14.505 seconds
+> 4 Semesters Parsed in 64.159 seconds.
+> 30 Semesters Left, should take around 481.191 seconds.
 
 >>> Getting Info for Semester Fall 2002
 
@@ -70,16 +70,16 @@
 > Room:           OS 304
 
 >> Time Info:
-> This semester took 7.973 seconds
-> 5 Semesters Parsed in 43.427 seconds.
-> 29 Semesters Left, should take around 251.875 seconds.
+> This semester took 13.036 seconds
+> 5 Semesters Parsed in 77.195 seconds.
+> 29 Semesters Left, should take around 447.732 seconds.
 
 >>> Getting Info for Semester Spring 2003
 
 >> Time Info:
-> This semester took 7.284 seconds
-> 6 Semesters Parsed in 50.711 seconds.
-> 28 Semesters Left, should take around 236.651 seconds.
+> This semester took 14.943 seconds
+> 6 Semesters Parsed in 92.138 seconds.
+> 28 Semesters Left, should take around 429.978 seconds.
 
 >>> Getting Info for Semester Fall 2003
 
@@ -126,16 +126,16 @@
 > Room:           OS 304
 
 >> Time Info:
-> This semester took 8.321 seconds
-> 7 Semesters Parsed in 59.032 seconds.
-> 27 Semesters Left, should take around 227.693 seconds.
+> This semester took 13.871 seconds
+> 7 Semesters Parsed in 106.009 seconds.
+> 27 Semesters Left, should take around 408.891 seconds.
 
 >>> Getting Info for Semester Spring 2004
 
 >> Time Info:
-> This semester took 7.479 seconds
-> 8 Semesters Parsed in 66.511 seconds.
-> 26 Semesters Left, should take around 216.159 seconds.
+> This semester took 11.025 seconds
+> 8 Semesters Parsed in 117.034 seconds.
+> 26 Semesters Left, should take around 380.36 seconds.
 
 >>> Getting Info for Semester Fall 2004
 
@@ -162,16 +162,16 @@
 > Room:           OS 415
 
 >> Time Info:
-> This semester took 9.147 seconds
-> 9 Semesters Parsed in 75.657 seconds.
-> 25 Semesters Left, should take around 210.159 seconds.
+> This semester took 11.755 seconds
+> 9 Semesters Parsed in 128.789 seconds.
+> 25 Semesters Left, should take around 357.748 seconds.
 
 >>> Getting Info for Semester Spring 2005
 
 >> Time Info:
-> This semester took 7.353 seconds
-> 10 Semesters Parsed in 83.01 seconds.
-> 24 Semesters Left, should take around 199.224 seconds.
+> This semester took 9.002 seconds
+> 10 Semesters Parsed in 137.791 seconds.
+> 24 Semesters Left, should take around 330.699 seconds.
 
 >>> Getting Info for Semester Fall 2005
 
@@ -198,16 +198,16 @@
 > Room:           OS 412
 
 >> Time Info:
-> This semester took 6.981 seconds
-> 11 Semesters Parsed in 89.991 seconds.
-> 23 Semesters Left, should take around 188.163 seconds.
+> This semester took 11.028 seconds
+> 11 Semesters Parsed in 148.82 seconds.
+> 23 Semesters Left, should take around 311.168 seconds.
 
 >>> Getting Info for Semester Spring 2006
 
 >> Time Info:
-> This semester took 6.804 seconds
-> 12 Semesters Parsed in 96.795 seconds.
-> 22 Semesters Left, should take around 177.457 seconds.
+> This semester took 10.673 seconds
+> 12 Semesters Parsed in 159.492 seconds.
+> 22 Semesters Left, should take around 292.402 seconds.
 
 >>> Getting Info for Semester Fall 2006
 
@@ -234,16 +234,16 @@
 > This course section has no meeting information.
 
 >> Time Info:
-> This semester took 6.731 seconds
-> 13 Semesters Parsed in 103.526 seconds.
-> 21 Semesters Left, should take around 167.234 seconds.
+> This semester took 16.699 seconds
+> 13 Semesters Parsed in 176.191 seconds.
+> 21 Semesters Left, should take around 284.616 seconds.
 
 >>> Getting Info for Semester Spring 2007
 
 >> Time Info:
-> This semester took 6.511 seconds
-> 14 Semesters Parsed in 110.036 seconds.
-> 20 Semesters Left, should take around 157.195 seconds.
+> This semester took 11.031 seconds
+> 14 Semesters Parsed in 187.222 seconds.
+> 20 Semesters Left, should take around 267.46 seconds.
 
 >>> Getting Info for Semester Fall 2007
 
@@ -273,30 +273,30 @@
 > This course section is cancelled.
 
 >> Time Info:
-> This semester took 6.636 seconds
-> 15 Semesters Parsed in 116.672 seconds.
-> 19 Semesters Left, should take around 147.784 seconds.
+> This semester took 14.854 seconds
+> 15 Semesters Parsed in 202.076 seconds.
+> 19 Semesters Left, should take around 255.963 seconds.
 
 >>> Getting Info for Semester Spring 2008
 
 >> Time Info:
-> This semester took 6.375 seconds
-> 16 Semesters Parsed in 123.047 seconds.
-> 18 Semesters Left, should take around 138.428 seconds.
+> This semester took 11.398 seconds
+> 16 Semesters Parsed in 213.474 seconds.
+> 18 Semesters Left, should take around 240.158 seconds.
 
 >>> Getting Info for Semester Fall 2008
 
 >> Time Info:
-> This semester took 6.138 seconds
-> 17 Semesters Parsed in 129.185 seconds.
-> 17 Semesters Left, should take around 129.185 seconds.
+> This semester took 11.059 seconds
+> 17 Semesters Parsed in 224.534 seconds.
+> 17 Semesters Left, should take around 224.534 seconds.
 
 >>> Getting Info for Semester Spring 2009
 
 >> Time Info:
-> This semester took 6.547 seconds
-> 18 Semesters Parsed in 135.732 seconds.
-> 16 Semesters Left, should take around 120.651 seconds.
+> This semester took 6.779 seconds
+> 18 Semesters Parsed in 231.313 seconds.
+> 16 Semesters Left, should take around 205.611 seconds.
 
 >>> Getting Info for Semester Fall 2009
 
@@ -316,30 +316,30 @@
 > Room:           OS 302
 
 >> Time Info:
-> This semester took 6.242 seconds
-> 19 Semesters Parsed in 141.975 seconds.
-> 15 Semesters Left, should take around 112.085 seconds.
+> This semester took 11.484 seconds
+> 19 Semesters Parsed in 242.797 seconds.
+> 15 Semesters Left, should take around 191.682 seconds.
 
 >>> Getting Info for Semester Spring 2010
 
 >> Time Info:
-> This semester took 5.584 seconds
-> 20 Semesters Parsed in 147.559 seconds.
-> 14 Semesters Left, should take around 103.291 seconds.
+> This semester took 14.464 seconds
+> 20 Semesters Parsed in 257.261 seconds.
+> 14 Semesters Left, should take around 180.083 seconds.
 
 >>> Getting Info for Semester Fall 2010
 
 >> Time Info:
-> This semester took 6.637 seconds
-> 21 Semesters Parsed in 154.196 seconds.
-> 13 Semesters Left, should take around 95.455 seconds.
+> This semester took 11.738 seconds
+> 21 Semesters Parsed in 268.999 seconds.
+> 13 Semesters Left, should take around 166.523 seconds.
 
 >>> Getting Info for Semester Spring 2011
 
 >> Time Info:
-> This semester took 6.123 seconds
-> 22 Semesters Parsed in 160.319 seconds.
-> 12 Semesters Left, should take around 87.447 seconds.
+> This semester took 12.091 seconds
+> 22 Semesters Parsed in 281.09 seconds.
+> 12 Semesters Left, should take around 153.322 seconds.
 
 >>> Getting Info for Semester Fall 2011
 
@@ -359,23 +359,23 @@
 > Room:           OLS-403
 
 >> Time Info:
-> This semester took 6.452 seconds
-> 23 Semesters Parsed in 166.771 seconds.
-> 11 Semesters Left, should take around 79.76 seconds.
+> This semester took 10.968 seconds
+> 23 Semesters Parsed in 292.057 seconds.
+> 11 Semesters Left, should take around 139.68 seconds.
 
 >>> Getting Info for Semester Spring 2012
 
 >> Time Info:
-> This semester took 6.377 seconds
-> 24 Semesters Parsed in 173.148 seconds.
-> 10 Semesters Left, should take around 72.145 seconds.
+> This semester took 6.55 seconds
+> 24 Semesters Parsed in 298.607 seconds.
+> 10 Semesters Left, should take around 124.42 seconds.
 
 >>> Getting Info for Semester Fall 2012
 
 >> Time Info:
-> This semester took 6.212 seconds
-> 25 Semesters Parsed in 179.359 seconds.
-> 9 Semesters Left, should take around 64.569 seconds.
+> This semester took 11.529 seconds
+> 25 Semesters Parsed in 310.136 seconds.
+> 9 Semesters Left, should take around 111.649 seconds.
 
 >>> Getting Info for Semester Spring 2013
 
@@ -395,16 +395,16 @@
 > Room:           OLS-403
 
 >> Time Info:
-> This semester took 6.158 seconds
-> 26 Semesters Parsed in 185.518 seconds.
-> 8 Semesters Left, should take around 57.082 seconds.
+> This semester took 16.11 seconds
+> 26 Semesters Parsed in 326.247 seconds.
+> 8 Semesters Left, should take around 100.384 seconds.
 
 >>> Getting Info for Semester Fall 2013
 
 >> Time Info:
-> This semester took 5.673 seconds
-> 27 Semesters Parsed in 191.191 seconds.
-> 7 Semesters Left, should take around 49.568 seconds.
+> This semester took 11.614 seconds
+> 27 Semesters Parsed in 337.861 seconds.
+> 7 Semesters Left, should take around 87.594 seconds.
 
 >>> Getting Info for Semester Spring 2014
 
@@ -424,16 +424,16 @@
 > Room:           OLS-402
 
 >> Time Info:
-> This semester took 6.233 seconds
-> 28 Semesters Parsed in 197.424 seconds.
-> 6 Semesters Left, should take around 42.305 seconds.
+> This semester took 11.549 seconds
+> 28 Semesters Parsed in 349.41 seconds.
+> 6 Semesters Left, should take around 74.874 seconds.
 
 >>> Getting Info for Semester Fall 2014
 
 >> Time Info:
-> This semester took 5.943 seconds
-> 29 Semesters Parsed in 203.368 seconds.
-> 5 Semesters Left, should take around 35.063 seconds.
+> This semester took 7.447 seconds
+> 29 Semesters Parsed in 356.857 seconds.
+> 5 Semesters Left, should take around 61.527 seconds.
 
 >>> Getting Info for Semester Spring 2015
 
@@ -453,16 +453,16 @@
 > Room:           OLS-402
 
 >> Time Info:
-> This semester took 6.585 seconds
-> 30 Semesters Parsed in 209.952 seconds.
-> 4 Semesters Left, should take around 27.994 seconds.
+> This semester took 9.201 seconds
+> 30 Semesters Parsed in 366.058 seconds.
+> 4 Semesters Left, should take around 48.808 seconds.
 
 >>> Getting Info for Semester Fall 2015
 
 >> Time Info:
-> This semester took 6.066 seconds
-> 31 Semesters Parsed in 216.018 seconds.
-> 3 Semesters Left, should take around 20.905 seconds.
+> This semester took 9.649 seconds
+> 31 Semesters Parsed in 375.707 seconds.
+> 3 Semesters Left, should take around 36.359 seconds.
 
 >>> Getting Info for Semester Spring 2016
 
@@ -482,16 +482,16 @@
 > Room:           OLS-402
 
 >> Time Info:
-> This semester took 6.218 seconds
-> 32 Semesters Parsed in 222.236 seconds.
-> 2 Semesters Left, should take around 13.89 seconds.
+> This semester took 7.944 seconds
+> 32 Semesters Parsed in 383.651 seconds.
+> 2 Semesters Left, should take around 23.978 seconds.
 
 >>> Getting Info for Semester Fall 2016
 
 >> Time Info:
-> This semester took 6.129 seconds
-> 33 Semesters Parsed in 228.365 seconds.
-> 1 Semesters Left, should take around 6.92 seconds.
+> This semester took 6.432 seconds
+> 33 Semesters Parsed in 390.083 seconds.
+> 1 Semesters Left, should take around 11.821 seconds.
 
 >>> Getting Info for Semester Spring 2017
 
@@ -566,7 +566,7 @@
 
 >>> Writing Professor Totals for Mobile Robotics I for semesters Fall 2000 through Spring 2017
 > Fred Martin: 8
-> TBA: 6
 > Holly Yanco: 7
+> TBA: 6
 
->>> All of this took 234.682 seconds.
+>>> All of this took 398.505 seconds.

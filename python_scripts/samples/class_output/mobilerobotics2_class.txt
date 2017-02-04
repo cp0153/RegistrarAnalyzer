@@ -1,0 +1,479 @@
+
+> You chose to scrape the course Mobile Robotics II
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 21.386 seconds
+> 1 Semesters Parsed in 21.386 seconds.
+> 33 Semesters Left, should take around 705.722 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 11.884 seconds
+> 2 Semesters Parsed in 33.269 seconds.
+> 32 Semesters Left, should take around 532.304 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 10.265 seconds
+> 3 Semesters Parsed in 43.534 seconds.
+> 31 Semesters Left, should take around 449.854 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 8.26 seconds
+> 4 Semesters Parsed in 51.794 seconds.
+> 30 Semesters Left, should take around 388.454 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 11.108 seconds
+> 5 Semesters Parsed in 62.902 seconds.
+> 29 Semesters Left, should take around 364.832 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     Holly Yanco
+> Room:           OS 403
+> Meeting Days:   R
+> Time Start:     11:30 AM
+> Time End:       2:00 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     TBA
+> Room:           OS 304
+
+>> Time Info:
+> This semester took 15.418 seconds
+> 6 Semesters Parsed in 78.321 seconds.
+> 28 Semesters Left, should take around 365.496 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Parsing Course Section 2
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 14.228 seconds
+> 7 Semesters Parsed in 92.548 seconds.
+> 27 Semesters Left, should take around 356.973 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   15
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     Holly Yanco
+> Room:           OS 415
+> Meeting Days:   R
+> Time Start:     1:00 PM
+> Time End:       3:00 PM
+> Session Start:  1/28/2004
+> Session End:    5/22/2004
+> Instructor:     TBA
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 15.052 seconds
+> 8 Semesters Parsed in 107.6 seconds.
+> 26 Semesters Left, should take around 349.701 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 10.708 seconds
+> 9 Semesters Parsed in 118.308 seconds.
+> 25 Semesters Left, should take around 328.634 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     Holly Yanco
+> Room:           OS 415
+> Meeting Days:   R
+> Time Start:     1:00 PM
+> Time End:       2:50 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     TBA
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 13.353 seconds
+> 10 Semesters Parsed in 131.661 seconds.
+> 24 Semesters Left, should take around 315.987 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 15.137 seconds
+> 11 Semesters Parsed in 146.798 seconds.
+> 23 Semesters Left, should take around 306.942 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Holly Yanco
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 11.148 seconds
+> 12 Semesters Parsed in 157.946 seconds.
+> 22 Semesters Left, should take around 289.568 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 11.674 seconds
+> 13 Semesters Parsed in 169.62 seconds.
+> 21 Semesters Left, should take around 274.002 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   6
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Holly Yanco
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 7.08 seconds
+> 14 Semesters Parsed in 176.7 seconds.
+> 20 Semesters Left, should take around 252.429 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 12.533 seconds
+> 15 Semesters Parsed in 189.233 seconds.
+> 19 Semesters Left, should take around 239.696 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 20
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Fred Martin
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 11.534 seconds
+> 16 Semesters Parsed in 200.767 seconds.
+> 18 Semesters Left, should take around 225.863 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 14.655 seconds
+> 17 Semesters Parsed in 215.423 seconds.
+> 17 Semesters Left, should take around 215.423 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 13.054 seconds
+> 18 Semesters Parsed in 228.476 seconds.
+> 16 Semesters Left, should take around 203.09 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 13.875 seconds
+> 19 Semesters Parsed in 242.351 seconds.
+> 15 Semesters Left, should take around 191.33 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   9
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     4:00 PM
+> Time End:       6:50 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Fred Martin
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 11.23 seconds
+> 20 Semesters Parsed in 253.581 seconds.
+> 14 Semesters Left, should take around 177.507 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Time Info:
+> This semester took 7.075 seconds
+> 21 Semesters Parsed in 260.656 seconds.
+> 13 Semesters Left, should take around 161.358 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.577 seconds
+> 22 Semesters Parsed in 272.233 seconds.
+> 12 Semesters Left, should take around 148.49 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 10.593 seconds
+> 23 Semesters Parsed in 282.825 seconds.
+> 11 Semesters Left, should take around 135.264 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 12
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     12:30 PM
+> Time End:       1:45 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     Fred Martin
+> Room:           OLS-403
+
+>> Time Info:
+> This semester took 11.742 seconds
+> 24 Semesters Parsed in 294.567 seconds.
+> 10 Semesters Left, should take around 122.736 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 13.136 seconds
+> 25 Semesters Parsed in 307.703 seconds.
+> 9 Semesters Left, should take around 110.773 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 6.297 seconds
+> 26 Semesters Parsed in 314.0 seconds.
+> 8 Semesters Left, should take around 96.615 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   3
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   T
+> Time Start:     4:00 PM
+> Time End:       6:30 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Holly Yanco
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 12.846 seconds
+> 27 Semesters Parsed in 326.846 seconds.
+> 7 Semesters Left, should take around 84.738 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 10.315 seconds
+> 28 Semesters Parsed in 337.161 seconds.
+> 6 Semesters Left, should take around 72.249 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Time Info:
+> This semester took 12.05 seconds
+> 29 Semesters Parsed in 349.211 seconds.
+> 5 Semesters Left, should take around 60.209 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 7.464 seconds
+> 30 Semesters Parsed in 356.675 seconds.
+> 4 Semesters Left, should take around 47.557 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   8
+> Enrollment Max: 12
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Fred Martin
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 9.164 seconds
+> 31 Semesters Parsed in 365.839 seconds.
+> 3 Semesters Left, should take around 35.404 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 9.908 seconds
+> 32 Semesters Parsed in 375.748 seconds.
+> 2 Semesters Left, should take around 23.484 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Time Info:
+> This semester took 7.809 seconds
+> 33 Semesters Parsed in 383.557 seconds.
+> 1 Semesters Left, should take around 11.623 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Mobile Robotics II
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+> Holly Yanco: 1
+> TBA: 1
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+> Holly Yanco: 1
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+> Fred Martin: 1
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+> Holly Yanco: 1
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+> Fred Martin: 1
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Mobile Robotics II for semesters Fall 2000 through Spring 2017
+> TBA: 3
+> Fred Martin: 4
+> Holly Yanco: 6
+
+>>> All of this took 392.231 seconds.

@@ -1,0 +1,343 @@
+
+> You chose to scrape the course Computer Vision I
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 22.828 seconds
+> 1 Semesters Parsed in 22.828 seconds.
+> 33 Semesters Left, should take around 753.337 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 11.29 seconds
+> 2 Semesters Parsed in 34.119 seconds.
+> 32 Semesters Left, should take around 545.902 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 7.098 seconds
+> 3 Semesters Parsed in 41.217 seconds.
+> 31 Semesters Left, should take around 425.91 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 11.511 seconds
+> 4 Semesters Parsed in 52.728 seconds.
+> 30 Semesters Left, should take around 395.463 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 11.024 seconds
+> 5 Semesters Parsed in 63.752 seconds.
+> 29 Semesters Left, should take around 369.761 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Time Info:
+> This semester took 14.411 seconds
+> 6 Semesters Parsed in 78.163 seconds.
+> 28 Semesters Left, should take around 364.76 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Time Info:
+> This semester took 14.383 seconds
+> 7 Semesters Parsed in 92.546 seconds.
+> 27 Semesters Left, should take around 356.964 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Time Info:
+> This semester took 6.389 seconds
+> 8 Semesters Parsed in 98.936 seconds.
+> 26 Semesters Left, should take around 321.54 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 11.563 seconds
+> 9 Semesters Parsed in 110.499 seconds.
+> 25 Semesters Left, should take around 306.941 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 11.729 seconds
+> 10 Semesters Parsed in 122.228 seconds.
+> 24 Semesters Left, should take around 293.347 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 11.732 seconds
+> 11 Semesters Parsed in 133.96 seconds.
+> 23 Semesters Left, should take around 280.099 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 14.542 seconds
+> 12 Semesters Parsed in 148.502 seconds.
+> 22 Semesters Left, should take around 272.254 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 11.263 seconds
+> 13 Semesters Parsed in 159.766 seconds.
+> 21 Semesters Left, should take around 258.083 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Time Info:
+> This semester took 7.695 seconds
+> 14 Semesters Parsed in 167.461 seconds.
+> 20 Semesters Left, should take around 239.23 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 10.589 seconds
+> 15 Semesters Parsed in 178.05 seconds.
+> 19 Semesters Left, should take around 225.53 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Time Info:
+> This semester took 11.252 seconds
+> 16 Semesters Parsed in 189.301 seconds.
+> 18 Semesters Left, should take around 212.964 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 14.726 seconds
+> 17 Semesters Parsed in 204.028 seconds.
+> 17 Semesters Left, should take around 204.028 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 10.821 seconds
+> 18 Semesters Parsed in 214.848 seconds.
+> 16 Semesters Left, should take around 190.976 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 8.3 seconds
+> 19 Semesters Parsed in 223.149 seconds.
+> 15 Semesters Left, should take around 176.17 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 10.029 seconds
+> 20 Semesters Parsed in 233.178 seconds.
+> 14 Semesters Left, should take around 163.225 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Time Info:
+> This semester took 11.09 seconds
+> 21 Semesters Parsed in 244.268 seconds.
+> 13 Semesters Left, should take around 151.214 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.28 seconds
+> 22 Semesters Parsed in 255.548 seconds.
+> 12 Semesters Left, should take around 139.39 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 6.0 seconds
+> 23 Semesters Parsed in 261.548 seconds.
+> 11 Semesters Left, should take around 125.088 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 11.159 seconds
+> 24 Semesters Parsed in 272.707 seconds.
+> 10 Semesters Left, should take around 113.628 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 11.933 seconds
+> 25 Semesters Parsed in 284.64 seconds.
+> 9 Semesters Left, should take around 102.47 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 11.529 seconds
+> 26 Semesters Parsed in 296.169 seconds.
+> 8 Semesters Left, should take around 91.129 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Time Info:
+> This semester took 6.423 seconds
+> 27 Semesters Parsed in 302.592 seconds.
+> 7 Semesters Left, should take around 78.45 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 11.016 seconds
+> 28 Semesters Parsed in 313.608 seconds.
+> 6 Semesters Left, should take around 67.202 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   10
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     4:00 PM
+> Time End:       5:15 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Ekaterina Saenko
+> Room:           OLS-406
+
+>> Parsing Course Section 2
+> Enrolled Now:   12
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     4:00 PM
+> Time End:       5:15 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Ekaterina Saenko
+> Room:           OLS-406
+
+>> Time Info:
+> This semester took 14.766 seconds
+> 29 Semesters Parsed in 328.374 seconds.
+> 5 Semesters Left, should take around 56.616 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 11.836 seconds
+> 30 Semesters Parsed in 340.209 seconds.
+> 4 Semesters Left, should take around 45.361 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   13
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     4:00 PM
+> Time End:       5:15 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Ekaterina Saenko
+> Room:           OLS-410
+
+>> Parsing Course Section 2
+> Enrolled Now:   15
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     4:00 PM
+> Time End:       5:15 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Ekaterina Saenko
+> Room:           OLS-410
+
+>> Time Info:
+> This semester took 11.712 seconds
+> 31 Semesters Parsed in 351.922 seconds.
+> 3 Semesters Left, should take around 34.057 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 9.258 seconds
+> 32 Semesters Parsed in 361.179 seconds.
+> 2 Semesters Left, should take around 22.574 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Parsing Course Section 2
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 9.034 seconds
+> 33 Semesters Parsed in 370.214 seconds.
+> 1 Semesters Left, should take around 11.219 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Computer Vision I
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+> Ekaterina Saenko: 2
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+> Ekaterina Saenko: 2
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Computer Vision I for semesters Fall 2000 through Spring 2017
+> Ekaterina Saenko: 4
+
+>>> All of this took 383.116 seconds.

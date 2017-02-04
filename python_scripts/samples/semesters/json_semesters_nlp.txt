@@ -1,0 +1,75 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "5",
+      "enrollMax": "19",
+      "course": "Natural Language Processing",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "instructor": "Anna Rumshisky",
+          "room": "OLS-401",
+          "timeStart": "2:30 PM",
+          "days": "F",
+          "sessionStart": "9/1/2015",
+          "timeEnd": "5:00 PM",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "honors": "No"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "7",
+      "enrollMax": "20",
+      "course": "Natural Language Processing",
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "instructor": "Anna Rumshisky",
+          "room": "OLS-401",
+          "timeStart": "2:30 PM",
+          "days": "F",
+          "sessionStart": "9/1/2015",
+          "timeEnd": "5:00 PM",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  []
+]

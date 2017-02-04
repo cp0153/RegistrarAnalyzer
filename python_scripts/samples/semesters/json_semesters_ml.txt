@@ -1,0 +1,116 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "course": "Machine Learning",
+      "meetings": [
+        {
+          "instructor": "Ekaterina Saenko",
+          "days": "TR",
+          "sessionStart": "1/21/2014",
+          "timeEnd": "5:15 PM",
+          "sessionEnd": "5/2/2014",
+          "timeStart": "4:00 PM",
+          "room": "OLS-406"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "35",
+      "enrollNow": "6",
+      "semester": "Spring 2014"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "course": "Machine Learning",
+      "meetings": [
+        {
+          "instructor": "Ekaterina Saenko",
+          "days": "TR",
+          "sessionStart": "1/20/2015",
+          "timeEnd": "5:15 PM",
+          "sessionEnd": "5/1/2015",
+          "timeStart": "4:00 PM",
+          "room": "OLS-102"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "35",
+      "enrollNow": "12",
+      "semester": "Spring 2015"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "course": "Machine Learning",
+      "meetings": [
+        {
+          "instructor": "Ekaterina Saenko",
+          "days": "TR",
+          "sessionStart": "1/19/2016",
+          "timeEnd": "4:45 PM",
+          "sessionEnd": "5/7/2016",
+          "timeStart": "3:30 PM",
+          "room": "OLS-109"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "40",
+      "enrollNow": "16",
+      "semester": "Spring 2016"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "course": "Machine Learning",
+      "meetings": [
+        {
+          "instructor": "Jerome Braun",
+          "days": "T",
+          "sessionStart": "1/17/2017",
+          "timeEnd": "8:15 PM",
+          "sessionEnd": "5/6/2017",
+          "timeStart": "5:30 PM",
+          "room": "OLS-503"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "35",
+      "enrollNow": "27",
+      "semester": "Spring 2017"
+    }
+  ]
+]

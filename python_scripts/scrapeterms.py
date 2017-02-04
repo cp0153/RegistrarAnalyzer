@@ -225,13 +225,27 @@ outFile.close()
 
 # Now it's time to write the JSON of the semester information.
 courseSemesters = parser.getSemesterListing()
-jsonFileName = "json_result_" + courseInput + ".txt"
+jsonFileName = "json_semesters_" + courseInput + ".txt"
 with open(jsonFileName, 'w') as jsonFile:
     json.dump(courseSemesters, jsonFile, indent=2)
 jsonFile.close()
 
+# Now it's time to write the JSON of the professor totals.
+dictProfTotals = parser.getProfTotals()
+jsonFileName = "json_profTotals_" + courseInput + ".txt"
+with open(jsonFileName, 'w') as jsonFile:
+    json.dump(dictProfTotals, jsonFile, indent=2)
+jsonFile.close()
+
+# Now it's time to write the JSON of professors for individual semesters.
+dictSemesterProfs = parser.getSemesterProfs()
+jsonFileName = "json_profSemesters_" + courseInput + ".txt"
+with open(jsonFileName, 'w') as jsonFile:
+    json.dump(dictSemesterProfs, jsonFile, indent=2)
+jsonFile.close()
+
 # Kill the webkit_server processes to prevent memory leak
-print("Killing webkit_server processes...")
-killWebkitServers()
+##print("Killing webkit_server processes...")
+##killWebkitServers()
 
 # End

@@ -1,0 +1,504 @@
+
+> You chose to scrape the course Database I
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 22.743 seconds
+> 1 Semesters Parsed in 22.743 seconds.
+> 33 Semesters Left, should take around 750.532 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   22
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     Robert Lechner
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 12.575 seconds
+> 2 Semesters Parsed in 35.318 seconds.
+> 32 Semesters Left, should take around 565.095 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 10.42 seconds
+> 3 Semesters Parsed in 45.738 seconds.
+> 31 Semesters Left, should take around 472.627 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   27
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/23/2002
+> Session End:    5/10/2002
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 8.687 seconds
+> 4 Semesters Parsed in 54.425 seconds.
+> 30 Semesters Left, should take around 408.191 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 10.711 seconds
+> 5 Semesters Parsed in 65.136 seconds.
+> 29 Semesters Left, should take around 377.788 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   32
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/22/2003
+> Session End:    5/17/2003
+> Instructor:     John Sieg Jr
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 14.781 seconds
+> 6 Semesters Parsed in 79.917 seconds.
+> 28 Semesters Left, should take around 372.944 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Time Info:
+> This semester took 11.049 seconds
+> 7 Semesters Parsed in 90.966 seconds.
+> 27 Semesters Left, should take around 350.869 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   28
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/20/2004
+> Session End:    5/19/2004
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 6.834 seconds
+> 8 Semesters Parsed in 97.8 seconds.
+> 26 Semesters Left, should take around 317.85 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 12.045 seconds
+> 9 Semesters Parsed in 109.845 seconds.
+> 25 Semesters Left, should take around 305.125 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   30
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:30 PM
+> Time End:       1:20 PM
+> Session Start:  1/21/2005
+> Session End:    5/21/2005
+> Instructor:     John Sieg Jr
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 11.343 seconds
+> 10 Semesters Parsed in 121.187 seconds.
+> 24 Semesters Left, should take around 290.85 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 10.916 seconds
+> 11 Semesters Parsed in 132.104 seconds.
+> 23 Semesters Left, should take around 276.217 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   15
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:30 PM
+> Time End:       2:20 PM
+> Session Start:  1/24/2006
+> Session End:    5/20/2006
+> Instructor:     Cindy Chen
+> Room:           OS 401
+
+>> Time Info:
+> This semester took 14.705 seconds
+> 12 Semesters Parsed in 146.809 seconds.
+> 22 Semesters Left, should take around 269.149 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 11.313 seconds
+> 13 Semesters Parsed in 158.122 seconds.
+> 21 Semesters Left, should take around 255.428 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   6
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     1:00 PM
+> Time End:       2:15 PM
+> Session Start:  1/23/2007
+> Session End:    5/18/2007
+> Instructor:     Cindy Chen
+> Room:           OS 404
+
+>> Time Info:
+> This semester took 7.082 seconds
+> 14 Semesters Parsed in 165.203 seconds.
+> 20 Semesters Left, should take around 236.005 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 11.133 seconds
+> 15 Semesters Parsed in 176.336 seconds.
+> 19 Semesters Left, should take around 223.359 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:30 AM
+> Time End:       12:45 PM
+> Session Start:  1/28/2008
+> Session End:    5/22/2008
+> Instructor:     Cindy Chen
+> Room:           OS 403
+
+>> Time Info:
+> This semester took 10.904 seconds
+> 16 Semesters Parsed in 187.24 seconds.
+> 18 Semesters Left, should take around 210.645 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 11.101 seconds
+> 17 Semesters Parsed in 198.342 seconds.
+> 17 Semesters Left, should take around 198.342 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 6.473 seconds
+> 18 Semesters Parsed in 204.814 seconds.
+> 16 Semesters Left, should take around 182.057 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 13.23 seconds
+> 19 Semesters Parsed in 218.044 seconds.
+> 15 Semesters Left, should take around 172.14 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 35
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     1:00 PM
+> Time End:       1:50 PM
+> Session Start:  1/25/2010
+> Session End:    5/12/2010
+> Instructor:     Cindy Chen
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 10.956 seconds
+> 20 Semesters Parsed in 229.001 seconds.
+> 14 Semesters Left, should take around 160.301 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Time Info:
+> This semester took 11.561 seconds
+> 21 Semesters Parsed in 240.562 seconds.
+> 13 Semesters Left, should take around 148.919 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 7.148 seconds
+> 22 Semesters Parsed in 247.709 seconds.
+> 12 Semesters Left, should take around 135.114 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 11.206 seconds
+> 23 Semesters Parsed in 258.915 seconds.
+> 11 Semesters Left, should take around 123.829 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 13.965 seconds
+> 24 Semesters Parsed in 272.88 seconds.
+> 10 Semesters Left, should take around 113.7 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   31
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/5/2012
+> Session End:    12/10/2012
+> Instructor:     Tingjian Ge
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 11.459 seconds
+> 25 Semesters Parsed in 284.34 seconds.
+> 9 Semesters Left, should take around 102.362 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 14.689 seconds
+> 26 Semesters Parsed in 299.029 seconds.
+> 8 Semesters Left, should take around 92.009 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   30
+> Enrollment Max: 40
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     Cindy Chen
+> Room:           OLS-406
+
+>> Time Info:
+> This semester took 14.103 seconds
+> 27 Semesters Parsed in 313.132 seconds.
+> 7 Semesters Left, should take around 81.182 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 10.916 seconds
+> 28 Semesters Parsed in 324.047 seconds.
+> 6 Semesters Left, should take around 69.439 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   44
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/3/2014
+> Session End:    12/10/2014
+> Instructor:     Tingjian Ge
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 12.736 seconds
+> 29 Semesters Parsed in 336.783 seconds.
+> 5 Semesters Left, should take around 58.066 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 8.189 seconds
+> 30 Semesters Parsed in 344.972 seconds.
+> 4 Semesters Left, should take around 45.996 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   49
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/1/2015
+> Session End:    12/9/2015
+> Instructor:     Cindy Chen
+> Room:           OLS-407
+
+>> Time Info:
+> This semester took 9.669 seconds
+> 31 Semesters Parsed in 354.641 seconds.
+> 3 Semesters Left, should take around 34.32 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 12.3 seconds
+> 32 Semesters Parsed in 366.942 seconds.
+> 2 Semesters Left, should take around 22.934 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   58
+> Enrollment Max: 58
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  9/1/2016
+> Session End:    12/9/2016
+> Instructor:     Cindy Chen
+> Room:           OLS-408
+
+>> Time Info:
+> This semester took 8.596 seconds
+> 33 Semesters Parsed in 375.538 seconds.
+> 1 Semesters Left, should take around 11.38 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>>> Now writing out Fall 2000 through Spring 2017 for Database I
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+> Robert Lechner: 1
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+> John Sieg Jr: 1
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+> Cindy Chen: 1
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+> Tingjian Ge: 1
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+> Tingjian Ge: 1
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+> Cindy Chen: 1
+>> Writing professor count for semester Spring 2017
+
+>>> Writing Professor Totals for Database I for semesters Fall 2000 through Spring 2017
+> Cindy Chen: 7
+> Robert Lechner: 1
+> Tingjian Ge: 2
+> John Sieg Jr: 4
+
+>>> All of this took 385.688 seconds.

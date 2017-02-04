@@ -1,0 +1,266 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "instructor": "Gary Livingston",
+          "days": "W",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 412",
+          "timeStart": "5:30 PM",
+          "sessionStart": "9/2/2003"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "0",
+      "enrollNow": "2"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "instructor": "Gary Livingston",
+          "days": "W",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 414",
+          "timeStart": "5:30 PM",
+          "sessionStart": "9/7/2004"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "0",
+      "enrollNow": "0"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2005",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "instructor": "Gary Livingston",
+          "days": "M",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 412",
+          "timeStart": "5:30 PM",
+          "sessionStart": "9/6/2005"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "25",
+      "enrollNow": "2"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "8:00 PM",
+          "instructor": "Gary Livingston",
+          "days": "T",
+          "sessionEnd": "12/22/2006",
+          "room": "OS 219",
+          "timeStart": "5:30 PM",
+          "sessionStart": "9/5/2006"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "25",
+      "enrollNow": "2"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007",
+      "course": "Data Mining",
+      "meetings": [],
+      "honors": "No",
+      "enrollMax": "25",
+      "enrollNow": "0"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Spring 2009",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "8:30 PM",
+          "instructor": "Gary Livingston",
+          "days": "R",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 404",
+          "timeStart": "5:30 PM",
+          "sessionStart": "1/26/2009"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "30",
+      "enrollNow": "7"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Spring 2011",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "11:50 AM",
+          "instructor": "Cindy Chen",
+          "days": "MWF",
+          "sessionEnd": "5/9/2011",
+          "room": "OLS-401",
+          "timeStart": "11:00 AM",
+          "sessionStart": "1/24/2011"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "5",
+      "enrollNow": "6"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Spring 2013",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "1:45 PM",
+          "instructor": "Ekaterina Saenko",
+          "days": "TR",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-401",
+          "timeStart": "12:30 PM",
+          "sessionStart": "1/22/2013"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "14",
+      "enrollNow": "2"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2013",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "7:00 PM",
+          "instructor": "Cindy Chen",
+          "days": "R",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-402",
+          "timeStart": "4:30 PM",
+          "sessionStart": "9/4/2013"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "10",
+      "enrollNow": "2"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2014",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "7:00 PM",
+          "instructor": "Cindy Chen",
+          "days": "R",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-109",
+          "timeStart": "4:30 PM",
+          "sessionStart": "9/3/2014"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "10",
+      "enrollNow": "0"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2015",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "7:00 PM",
+          "instructor": "Cindy Chen",
+          "days": "R",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-408",
+          "timeStart": "4:30 PM",
+          "sessionStart": "9/1/2015"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "10",
+      "enrollNow": "4"
+    }
+  ],
+  [],
+  [
+    {
+      "creditValue": "3 Credits",
+      "semester": "Fall 2016",
+      "course": "Data Mining",
+      "meetings": [
+        {
+          "timeEnd": "7:15 PM",
+          "instructor": "Tingjian Ge",
+          "days": "R",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-405",
+          "timeStart": "4:30 PM",
+          "sessionStart": "9/1/2016"
+        }
+      ],
+      "honors": "No",
+      "enrollMax": "10",
+      "enrollNow": "2"
+    }
+  ],
+  []
+]

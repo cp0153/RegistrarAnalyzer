@@ -1,0 +1,293 @@
+
+> You chose to scrape the course Mobile App Programming ll
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Time Info:
+> This semester took 22.57 seconds
+> 1 Semesters Parsed in 22.57 seconds.
+> 33 Semesters Left, should take around 744.817 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Time Info:
+> This semester took 12.191 seconds
+> 2 Semesters Parsed in 34.761 seconds.
+> 32 Semesters Left, should take around 556.184 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Time Info:
+> This semester took 12.262 seconds
+> 3 Semesters Parsed in 47.023 seconds.
+> 31 Semesters Left, should take around 485.909 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 6.478 seconds
+> 4 Semesters Parsed in 53.502 seconds.
+> 30 Semesters Left, should take around 401.264 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Time Info:
+> This semester took 10.605 seconds
+> 5 Semesters Parsed in 64.107 seconds.
+> 29 Semesters Left, should take around 371.818 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Time Info:
+> This semester took 14.14 seconds
+> 6 Semesters Parsed in 78.247 seconds.
+> 28 Semesters Left, should take around 365.152 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Time Info:
+> This semester took 10.891 seconds
+> 7 Semesters Parsed in 89.138 seconds.
+> 27 Semesters Left, should take around 343.817 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Time Info:
+> This semester took 6.955 seconds
+> 8 Semesters Parsed in 96.092 seconds.
+> 26 Semesters Left, should take around 312.3 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Time Info:
+> This semester took 10.325 seconds
+> 9 Semesters Parsed in 106.417 seconds.
+> 25 Semesters Left, should take around 295.604 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 10.978 seconds
+> 10 Semesters Parsed in 117.396 seconds.
+> 24 Semesters Left, should take around 281.75 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Time Info:
+> This semester took 10.434 seconds
+> 11 Semesters Parsed in 127.83 seconds.
+> 23 Semesters Left, should take around 267.281 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 8.479 seconds
+> 12 Semesters Parsed in 136.309 seconds.
+> 22 Semesters Left, should take around 249.899 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Time Info:
+> This semester took 11.038 seconds
+> 13 Semesters Parsed in 147.346 seconds.
+> 21 Semesters Left, should take around 238.021 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Time Info:
+> This semester took 12.733 seconds
+> 14 Semesters Parsed in 160.079 seconds.
+> 20 Semesters Left, should take around 228.684 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Time Info:
+> This semester took 12.098 seconds
+> 15 Semesters Parsed in 172.177 seconds.
+> 19 Semesters Left, should take around 218.09 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Time Info:
+> This semester took 12.014 seconds
+> 16 Semesters Parsed in 184.191 seconds.
+> 18 Semesters Left, should take around 207.214 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Time Info:
+> This semester took 7.11 seconds
+> 17 Semesters Parsed in 191.301 seconds.
+> 17 Semesters Left, should take around 191.301 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 10.433 seconds
+> 18 Semesters Parsed in 201.733 seconds.
+> 16 Semesters Left, should take around 179.318 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Time Info:
+> This semester took 11.082 seconds
+> 19 Semesters Parsed in 212.816 seconds.
+> 15 Semesters Left, should take around 168.012 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 14.492 seconds
+> 20 Semesters Parsed in 227.308 seconds.
+> 14 Semesters Left, should take around 159.115 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Time Info:
+> This semester took 14.304 seconds
+> 21 Semesters Parsed in 241.612 seconds.
+> 13 Semesters Left, should take around 149.569 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Time Info:
+> This semester took 11.876 seconds
+> 22 Semesters Parsed in 253.488 seconds.
+> 12 Semesters Left, should take around 138.266 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 6.41 seconds
+> 23 Semesters Parsed in 259.898 seconds.
+> 11 Semesters Left, should take around 124.299 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Time Info:
+> This semester took 11.441 seconds
+> 24 Semesters Parsed in 271.339 seconds.
+> 10 Semesters Left, should take around 113.058 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 11.738 seconds
+> 25 Semesters Parsed in 283.078 seconds.
+> 9 Semesters Left, should take around 101.908 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 11.974 seconds
+> 26 Semesters Parsed in 295.052 seconds.
+> 8 Semesters Left, should take around 90.785 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Time Info:
+> This semester took 15.604 seconds
+> 27 Semesters Parsed in 310.656 seconds.
+> 7 Semesters Left, should take around 80.541 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 11.376 seconds
+> 28 Semesters Parsed in 322.032 seconds.
+> 6 Semesters Left, should take around 69.007 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Time Info:
+> This semester took 9.281 seconds
+> 29 Semesters Parsed in 331.313 seconds.
+> 5 Semesters Left, should take around 57.123 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 9.142 seconds
+> 30 Semesters Parsed in 340.455 seconds.
+> 4 Semesters Left, should take around 45.394 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Time Info:
+> This semester took 11.245 seconds
+> 31 Semesters Parsed in 351.7 seconds.
+> 3 Semesters Left, should take around 34.035 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 11.33 seconds
+> 32 Semesters Parsed in 363.03 seconds.
+> 2 Semesters Left, should take around 22.689 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Time Info:
+> This semester took 7.393 seconds
+> 33 Semesters Parsed in 370.423 seconds.
+> 1 Semesters Left, should take around 11.225 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   10
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     3:30 PM
+> Time End:       4:45 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Guanling Chen
+> Room:           OLS-404
+
+>>> Now writing out Fall 2000 through Spring 2017 for Mobile App Programming ll
+>> Writing professor count for semester Fall 2000
+>> Writing professor count for semester Spring 2001
+>> Writing professor count for semester Fall 2001
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+>> Writing professor count for semester Spring 2007
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+>> Writing professor count for semester Fall 2008
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+>> Writing professor count for semester Spring 2017
+> Guanling Chen: 1
+
+>>> Writing Professor Totals for Mobile App Programming ll for semesters Fall 2000 through Spring 2017
+> Guanling Chen: 1
+
+>>> All of this took 381.519 seconds.

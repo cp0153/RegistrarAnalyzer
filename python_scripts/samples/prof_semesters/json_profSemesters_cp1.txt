@@ -1,0 +1,222 @@
+[
+  [
+    "Fall 2000",
+    {
+      "James Canning": 10,
+      "TBA": 13
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "George Grinstein": 3,
+      "James Canning": 5,
+      "TBA": 8
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "George Grinstein": 5,
+      "Haim Levkowitz": 6,
+      "TBA": 11
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "Haim Levkowitz": 8,
+      "TBA": 8
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "Haim Levkowitz": 6,
+      "TBA": 12
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "Haim Levkowitz": 5,
+      "TBA": 5
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "Marian Williams": 1,
+      "Haim Levkowitz": 6,
+      "TBA": 7
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "James Canning": 5,
+      "TBA": 5
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "James Canning": 2,
+      "TBA": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {}
+  ],
+  [
+    "Fall 2005",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2006",
+    {}
+  ],
+  [
+    "Fall 2006",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2007",
+    {}
+  ],
+  [
+    "Fall 2007",
+    {
+      "James Canning": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {}
+  ],
+  [
+    "Fall 2008",
+    {
+      "James Canning": 5
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "James Canning": 1,
+      "TBA": 1
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "James Canning": 8
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Marc Chiarini": 2
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "James Canning": 4
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Mark Sherman": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "James Canning": 2,
+      "Mark Sherman": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Sarita Hakimian": 1,
+      "Mark Sherman": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Sarita Hakimian": 2,
+      "James Canning": 1,
+      "Derrell Lipman": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Sarita Hakimian": 3
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "David Adams": 3,
+      "James Canning": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "David Adams": 2
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Sarita Hakimian": 1,
+      "David Adams": 3
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "David Adams": 2
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "David Adams": 3,
+      "Sirong Lin": 3
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "David Adams": 1,
+      "Sirong Lin": 2
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Sarita Hakimian": 1,
+      "David Adams": 2,
+      "Sirong Lin": 2
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Sarita Hakimian": 2,
+      "David Adams": 1
+    }
+  ]
+]

@@ -1,0 +1,1113 @@
+[
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2000",
+      "enrollNow": "37",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2000",
+          "days": "MWF",
+          "sessionEnd": "12/19/2000",
+          "timeEnd": "10:20 AM",
+          "room": "OS 412",
+          "timeStart": "9:30 AM",
+          "instructor": "Stuart Smith"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2000",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2000",
+          "days": "R",
+          "sessionEnd": "12/19/2000",
+          "timeEnd": "10:00 PM",
+          "room": "OS 414",
+          "timeStart": "7:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2001",
+      "enrollNow": "38",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/30/2001",
+          "days": "MWF",
+          "sessionEnd": "5/25/2001",
+          "timeEnd": "12:20 PM",
+          "room": "OS 410",
+          "timeStart": "11:30 AM",
+          "instructor": "Raymond Gumb"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "timeEnd": "10:20 AM",
+          "room": "OS 408",
+          "timeStart": "9:30 AM",
+          "instructor": "Raymond Gumb"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "enrollNow": "32",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2001",
+          "days": "MWF",
+          "sessionEnd": "12/22/2001",
+          "timeEnd": "10:20 AM",
+          "room": "OS 408",
+          "timeStart": "9:30 AM",
+          "instructor": "Raymond Gumb"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2001",
+      "enrollNow": "13",
+      "honors": "No",
+      "meetings": [],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2002",
+      "enrollNow": "28",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "days": "MWF",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "timeStart": "11:30 AM",
+          "instructor": "Raymond Gumb"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2002",
+      "enrollNow": "16",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "days": "T",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "9:00 PM",
+          "room": "OS 413",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2002",
+      "enrollNow": "12",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2002",
+          "days": "R",
+          "sessionEnd": "5/10/2002",
+          "timeEnd": "9:00 PM",
+          "room": "OS 410",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "enrollNow": "20",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "days": "MWF",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "10:20 AM",
+          "room": "OS 415",
+          "timeStart": "9:30 AM",
+          "instructor": "Marian Williams"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "days": "TR",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "11:15 AM",
+          "room": "OS 415",
+          "timeStart": "10:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2002",
+      "enrollNow": "22",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2002",
+          "days": "T",
+          "sessionEnd": "12/21/2002",
+          "timeEnd": "8:30 PM",
+          "room": "OS 410",
+          "timeStart": "5:30 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "enrollNow": "36",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2003",
+          "days": "MWF",
+          "sessionEnd": "5/17/2003",
+          "timeEnd": "12:20 PM",
+          "room": "OS 414",
+          "timeStart": "11:30 AM",
+          "instructor": "Marian Williams"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "enrollNow": "19",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2003",
+          "days": "T",
+          "sessionEnd": "5/17/2003",
+          "timeEnd": "9:00 PM",
+          "room": "OS 404",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2003",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "days": "MWF",
+          "sessionEnd": "12/20/2003",
+          "timeEnd": "10:20 AM",
+          "room": "OS 414",
+          "timeStart": "9:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "enrollNow": "31",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "days": "TR",
+          "sessionEnd": "12/20/2003",
+          "timeEnd": "12:15 PM",
+          "room": "OS 412",
+          "timeStart": "11:30 AM",
+          "instructor": "David Martin Jr"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2003",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2003",
+          "days": "R",
+          "sessionEnd": "12/20/2003",
+          "timeEnd": "9:00 PM",
+          "room": "OS 414",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "enrollNow": "38",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2004",
+          "days": "TR",
+          "sessionEnd": "5/19/2004",
+          "timeEnd": "11:15 AM",
+          "room": "OS 414",
+          "timeStart": "10:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2004",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/28/2004",
+          "days": "M",
+          "sessionEnd": "5/22/2004",
+          "timeEnd": "9:00 PM",
+          "room": "OS 410",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "enrollNow": "9",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/7/2004",
+          "days": "MWF",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "2:20 PM",
+          "room": "OS 414",
+          "timeStart": "1:30 PM",
+          "instructor": "Allyn Dimock"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/7/2004",
+          "days": "TR",
+          "sessionEnd": "12/22/2004",
+          "timeEnd": "12:45 PM",
+          "room": "OS 415",
+          "timeStart": "11:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "0",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2004",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/7/2004",
+          "days": "M",
+          "sessionEnd": "12/20/2004",
+          "timeEnd": "9:00 PM",
+          "room": "OS 413",
+          "timeStart": "6:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2005",
+      "enrollNow": "30",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2005",
+          "days": "TR",
+          "sessionEnd": "5/21/2005",
+          "timeEnd": "11:15 AM",
+          "room": "OS 414",
+          "timeStart": "10:00 AM",
+          "instructor": "Allyn Dimock"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "25",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2005",
+      "enrollNow": "22",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/6/2005",
+          "days": "TR",
+          "sessionEnd": "12/22/2005",
+          "timeEnd": "12:45 PM",
+          "room": "OS 415",
+          "timeStart": "11:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2006",
+      "enrollNow": "19",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/24/2006",
+          "days": "TR",
+          "sessionEnd": "5/20/2006",
+          "timeEnd": "11:15 AM",
+          "room": "OS 402",
+          "timeStart": "10:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2006",
+      "enrollNow": "18",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2006",
+          "days": "TR",
+          "sessionEnd": "12/22/2006",
+          "timeEnd": "12:45 PM",
+          "room": "OS 401",
+          "timeStart": "11:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2007",
+      "enrollNow": "18",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2007",
+          "days": "TR",
+          "sessionEnd": "5/18/2007",
+          "timeEnd": "11:15 AM",
+          "room": "OS 402",
+          "timeStart": "10:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007",
+      "enrollNow": "22",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2007",
+          "days": "TR",
+          "sessionEnd": "12/21/2007",
+          "timeEnd": "12:45 PM",
+          "room": "OS 402",
+          "timeStart": "11:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2007",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2007",
+          "days": "TR",
+          "sessionEnd": "12/21/2007",
+          "timeEnd": "12:45 PM",
+          "room": "OS 402",
+          "timeStart": "11:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2008",
+      "enrollNow": "14",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/28/2008",
+          "days": "TR",
+          "sessionEnd": "5/22/2008",
+          "timeEnd": "11:15 AM",
+          "room": "OS 403",
+          "timeStart": "10:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2008",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2008",
+          "days": "TR",
+          "sessionEnd": "12/12/2008",
+          "timeEnd": "12:45 PM",
+          "room": "OS 402",
+          "timeStart": "11:30 AM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2008",
+      "enrollNow": "5",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2008",
+          "days": "TR",
+          "sessionEnd": "12/12/2008",
+          "timeEnd": "12:45 PM",
+          "room": "OS 402",
+          "timeStart": "11:30 AM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2009",
+      "enrollNow": "15",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/26/2009",
+          "days": "MWF",
+          "sessionEnd": "5/13/2009",
+          "timeEnd": "10:20 AM",
+          "room": "OS 403",
+          "timeStart": "9:30 AM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2009",
+      "enrollNow": "1",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "sessionStart": "1/26/2009",
+          "days": "MWF",
+          "sessionEnd": "5/13/2009",
+          "timeEnd": "10:20 AM",
+          "room": "OS 403",
+          "timeStart": "9:30 AM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2009",
+      "enrollNow": "20",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2009",
+          "days": "TR",
+          "sessionEnd": "12/15/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 402",
+          "timeStart": "1:00 PM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2009",
+      "enrollNow": "4",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "sessionStart": "9/2/2009",
+          "days": "TR",
+          "sessionEnd": "12/15/2009",
+          "timeEnd": "2:15 PM",
+          "room": "OS 402",
+          "timeStart": "1:00 PM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2010",
+      "enrollNow": "27",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/25/2010",
+          "days": "TR",
+          "sessionEnd": "5/12/2010",
+          "timeEnd": "12:15 PM",
+          "room": "OS 402",
+          "timeStart": "11:00 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "30",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2010",
+      "enrollNow": "28",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2010",
+          "days": "TR",
+          "sessionEnd": "12/10/2010",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-404",
+          "timeStart": "12:30 PM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "5",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2010",
+      "enrollNow": "2",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2010",
+          "days": "TR",
+          "sessionEnd": "12/10/2010",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-404",
+          "timeStart": "12:30 PM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2011",
+      "enrollNow": "22",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/24/2011",
+          "days": "MWF",
+          "sessionEnd": "5/9/2011",
+          "timeEnd": "10:50 AM",
+          "room": "OLS-402",
+          "timeStart": "10:00 AM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "35",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2011",
+      "enrollNow": "35",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2011",
+          "days": "TR",
+          "sessionEnd": "12/12/2011",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-401",
+          "timeStart": "9:30 AM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2012",
+      "enrollNow": "25",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/23/2012",
+          "days": "TR",
+          "sessionEnd": "5/7/2012",
+          "timeEnd": "12:15 PM",
+          "room": "OLS-402",
+          "timeStart": "11:00 AM",
+          "instructor": "Mark Sheldon"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2012",
+      "enrollNow": "40",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/5/2012",
+          "days": "MWF",
+          "sessionEnd": "12/10/2012",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-402",
+          "timeStart": "1:00 PM",
+          "instructor": "Anne Mulhern"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2013",
+      "enrollNow": "34",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/22/2013",
+          "days": "MWF",
+          "sessionEnd": "5/1/2013",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-402",
+          "timeStart": "1:00 PM",
+          "instructor": "Anne Mulhern"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "45",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2013",
+      "enrollNow": "42",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/4/2013",
+          "days": "TR",
+          "sessionEnd": "12/11/2013",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-401",
+          "timeStart": "12:30 PM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "40",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2014",
+      "enrollNow": "40",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/21/2014",
+          "days": "MWF",
+          "sessionEnd": "5/2/2014",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-402",
+          "timeStart": "1:00 PM",
+          "instructor": "TBA"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "85",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2014",
+      "enrollNow": "82",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/3/2014",
+          "days": "MWF",
+          "sessionEnd": "12/10/2014",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-503",
+          "timeStart": "12:00 PM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "65",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2015",
+      "enrollNow": "65",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/20/2015",
+          "days": "MWF",
+          "sessionEnd": "5/1/2015",
+          "timeEnd": "1:50 PM",
+          "room": "OLS-102",
+          "timeStart": "1:00 PM",
+          "instructor": "Mark Sherman"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2015",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2015",
+          "days": "TR",
+          "sessionEnd": "12/9/2015",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-408",
+          "timeStart": "12:30 PM",
+          "instructor": "Holly Yanco"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2016",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/19/2016",
+          "days": "MWF",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-109",
+          "timeStart": "12:00 PM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2016",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/19/2016",
+          "days": "TR",
+          "sessionEnd": "5/7/2016",
+          "timeEnd": "4:45 PM",
+          "room": "OLS-402",
+          "timeStart": "3:30 PM",
+          "instructor": "Mark Sherman"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "63",
+      "creditValue": "3 Credits",
+      "semester": "Fall 2016",
+      "enrollNow": "52",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "9/1/2016",
+          "days": "TR",
+          "sessionEnd": "12/9/2016",
+          "timeEnd": "1:45 PM",
+          "room": "OLS-109",
+          "timeStart": "12:30 PM",
+          "instructor": "Jay McCarthy"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ],
+  [
+    {
+      "enrollMax": "100",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2017",
+      "enrollNow": "96",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/17/2017",
+          "days": "MWF",
+          "sessionEnd": "5/6/2017",
+          "timeEnd": "12:50 PM",
+          "room": "OLS-503",
+          "timeStart": "12:00 PM",
+          "instructor": "Fred Martin"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    },
+    {
+      "enrollMax": "49",
+      "creditValue": "3 Credits",
+      "semester": "Spring 2017",
+      "enrollNow": "33",
+      "honors": "No",
+      "meetings": [
+        {
+          "sessionStart": "1/17/2017",
+          "days": "TR",
+          "sessionEnd": "5/6/2017",
+          "timeEnd": "10:45 AM",
+          "room": "OLS-401",
+          "timeStart": "9:30 AM",
+          "instructor": "Jay McCarthy"
+        }
+      ],
+      "course": "Organization of Programming Languages"
+    }
+  ]
+]

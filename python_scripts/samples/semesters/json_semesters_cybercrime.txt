@@ -1,0 +1,56 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "enrollMax": "19",
+      "creditValue": "3 Credits",
+      "course": "Cyber Crime Investigation",
+      "meetings": [
+        {
+          "days": "TR",
+          "timeStart": "2:00 PM",
+          "sessionStart": "1/17/2017",
+          "instructor": "Xinwen Fu",
+          "timeEnd": "3:15 PM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-405"
+        }
+      ],
+      "enrollNow": "5",
+      "semester": "Spring 2017",
+      "honors": "No"
+    }
+  ]
+]

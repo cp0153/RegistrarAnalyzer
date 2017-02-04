@@ -1,0 +1,114 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Ekaterina Saenko",
+          "timeEnd": "5:15 PM",
+          "room": "OLS-406",
+          "sessionStart": "9/3/2014",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/10/2014"
+        }
+      ],
+      "course": "Computer Vision I",
+      "enrollNow": "10",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "semester": "Fall 2014",
+      "honors": "No"
+    },
+    {
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Ekaterina Saenko",
+          "timeEnd": "5:15 PM",
+          "room": "OLS-406",
+          "sessionStart": "9/3/2014",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/10/2014"
+        }
+      ],
+      "course": "Computer Vision I",
+      "enrollNow": "12",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "semester": "Fall 2014",
+      "honors": "No"
+    }
+  ],
+  [],
+  [
+    {
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Ekaterina Saenko",
+          "timeEnd": "5:15 PM",
+          "room": "OLS-410",
+          "sessionStart": "9/1/2015",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "course": "Computer Vision I",
+      "enrollNow": "13",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "semester": "Fall 2015",
+      "honors": "No"
+    },
+    {
+      "meetings": [
+        {
+          "days": "TR",
+          "instructor": "Ekaterina Saenko",
+          "timeEnd": "5:15 PM",
+          "room": "OLS-410",
+          "sessionStart": "9/1/2015",
+          "timeStart": "4:00 PM",
+          "sessionEnd": "12/9/2015"
+        }
+      ],
+      "course": "Computer Vision I",
+      "enrollNow": "15",
+      "creditValue": "3 Credits",
+      "enrollMax": "30",
+      "semester": "Fall 2015",
+      "honors": "No"
+    }
+  ],
+  [],
+  [],
+  []
+]

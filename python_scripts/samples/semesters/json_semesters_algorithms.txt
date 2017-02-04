@@ -1,0 +1,1215 @@
+[
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 413",
+          "timeEnd": "12:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/6/2000",
+          "sessionEnd": "12/19/2000",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "33",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Fall 2000"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "1",
+      "honors": "Yes",
+      "enrollMax": "0",
+      "semester": "Fall 2000"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OS 311",
+          "timeEnd": "12:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "sessionEnd": "12/19/2000",
+          "days": "Sa"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "21",
+      "honors": "No",
+      "enrollMax": "20",
+      "semester": "Fall 2000"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OS 414",
+          "timeEnd": "10:20 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/30/2001",
+          "sessionEnd": "5/25/2001",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "33",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2001"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OS 414",
+          "timeEnd": "12:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "sessionEnd": "5/25/2001",
+          "days": "Sa"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "17",
+      "honors": "No",
+      "enrollMax": "20",
+      "semester": "Spring 2001"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 311",
+          "timeEnd": "12:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/5/2001",
+          "sessionEnd": "12/22/2001",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "37",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2001"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:00 AM",
+          "room": "OS 410",
+          "timeEnd": "12:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/6/2001",
+          "sessionEnd": "12/19/2001",
+          "days": "Sa"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "14",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2001"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "3",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2002"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 311",
+          "timeEnd": "11:15 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/23/2002",
+          "sessionEnd": "5/10/2002",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "40",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2002"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 413",
+          "timeEnd": "8:30 PM",
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "sessionEnd": "5/10/2002",
+          "days": "R"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "14",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2002"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "9",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2002"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 410",
+          "timeEnd": "12:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/3/2002",
+          "sessionEnd": "12/21/2002",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "36",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2002"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 407",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "sessionEnd": "12/21/2002",
+          "days": "R"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "18",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2002"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "10:00 AM",
+          "room": "OS 311",
+          "timeEnd": "11:15 AM",
+          "instructor": "Thomas Costello",
+          "sessionStart": "1/22/2003",
+          "sessionEnd": "5/17/2003",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "39",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2003"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 406",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "sessionEnd": "5/17/2003",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "16",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2003"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2003"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "1",
+      "honors": "No",
+      "enrollMax": "1",
+      "semester": "Fall 2003"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 410",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "sessionEnd": "12/20/2003",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2003"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "7",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2003"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 410",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "sessionEnd": "12/20/2003",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "18",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2003"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2004"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 402",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "1/28/2004",
+          "sessionEnd": "5/22/2004",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2004"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "3",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Spring 2004"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 402",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "1/28/2004",
+          "sessionEnd": "5/22/2004",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "6",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2004"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 410",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/7/2004",
+          "sessionEnd": "12/20/2004",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2004"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 410",
+          "timeEnd": "9:00 PM",
+          "instructor": "TBA",
+          "sessionStart": "9/7/2004",
+          "sessionEnd": "12/20/2004",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Fall 2004"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 412",
+          "timeEnd": "12:20 PM",
+          "instructor": "Thomas Costello",
+          "sessionStart": "1/21/2005",
+          "sessionEnd": "5/21/2005",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "31",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2005"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 406",
+          "timeEnd": "9:00 PM",
+          "instructor": "Mikhail Zelikov",
+          "sessionStart": "1/25/2005",
+          "sessionEnd": "5/20/2005",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "21",
+      "honors": "No",
+      "enrollMax": "0",
+      "semester": "Spring 2005"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 415",
+          "timeEnd": "12:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/6/2005",
+          "sessionEnd": "12/22/2005",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "23",
+      "honors": "No",
+      "enrollMax": "25",
+      "semester": "Fall 2005"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OS 311",
+          "timeEnd": "10:20 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/24/2006",
+          "sessionEnd": "5/20/2006",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "14",
+      "honors": "No",
+      "enrollMax": "25",
+      "semester": "Spring 2006"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "6:00 PM",
+          "room": "OS 414",
+          "timeEnd": "9:00 PM",
+          "instructor": "Mikhail Zelikov",
+          "sessionStart": "1/24/2006",
+          "sessionEnd": "5/20/2006",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "8",
+      "honors": "No",
+      "enrollMax": "27",
+      "semester": "Spring 2006"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 311",
+          "timeEnd": "12:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/5/2006",
+          "sessionEnd": "12/22/2006",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "20",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2006"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 414",
+          "timeEnd": "8:30 PM",
+          "instructor": "Mikhail Zelikov",
+          "sessionStart": "9/5/2006",
+          "sessionEnd": "12/22/2006",
+          "days": "R"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "11",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2006"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OS 404",
+          "timeEnd": "10:20 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/23/2007",
+          "sessionEnd": "5/18/2007",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "22",
+      "honors": "No",
+      "enrollMax": "25",
+      "semester": "Spring 2007"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 402",
+          "timeEnd": "8:30 PM",
+          "instructor": "Jose Annunziato",
+          "sessionStart": "1/23/2007",
+          "sessionEnd": "5/18/2007",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "9",
+      "honors": "No",
+      "enrollMax": "27",
+      "semester": "Spring 2007"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:30 AM",
+          "room": "OS 402",
+          "timeEnd": "12:20 PM",
+          "instructor": "Giampiero Pecelli",
+          "sessionStart": "9/5/2007",
+          "sessionEnd": "12/21/2007",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "12",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2007"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 405",
+          "timeEnd": "8:30 PM",
+          "instructor": "Jose Annunziato",
+          "sessionStart": "9/5/2007",
+          "sessionEnd": "12/21/2007",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "9",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2007"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 402",
+          "timeEnd": "2:20 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/28/2008",
+          "sessionEnd": "5/22/2008",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "23",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Spring 2008"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OS 401",
+          "timeEnd": "2:15 PM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/3/2008",
+          "sessionEnd": "12/12/2008",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "16",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2008"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 403",
+          "timeEnd": "8:30 PM",
+          "instructor": "Aparna Mahadev",
+          "sessionStart": "9/3/2008",
+          "sessionEnd": "12/22/2008",
+          "days": "M"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "7",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2008"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:30 PM",
+          "room": "OS 401",
+          "timeEnd": "2:20 PM",
+          "instructor": "Cindy Chen",
+          "sessionStart": "1/26/2009",
+          "sessionEnd": "5/13/2009",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "20",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Spring 2009"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OS 405",
+          "timeEnd": "8:30 PM",
+          "instructor": "Aparna Mahadev",
+          "sessionStart": "1/26/2009",
+          "sessionEnd": "5/13/2009",
+          "days": "R"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "12",
+      "honors": "No",
+      "enrollMax": "27",
+      "semester": "Spring 2009"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OS 403",
+          "timeEnd": "12:15 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/2/2009",
+          "sessionEnd": "12/15/2009",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "14",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2009"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OS 402",
+          "timeEnd": "1:45 PM",
+          "instructor": "Giampiero Pecelli",
+          "sessionStart": "1/25/2010",
+          "sessionEnd": "5/12/2010",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "14",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Spring 2010"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "1",
+      "honors": "No",
+      "enrollMax": "2",
+      "semester": "Spring 2010"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OLS-404",
+          "timeEnd": "1:50 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/1/2010",
+          "sessionEnd": "12/10/2010",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "27",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2010"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OLS-404",
+          "timeEnd": "1:50 PM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/1/2010",
+          "sessionEnd": "12/10/2010",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "enrollMax": "5",
+      "semester": "Fall 2010"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "5:30 PM",
+          "room": "OLS-405",
+          "timeEnd": "8:30 PM",
+          "instructor": "Roger Marshall",
+          "sessionStart": "9/1/2010",
+          "sessionEnd": "12/10/2010",
+          "days": "T"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "8",
+      "honors": "No",
+      "enrollMax": "30",
+      "semester": "Fall 2010"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OLS-404",
+          "timeEnd": "1:45 PM",
+          "instructor": "Giampiero Pecelli",
+          "sessionStart": "1/24/2011",
+          "sessionEnd": "5/9/2011",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "10",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Spring 2011"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "OLS-401",
+          "timeEnd": "11:50 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "9/1/2011",
+          "sessionEnd": "12/12/2011",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "32",
+      "honors": "No",
+      "enrollMax": "35",
+      "semester": "Fall 2011"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-407",
+          "timeEnd": "10:45 AM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "1/23/2012",
+          "sessionEnd": "5/7/2012",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "18",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Spring 2012"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "11:00 AM",
+          "room": "PAS-307",
+          "timeEnd": "11:50 AM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/5/2012",
+          "sessionEnd": "12/10/2012",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "27",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Fall 2012"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-405",
+          "timeEnd": "10:45 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/22/2013",
+          "sessionEnd": "5/1/2013",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "26",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Spring 2013"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-402",
+          "timeEnd": "3:15 PM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/4/2013",
+          "sessionEnd": "12/11/2013",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "41",
+      "honors": "No",
+      "enrollMax": "45",
+      "semester": "Fall 2013"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-403",
+          "timeEnd": "10:45 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/21/2014",
+          "sessionEnd": "5/2/2014",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "25",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Spring 2014"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-109",
+          "timeEnd": "3:15 PM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/3/2014",
+          "sessionEnd": "12/10/2014",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "49",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Fall 2014"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-401",
+          "timeEnd": "10:45 AM",
+          "instructor": "Karen Daniels",
+          "sessionStart": "1/20/2015",
+          "sessionEnd": "5/1/2015",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "45",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Spring 2015"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-408",
+          "timeEnd": "3:15 PM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/1/2015",
+          "sessionEnd": "12/9/2015",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "49",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Fall 2015"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "9:30 AM",
+          "room": "OLS-412",
+          "timeEnd": "10:45 AM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/1/2015",
+          "sessionEnd": "12/9/2015",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "25",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Fall 2015"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "Unknown",
+          "room": "FAC_TBD",
+          "timeEnd": "Unknown",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/1/2015",
+          "sessionEnd": "12/9/2015",
+          "days": "Unknown"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "2",
+      "honors": "No",
+      "enrollMax": "2",
+      "semester": "Fall 2015"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-109",
+          "timeEnd": "2:50 PM",
+          "instructor": "Sirong Lin",
+          "sessionStart": "1/19/2016",
+          "sessionEnd": "5/7/2016",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "36",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Spring 2016"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "12:30 PM",
+          "room": "OLS-403",
+          "timeEnd": "1:45 PM",
+          "instructor": "Sirong Lin",
+          "sessionStart": "1/19/2016",
+          "sessionEnd": "5/7/2016",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "27",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Spring 2016"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-104",
+          "timeEnd": "3:15 PM",
+          "instructor": "Benyuan Liu",
+          "sessionStart": "9/1/2016",
+          "sessionEnd": "12/9/2016",
+          "days": "TR"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "48",
+      "honors": "No",
+      "enrollMax": "49",
+      "semester": "Fall 2016"
+    },
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "2:00 PM",
+          "room": "OLS-402",
+          "timeEnd": "2:50 PM",
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2016",
+          "sessionEnd": "12/9/2016",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "33",
+      "honors": "No",
+      "enrollMax": "40",
+      "semester": "Fall 2016"
+    }
+  ],
+  [
+    {
+      "creditValue": "3 Credits",
+      "meetings": [
+        {
+          "timeStart": "1:00 PM",
+          "room": "OLS-503",
+          "timeEnd": "1:50 PM",
+          "instructor": "Sirong Lin",
+          "sessionStart": "1/17/2017",
+          "sessionEnd": "5/6/2017",
+          "days": "MWF"
+        }
+      ],
+      "course": "Analysis of Algorithms",
+      "enrollNow": "62",
+      "honors": "No",
+      "enrollMax": "70",
+      "semester": "Spring 2017"
+    }
+  ]
+]

@@ -1,0 +1,201 @@
+[
+  [
+    "Fall 2000",
+    {
+      "John Sieg Jr": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "John Sieg Jr": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "Raymond Gumb": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {}
+  ],
+  [
+    "Spring 2003",
+    {
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "David Martin Jr": 1
+    }
+  ],
+  [
+    "Spring 2004",
+    {}
+  ],
+  [
+    "Fall 2004",
+    {}
+  ],
+  [
+    "Spring 2005",
+    {
+      "David Martin Jr": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "David Martin Jr": 1
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Haim Levkowitz": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Robert Lechner": 1
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Robert Lechner": 1
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Karen Daniels": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Giampiero Pecelli": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "Karen Daniels": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Aparna Mahadev": 1
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Jay McCarthy": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "Jay McCarthy": 1,
+      "Krishnan Seetharaman": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Krishnan Seetharaman": 1
+    }
+  ]
+]

@@ -1,0 +1,8 @@
+{
+  "Gary Livingston": 16,
+  "William Moloney Jr": 8,
+  "Byung Kim": 23,
+  "David Hendrickson": 3,
+  "Xinwen Fu": 1,
+  "Haim Levkowitz": 2
+}

@@ -1,0 +1,497 @@
+
+> You chose to scrape the course Compiler Construction I
+> You chose to scrape semesters Fall 2000 through Spring 2017
+
+>>> Getting Info for Semester Fall 2000
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       7:50 PM
+> Session Start:  9/6/2000
+> Session End:    12/19/2000
+> Instructor:     TBA
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 22.758 seconds
+> 1 Semesters Parsed in 22.758 seconds.
+> 33 Semesters Left, should take around 751.003 seconds.
+
+>>> Getting Info for Semester Spring 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   0
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     5:30 PM
+> Time End:       8:30 PM
+> Session Start:  1/30/2001
+> Session End:    5/25/2001
+> Instructor:     TBA
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 6.621 seconds
+> 2 Semesters Parsed in 29.379 seconds.
+> 32 Semesters Left, should take around 470.058 seconds.
+
+>>> Getting Info for Semester Fall 2001
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   12
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     2:30 PM
+> Time End:       4:50 PM
+> Session Start:  9/5/2001
+> Session End:    12/22/2001
+> Instructor:     James Canning
+> Room:           OS 414
+
+>> Time Info:
+> This semester took 12.285 seconds
+> 3 Semesters Parsed in 41.664 seconds.
+> 31 Semesters Left, should take around 430.524 seconds.
+
+>>> Getting Info for Semester Spring 2002
+
+>> Time Info:
+> This semester took 11.044 seconds
+> 4 Semesters Parsed in 52.707 seconds.
+> 30 Semesters Left, should take around 395.305 seconds.
+
+>>> Getting Info for Semester Fall 2002
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   WF
+> Time Start:     2:30 PM
+> Time End:       3:45 PM
+> Session Start:  9/3/2002
+> Session End:    12/21/2002
+> Instructor:     Allyn Dimock
+> Room:           OS 415
+
+>> Time Info:
+> This semester took 13.074 seconds
+> 5 Semesters Parsed in 65.782 seconds.
+> 29 Semesters Left, should take around 381.535 seconds.
+
+>>> Getting Info for Semester Spring 2003
+
+>> Time Info:
+> This semester took 14.791 seconds
+> 6 Semesters Parsed in 80.573 seconds.
+> 28 Semesters Left, should take around 376.009 seconds.
+
+>>> Getting Info for Semester Fall 2003
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   7
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     4:00 PM
+> Time End:       6:30 PM
+> Session Start:  9/2/2003
+> Session End:    12/20/2003
+> Instructor:     James Canning
+> Room:           OS 311
+
+>> Time Info:
+> This semester took 14.03 seconds
+> 7 Semesters Parsed in 94.604 seconds.
+> 27 Semesters Left, should take around 364.9 seconds.
+
+>>> Getting Info for Semester Spring 2004
+
+>> Time Info:
+> This semester took 12.543 seconds
+> 8 Semesters Parsed in 107.146 seconds.
+> 26 Semesters Left, should take around 348.226 seconds.
+
+>>> Getting Info for Semester Fall 2004
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 0
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   M
+> Time Start:     4:00 PM
+> Time End:       6:30 PM
+> Session Start:  9/7/2004
+> Session End:    12/22/2004
+> Instructor:     Li Xu
+> Room:           OS 311
+
+>> Time Info:
+> This semester took 8.047 seconds
+> 9 Semesters Parsed in 115.193 seconds.
+> 25 Semesters Left, should take around 319.982 seconds.
+
+>>> Getting Info for Semester Spring 2005
+
+>> Time Info:
+> This semester took 10.568 seconds
+> 10 Semesters Parsed in 125.762 seconds.
+> 24 Semesters Left, should take around 301.828 seconds.
+
+>>> Getting Info for Semester Fall 2005
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 10.67 seconds
+> 11 Semesters Parsed in 136.432 seconds.
+> 23 Semesters Left, should take around 285.266 seconds.
+
+>>> Getting Info for Semester Spring 2006
+
+>> Time Info:
+> This semester took 11.36 seconds
+> 12 Semesters Parsed in 147.792 seconds.
+> 22 Semesters Left, should take around 270.952 seconds.
+
+>>> Getting Info for Semester Fall 2006
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   5
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/5/2006
+> Session End:    12/22/2006
+> Instructor:     Li Xu
+> Room:           OS 219
+
+>> Time Info:
+> This semester took 11.516 seconds
+> 13 Semesters Parsed in 159.308 seconds.
+> 21 Semesters Left, should take around 257.343 seconds.
+
+>>> Getting Info for Semester Spring 2007
+
+>> Time Info:
+> This semester took 6.532 seconds
+> 14 Semesters Parsed in 165.84 seconds.
+> 20 Semesters Left, should take around 236.915 seconds.
+
+>>> Getting Info for Semester Fall 2007
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 13.278 seconds
+> 15 Semesters Parsed in 179.118 seconds.
+> 19 Semesters Left, should take around 226.883 seconds.
+
+>>> Getting Info for Semester Spring 2008
+
+>> Time Info:
+> This semester took 11.059 seconds
+> 16 Semesters Parsed in 190.177 seconds.
+> 18 Semesters Left, should take around 213.95 seconds.
+
+>>> Getting Info for Semester Fall 2008
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   2
+> Enrollment Max: 30
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   W
+> Time Start:     5:30 PM
+> Time End:       8:00 PM
+> Session Start:  9/3/2008
+> Session End:    12/12/2008
+> Instructor:     Li Xu
+> Room:           OS 402
+
+>> Time Info:
+> This semester took 12.627 seconds
+> 17 Semesters Parsed in 202.804 seconds.
+> 17 Semesters Left, should take around 202.804 seconds.
+
+>>> Getting Info for Semester Spring 2009
+
+>> Time Info:
+> This semester took 15.466 seconds
+> 18 Semesters Parsed in 218.27 seconds.
+> 16 Semesters Left, should take around 194.018 seconds.
+
+>>> Getting Info for Semester Fall 2009
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> This course section is cancelled.
+
+>> Time Info:
+> This semester took 10.666 seconds
+> 19 Semesters Parsed in 228.936 seconds.
+> 15 Semesters Left, should take around 180.739 seconds.
+
+>>> Getting Info for Semester Spring 2010
+
+>> Time Info:
+> This semester took 7.177 seconds
+> 20 Semesters Parsed in 236.113 seconds.
+> 14 Semesters Left, should take around 165.279 seconds.
+
+>>> Getting Info for Semester Fall 2010
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 1
+> Credit Value:   3 Credits
+> Honors Section: No
+> This course section has no meeting information.
+
+>> Time Info:
+> This semester took 12.349 seconds
+> 21 Semesters Parsed in 248.462 seconds.
+> 13 Semesters Left, should take around 153.81 seconds.
+
+>>> Getting Info for Semester Spring 2011
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   16
+> Enrollment Max: 25
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/24/2011
+> Session End:    5/9/2011
+> Instructor:     James Canning
+> Room:           OLS-401
+
+>> Time Info:
+> This semester took 10.959 seconds
+> 22 Semesters Parsed in 259.421 seconds.
+> 12 Semesters Left, should take around 141.502 seconds.
+
+>>> Getting Info for Semester Fall 2011
+
+>> Time Info:
+> This semester took 10.74 seconds
+> 23 Semesters Parsed in 270.161 seconds.
+> 11 Semesters Left, should take around 129.207 seconds.
+
+>>> Getting Info for Semester Spring 2012
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   23
+> Enrollment Max: 23
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   MWF
+> Time Start:     12:00 PM
+> Time End:       12:50 PM
+> Session Start:  1/23/2012
+> Session End:    5/7/2012
+> Instructor:     James Canning
+> Room:           OLS-402
+
+>> Time Info:
+> This semester took 9.048 seconds
+> 24 Semesters Parsed in 279.209 seconds.
+> 10 Semesters Left, should take around 116.337 seconds.
+
+>>> Getting Info for Semester Fall 2012
+
+>> Time Info:
+> This semester took 8.698 seconds
+> 25 Semesters Parsed in 287.907 seconds.
+> 9 Semesters Left, should take around 103.647 seconds.
+
+>>> Getting Info for Semester Spring 2013
+
+>> Time Info:
+> This semester took 11.194 seconds
+> 26 Semesters Parsed in 299.101 seconds.
+> 8 Semesters Left, should take around 92.031 seconds.
+
+>>> Getting Info for Semester Fall 2013
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   1
+> Enrollment Max: 10
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   Unknown
+> Time Start:     Unknown
+> Time End:       Unknown
+> Session Start:  9/4/2013
+> Session End:    12/11/2013
+> Instructor:     James Canning
+> Room:           FAC_TBD
+
+>> Time Info:
+> This semester took 11.523 seconds
+> 27 Semesters Parsed in 310.624 seconds.
+> 7 Semesters Left, should take around 80.532 seconds.
+
+>>> Getting Info for Semester Spring 2014
+
+>> Time Info:
+> This semester took 7.348 seconds
+> 28 Semesters Parsed in 317.972 seconds.
+> 6 Semesters Left, should take around 68.137 seconds.
+
+>>> Getting Info for Semester Fall 2014
+
+>> Time Info:
+> This semester took 10.375 seconds
+> 29 Semesters Parsed in 328.347 seconds.
+> 5 Semesters Left, should take around 56.612 seconds.
+
+>>> Getting Info for Semester Spring 2015
+
+>> Time Info:
+> This semester took 14.457 seconds
+> 30 Semesters Parsed in 342.805 seconds.
+> 4 Semesters Left, should take around 45.707 seconds.
+
+>>> Getting Info for Semester Fall 2015
+
+>> Time Info:
+> This semester took 11.081 seconds
+> 31 Semesters Parsed in 353.886 seconds.
+> 3 Semesters Left, should take around 34.247 seconds.
+
+>>> Getting Info for Semester Spring 2016
+
+>> Time Info:
+> This semester took 8.047 seconds
+> 32 Semesters Parsed in 361.933 seconds.
+> 2 Semesters Left, should take around 22.621 seconds.
+
+>>> Getting Info for Semester Fall 2016
+
+>> Time Info:
+> This semester took 8.651 seconds
+> 33 Semesters Parsed in 370.583 seconds.
+> 1 Semesters Left, should take around 11.23 seconds.
+
+>>> Getting Info for Semester Spring 2017
+
+>> Reached a group result.
+
+>> Parsing Course Section 1
+> Enrolled Now:   18
+> Enrollment Max: 49
+> Credit Value:   3 Credits
+> Honors Section: No
+> Meeting Days:   TR
+> Time Start:     11:00 AM
+> Time End:       12:15 PM
+> Session Start:  1/17/2017
+> Session End:    5/6/2017
+> Instructor:     Jay McCarthy
+> Room:           OLS-401
+
+>>> Now writing out Fall 2000 through Spring 2017 for Compiler Construction I
+>> Writing professor count for semester Fall 2000
+> TBA: 1
+>> Writing professor count for semester Spring 2001
+> TBA: 1
+>> Writing professor count for semester Fall 2001
+> James Canning: 1
+>> Writing professor count for semester Spring 2002
+>> Writing professor count for semester Fall 2002
+> Allyn Dimock: 1
+>> Writing professor count for semester Spring 2003
+>> Writing professor count for semester Fall 2003
+> James Canning: 1
+>> Writing professor count for semester Spring 2004
+>> Writing professor count for semester Fall 2004
+> Li Xu: 1
+>> Writing professor count for semester Spring 2005
+>> Writing professor count for semester Fall 2005
+>> Writing professor count for semester Spring 2006
+>> Writing professor count for semester Fall 2006
+> Li Xu: 1
+>> Writing professor count for semester Spring 2007
+>> Writing professor count for semester Fall 2007
+>> Writing professor count for semester Spring 2008
+>> Writing professor count for semester Fall 2008
+> Li Xu: 1
+>> Writing professor count for semester Spring 2009
+>> Writing professor count for semester Fall 2009
+>> Writing professor count for semester Spring 2010
+>> Writing professor count for semester Fall 2010
+>> Writing professor count for semester Spring 2011
+> James Canning: 1
+>> Writing professor count for semester Fall 2011
+>> Writing professor count for semester Spring 2012
+> James Canning: 1
+>> Writing professor count for semester Fall 2012
+>> Writing professor count for semester Spring 2013
+>> Writing professor count for semester Fall 2013
+> James Canning: 1
+>> Writing professor count for semester Spring 2014
+>> Writing professor count for semester Fall 2014
+>> Writing professor count for semester Spring 2015
+>> Writing professor count for semester Fall 2015
+>> Writing professor count for semester Spring 2016
+>> Writing professor count for semester Fall 2016
+>> Writing professor count for semester Spring 2017
+> Jay McCarthy: 1
+
+>>> Writing Professor Totals for Compiler Construction I for semesters Fall 2000 through Spring 2017
+> TBA: 2
+> Jay McCarthy: 1
+> James Canning: 5
+> Allyn Dimock: 1
+> Li Xu: 3
+
+>>> All of this took 382.265 seconds.

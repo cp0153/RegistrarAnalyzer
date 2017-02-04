@@ -1,0 +1,222 @@
+[
+  [
+    "Fall 2000",
+    {
+      "Stuart Smith": 1,
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Spring 2001",
+    {
+      "Stuart Smith": 1
+    }
+  ],
+  [
+    "Fall 2001",
+    {
+      "Kajal Claypool": 2,
+      "Jesse Heines": 2
+    }
+  ],
+  [
+    "Spring 2002",
+    {
+      "Gerald Pocock": 1,
+      "Jose Annunziato": 1
+    }
+  ],
+  [
+    "Fall 2002",
+    {
+      "Kajal Claypool": 3,
+      "David Martin Jr": 1
+    }
+  ],
+  [
+    "Spring 2003",
+    {
+      "David Martin Jr": 1,
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Fall 2003",
+    {
+      "David Martin Jr": 1,
+      "Kajal Claypool": 2
+    }
+  ],
+  [
+    "Spring 2004",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Fall 2004",
+    {
+      "Jie Wang": 2
+    }
+  ],
+  [
+    "Spring 2005",
+    {
+      "John Sieg Jr": 1
+    }
+  ],
+  [
+    "Fall 2005",
+    {
+      "Kajal Claypool": 2
+    }
+  ],
+  [
+    "Spring 2006",
+    {
+      "TBA": 1,
+      "William Moloney Jr": 1
+    }
+  ],
+  [
+    "Fall 2006",
+    {
+      "Jesse Heines": 2
+    }
+  ],
+  [
+    "Spring 2007",
+    {
+      "David Martin Jr": 1
+    }
+  ],
+  [
+    "Fall 2007",
+    {
+      "David Martin Jr": 2
+    }
+  ],
+  [
+    "Spring 2008",
+    {
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2008",
+    {
+      "Guanling Chen": 2
+    }
+  ],
+  [
+    "Spring 2009",
+    {
+      "Guanling Chen": 2
+    }
+  ],
+  [
+    "Fall 2009",
+    {
+      "Benyuan Liu": 2
+    }
+  ],
+  [
+    "Spring 2010",
+    {
+      "Jesse Heines": 1
+    }
+  ],
+  [
+    "Fall 2010",
+    {
+      "Guanling Chen": 2
+    }
+  ],
+  [
+    "Spring 2011",
+    {
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2011",
+    {
+      "Mark Sheldon": 1,
+      "Jie Wang": 1
+    }
+  ],
+  [
+    "Spring 2012",
+    {
+      "Sarita Hakimian": 1
+    }
+  ],
+  [
+    "Fall 2012",
+    {
+      "John Sharko": 2
+    }
+  ],
+  [
+    "Spring 2013",
+    {
+      "Anna Rumshisky": 1,
+      "Guanling Chen": 1
+    }
+  ],
+  [
+    "Fall 2013",
+    {
+      "Anna Rumshisky": 1,
+      "Olga Lepsky": 1
+    }
+  ],
+  [
+    "Spring 2014",
+    {
+      "Anna Rumshisky": 1,
+      "Olga Lepsky": 1
+    }
+  ],
+  [
+    "Fall 2014",
+    {
+      "Anna Rumshisky": 1,
+      "Olga Lepsky": 2
+    }
+  ],
+  [
+    "Spring 2015",
+    {
+      "David Adams": 1,
+      "Anna Rumshisky": 1
+    }
+  ],
+  [
+    "Fall 2015",
+    {
+      "Anna Rumshisky": 1,
+      "Ayat Hatem": 2
+    }
+  ],
+  [
+    "Spring 2016",
+    {
+      "Anna Rumshisky": 1,
+      "Krishnan Seetharaman": 1
+    }
+  ],
+  [
+    "Fall 2016",
+    {
+      "David Adams": 2,
+      "Anna Rumshisky": 1
+    }
+  ],
+  [
+    "Spring 2017",
+    {
+      "Sirong Lin": 2
+    }
+  ]
+]

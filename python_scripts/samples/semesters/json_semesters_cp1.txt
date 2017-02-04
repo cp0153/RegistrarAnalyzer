@@ -1,0 +1,3236 @@
+[
+  [
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "34",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "T",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "32",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "10:30 AM",
+          "days": "T",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "34",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "32",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "12:30 PM",
+          "days": "T",
+          "timeEnd": "1:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "31",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "1:30 PM",
+          "days": "T",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "31",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "2:30 PM",
+          "days": "T",
+          "timeEnd": "3:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "30",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "R",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "34",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "10:30 AM",
+          "days": "R",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "30",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "32",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "12:30 PM",
+          "days": "R",
+          "timeEnd": "1:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "21",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2000",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/19/2000",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/6/2000",
+          "timeStart": "3:30 PM",
+          "days": "R",
+          "timeEnd": "4:20 PM",
+          "sessionEnd": "12/19/2000",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2000",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "25",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "25",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "24",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "21",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 328"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 414"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 328"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 414"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "24",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 328"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 414"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "10",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/30/2001",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/25/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/30/2001",
+          "timeStart": "3:30 PM",
+          "days": "R",
+          "timeEnd": "4:20 PM",
+          "sessionEnd": "5/25/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "15",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2001",
+      "enrollNow": "2",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "9:30 AM",
+          "days": "T",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "23",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "10:30 AM",
+          "days": "T",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "18",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "9:30 AM",
+          "days": "R",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "28",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "10:30 AM",
+          "days": "R",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "32",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 413"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 413"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "27",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "12:30 PM",
+          "days": "T",
+          "timeEnd": "1:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "2:30 PM",
+          "days": "R",
+          "timeEnd": "3:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "6",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "T",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "15",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "George Grinstein",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "R",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "11",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/5/2001",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/5/2001",
+          "timeStart": "3:30 PM",
+          "days": "R",
+          "timeEnd": "4:20 PM",
+          "sessionEnd": "12/22/2001",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2001",
+      "enrollNow": "1",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "6",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "10",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "10",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "18",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "9",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 406"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "5",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 406"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "21",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "1",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/23/2002",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/23/2002",
+          "timeStart": "3:30 PM",
+          "days": "R",
+          "timeEnd": "4:20 PM",
+          "sessionEnd": "5/10/2002",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "15",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2002",
+      "enrollNow": "1",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "28",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "9:30 AM",
+          "days": "T",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 404"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "18",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "10:30 AM",
+          "days": "T",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 404"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "20",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "PA 301"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "10:30 AM",
+          "days": "R",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 404"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "27",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "PA 301"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 413"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "24",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "PA 301"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "12:30 PM",
+          "days": "T",
+          "timeEnd": "1:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 404"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "2:30 PM",
+          "days": "R",
+          "timeEnd": "3:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 412"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "BL 210"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "T",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "0",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "7",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/3/2002",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "BL 313"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/3/2002",
+          "timeStart": "3:30 PM",
+          "days": "R",
+          "timeEnd": "4:20 PM",
+          "sessionEnd": "12/21/2002",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2002",
+      "enrollNow": "1",
+      "honors": "No",
+      "meetings": [],
+      "enrollMax": "20",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "14",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "9",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "17",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "7",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2003",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "1/22/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/22/2003",
+          "timeStart": "11:00 AM",
+          "days": "R",
+          "timeEnd": "2:15 PM",
+          "sessionEnd": "5/17/2003",
+          "room": "OS 407"
+        }
+      ],
+      "enrollMax": "15",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "19",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "9:30 AM",
+          "days": "T",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "24",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "10:30 AM",
+          "days": "T",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Marian Williams",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "10:30 AM",
+          "days": "R",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "16",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "16",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "12:30 PM",
+          "days": "T",
+          "timeEnd": "1:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 414"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:00 PM",
+          "days": "R",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2003",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "Haim Levkowitz",
+          "sessionStart": "9/2/2003",
+          "timeStart": "1:30 PM",
+          "days": "MWF",
+          "timeEnd": "2:20 PM",
+          "sessionEnd": "12/20/2003",
+          "room": "OH 150"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/2/2003",
+          "timeStart": "10:30 AM",
+          "days": "T",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/20/2003",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "6",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/20/2004",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "2",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/20/2004",
+          "timeStart": "10:00 AM",
+          "days": "T",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 415"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "9",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "T",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "6",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "R",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2004",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/20/2004",
+          "timeStart": "11:00 AM",
+          "days": "R",
+          "timeEnd": "2:15 PM",
+          "sessionEnd": "5/19/2004",
+          "room": "OS 407"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2004",
+      "enrollNow": "52",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/7/2004",
+          "timeStart": "10:30 AM",
+          "days": "MWRF",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/7/2004",
+          "timeStart": "Unknown",
+          "days": "Unknown",
+          "timeEnd": "Unknown",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2004",
+      "enrollNow": "1",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/7/2004",
+          "timeStart": "10:30 AM",
+          "days": "MWRF",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "9/7/2004",
+          "timeStart": "Unknown",
+          "days": "Unknown",
+          "timeEnd": "Unknown",
+          "sessionEnd": "12/22/2004",
+          "room": "OS 410"
+        }
+      ],
+      "enrollMax": "0",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2005",
+      "enrollNow": "50",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2005",
+          "timeStart": "10:30 AM",
+          "days": "MWRF",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2005",
+      "enrollNow": "7",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/6/2005",
+          "timeStart": "10:30 AM",
+          "days": "MWRF",
+          "timeEnd": "11:20 AM",
+          "sessionEnd": "12/22/2005",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2006",
+      "enrollNow": "80",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/5/2006",
+          "timeStart": "9:30 AM",
+          "days": "MWRF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/22/2006",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "80",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2006",
+      "enrollNow": "3",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/5/2006",
+          "timeStart": "9:30 AM",
+          "days": "MWRF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/22/2006",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2007",
+      "enrollNow": "70",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/5/2007",
+          "timeStart": "9:30 AM",
+          "days": "MWRF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/21/2007",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "80",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2007",
+      "enrollNow": "6",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/5/2007",
+          "timeStart": "9:30 AM",
+          "days": "MWRF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/21/2007",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [],
+  [
+    {
+      "semester": "Fall 2008",
+      "enrollNow": "74",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/3/2008",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/3/2008",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "80",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2008",
+      "enrollNow": "1",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/3/2008",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2008",
+      "enrollNow": "4",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/3/2008",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/3/2008",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/12/2008",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2009",
+      "enrollNow": "31",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "1/26/2009",
+          "timeStart": "11:30 AM",
+          "days": "MWF",
+          "timeEnd": "12:20 PM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        },
+        {
+          "instructor": "TBA",
+          "sessionStart": "1/26/2009",
+          "timeStart": "12:00 PM",
+          "days": "T",
+          "timeEnd": "12:50 PM",
+          "sessionEnd": "5/13/2009",
+          "room": "OS 402"
+        }
+      ],
+      "enrollMax": "30",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "59",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "8:30 AM",
+          "days": "MWF",
+          "timeEnd": "9:20 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "9:00 AM",
+          "days": "R",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "50",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "44",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "50",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "1",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "8:30 AM",
+          "days": "MWF",
+          "timeEnd": "9:20 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "9:00 AM",
+          "days": "R",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2009",
+      "enrollNow": "3",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "9:30 AM",
+          "days": "MWF",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        },
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/2/2009",
+          "timeStart": "10:00 AM",
+          "days": "R",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/15/2009",
+          "room": "OS 408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2010",
+      "enrollNow": "35",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Marc Chiarini",
+          "sessionStart": "1/25/2010",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/12/2010",
+          "room": "OS 401"
+        },
+        {
+          "instructor": "Marc Chiarini",
+          "sessionStart": "1/25/2010",
+          "timeStart": "11:00 AM",
+          "days": "T",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/12/2010",
+          "room": "OS 403"
+        }
+      ],
+      "enrollMax": "30",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "58",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2010",
+          "timeStart": "9:00 AM",
+          "days": "MWRF",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "61",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2010",
+          "timeStart": "10:00 AM",
+          "days": "MWRF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "25",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "0",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2010",
+          "timeStart": "9:00 AM",
+          "days": "MWRF",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2010",
+      "enrollNow": "5",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2010",
+          "timeStart": "10:00 AM",
+          "days": "MWRF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/10/2010",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "5",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2011",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Mark Sherman",
+          "sessionStart": "1/24/2011",
+          "timeStart": "11:00 AM",
+          "days": "MTWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/9/2011",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2011",
+      "enrollNow": "48",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2011",
+          "timeStart": "8:00 AM",
+          "days": "MWRF",
+          "timeEnd": "8:50 AM",
+          "sessionEnd": "12/12/2011",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2011",
+      "enrollNow": "55",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/1/2011",
+          "timeStart": "9:00 AM",
+          "days": "MWRF",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/12/2011",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2011",
+      "enrollNow": "48",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Mark Sherman",
+          "sessionStart": "9/1/2011",
+          "timeStart": "8:00 AM",
+          "days": "MWRF",
+          "timeEnd": "8:50 AM",
+          "sessionEnd": "12/12/2011",
+          "room": "OLS-401"
+        }
+      ],
+      "enrollMax": "48",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2012",
+      "enrollNow": "47",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Mark Sherman",
+          "sessionStart": "1/23/2012",
+          "timeStart": "11:00 AM",
+          "days": "MTWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/7/2012",
+          "room": "OLS-401"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2012",
+      "enrollNow": "48",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/23/2012",
+          "timeStart": "11:00 AM",
+          "days": "MTWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/7/2012",
+          "room": "OLS-410"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "44",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Derrell Lipman",
+          "sessionStart": "9/5/2012",
+          "timeStart": "9:00 AM",
+          "days": "MTWF",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "48",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "9/5/2012",
+          "timeStart": "10:00 AM",
+          "days": "MTWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "51",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "9/5/2012",
+          "timeStart": "11:00 AM",
+          "days": "MTWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Fall 2012",
+      "enrollNow": "34",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/5/2012",
+          "timeStart": "11:00 AM",
+          "days": "MWRF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/10/2012",
+          "room": "OLS-403"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2013",
+      "enrollNow": "94",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/22/2013",
+          "timeStart": "9:30 AM",
+          "days": "R",
+          "timeEnd": "10:20 AM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-503"
+        }
+      ],
+      "enrollMax": "98",
+      "course": "Computing I",
+      "creditValue": "0 Credits"
+    },
+    {
+      "semester": "Spring 2013",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/22/2013",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    },
+    {
+      "semester": "Spring 2013",
+      "enrollNow": "45",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/22/2013",
+          "timeStart": "2:00 PM",
+          "days": "MWF",
+          "timeEnd": "2:50 PM",
+          "sessionEnd": "5/1/2013",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "4 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/4/2013",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-401"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "51",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/4/2013",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-401"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "68",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/4/2013",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2013",
+      "enrollNow": "32",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "James Canning",
+          "sessionStart": "9/4/2013",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/11/2013",
+          "room": "OLS-402"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2014",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/21/2014",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2014",
+      "enrollNow": "53",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/21/2014",
+          "timeStart": "2:00 PM",
+          "days": "MWF",
+          "timeEnd": "2:50 PM",
+          "sessionEnd": "5/2/2014",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "58",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/3/2014",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "59",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/3/2014",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "73",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/3/2014",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-503"
+        }
+      ],
+      "enrollMax": "78",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2014",
+      "enrollNow": "26",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "9/3/2014",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/10/2014",
+          "room": "OLS-403"
+        }
+      ],
+      "enrollMax": "35",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2015",
+      "enrollNow": "62",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/20/2015",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "5/1/2015",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2015",
+      "enrollNow": "61",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/20/2015",
+          "timeStart": "2:00 PM",
+          "days": "MWF",
+          "timeEnd": "2:50 PM",
+          "sessionEnd": "5/1/2015",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "60",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2015",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "47",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2015",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "90",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/1/2015",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-503"
+        }
+      ],
+      "enrollMax": "95",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2015",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-408"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "29",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/1/2015",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-103"
+        }
+      ],
+      "enrollMax": "19",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2015",
+      "enrollNow": "19",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/1/2015",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "12/9/2015",
+          "room": "OLS-103"
+        }
+      ],
+      "enrollMax": "19",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "56",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "1/19/2016",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-104"
+        }
+      ],
+      "enrollMax": "56",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "54",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "1/19/2016",
+          "timeStart": "10:00 AM",
+          "days": "MWF",
+          "timeEnd": "10:50 AM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-104"
+        }
+      ],
+      "enrollMax": "55",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2016",
+      "enrollNow": "15",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/19/2016",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/7/2016",
+          "room": "OLS-109"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "70",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "9/1/2016",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-102"
+        }
+      ],
+      "enrollMax": "95",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "82",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2016",
+          "timeStart": "1:00 PM",
+          "days": "MWF",
+          "timeEnd": "1:50 PM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-503"
+        }
+      ],
+      "enrollMax": "95",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "44",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sirong Lin",
+          "sessionStart": "9/1/2016",
+          "timeStart": "3:00 PM",
+          "days": "MWF",
+          "timeEnd": "3:50 PM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-402"
+        }
+      ],
+      "enrollMax": "45",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "39",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/1/2016",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-109"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Fall 2016",
+      "enrollNow": "27",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "9/1/2016",
+          "timeStart": "9:00 AM",
+          "days": "MWF",
+          "timeEnd": "9:50 AM",
+          "sessionEnd": "12/9/2016",
+          "room": "OLS-403"
+        }
+      ],
+      "enrollMax": "30",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ],
+  [
+    {
+      "semester": "Spring 2017",
+      "enrollNow": "56",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/17/2017",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-104"
+        }
+      ],
+      "enrollMax": "56",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2017",
+      "enrollNow": "49",
+      "honors": "No",
+      "meetings": [
+        {
+          "instructor": "Sarita Hakimian",
+          "sessionStart": "1/17/2017",
+          "timeStart": "12:00 PM",
+          "days": "MWF",
+          "timeEnd": "12:50 PM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-104"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    },
+    {
+      "semester": "Spring 2017",
+      "enrollNow": "30",
+      "honors": "Yes",
+      "meetings": [
+        {
+          "instructor": "David Adams",
+          "sessionStart": "1/17/2017",
+          "timeStart": "11:00 AM",
+          "days": "MWF",
+          "timeEnd": "11:50 AM",
+          "sessionEnd": "5/6/2017",
+          "room": "OLS-109"
+        }
+      ],
+      "enrollMax": "49",
+      "course": "Computing I",
+      "creditValue": "3 Credits"
+    }
+  ]
+]
