@@ -6,9 +6,9 @@ import time
 import sys
 import os
 import json
-from registrarparse import *
-from terminfo import *
-from cmdmanage import *
+from python_scripts.registrarparse import *
+from python_scripts.terminfo import *
+from python_scripts.cmdmanage import *
 
 # Parse and check command line arguments
 if len(sys.argv) != 5:
