@@ -1,9 +1,47 @@
-Running scrapeterms.py requires both BeautifulSoup4 and dryscrape to be configured. I suggest installing them on a UNIX
-environment as installing on Windows I found to be impossible due to not being able to get the
-last component (the webkit-server).
+####################
+# VIRTUALENV SETUP #
+####################
 
-Installation for dryscrape can be found at http://dryscrape.readthedocs.io/en/latest/installation.html
+Step 1: Make sure python3 and pip3 exist in the ubuntu VM
+which python3
+which pip3
 
-Also I am planning on making Numpy style docstrings as described in
-http://docs.python-guide.org/en/latest/writing/documentation/ for the Python functions. There is a lot of work to be
-done here, but the parser right now is fairly robust.
+Step 2: Use pip3 to install virtualenv, then check it's installed
+sudo pip3 install virtualenv
+pip3 freeze | grep virtualenv
+
+Step 3: Make a directory and then use virtualenv on it
+mkdir ~/scraper_site
+cd ~
+virtualenv scraper_site
+
+Step 4: Run the source command on the virtualenv directory's "activate"
+source ~/scraper_site/bin/activate
+
+After all this is done, you should see the directory's name prefixed in parentheses:
+(scraper_site) osboxes@osboxes:~/scrape/RegistrarAnalyzer$
+
+In addition, you only need to run python or pip (not python3 or pip3) because this virtual environment is essentially its own container.
+
+To get the requirements needed for the project, execute the following command when you are in the RegistrarAnalyzer root directory:
+sudo pip install -r requirements.txt
+
+To get out of the virtual environment, type the "deactivate" command with no parameters.
+
+####################
+# START DJANGO     #
+####################
+
+Go to the RegistrarAnalyzer project directory and go into the se_site directory. In here is a file called manage.py that will be needed to run the server. Make sure you are in the virtual environment first!
+
+python manage.py runserver
+
+After running this command, you should get a prompt like "Starting development server at http://127.0.0.1:8000/"
+
+######################
+# PYTHON WEB SCRAPER #
+######################
+
+The web scraping scripts can be found in the python_scripts/ directory. Please use the scrapeterms.py script to get JSON data. Running this script for all 34 semesters for one course may take a little more than 3 minutes, and around 100 MB of RAM. The scraper requires dryscrape and BeautifulSoup to be installed.
+
+Functions are documented in the Numpy documentation style, and plotly is the library that will be used to make the graphs (python framework, not the js version).
