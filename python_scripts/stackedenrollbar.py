@@ -1,17 +1,19 @@
 import json
 import sys
 import plotly
+from terminfo import *
 from plotly.graph_objs import Bar, Layout, Figure
 
 # Parse and check command line arguments
 if len(sys.argv) != 3:
-    print("\nUsage:\n\tpython3 enrollbar.py <semester_json> <course_short>")
-    print('Example:\n\tpython3 enrollbar.py ' +
-          'samples/semesters/json_semesters_cp1.txt cp1\n')
+    print("\nUsage:\n\tpython3 stackedenrollbar.py <semester_json> <course_short>")
+    print('Example:\n\tpython3 stackedenrollbar.py ' +
+          'samples/semesters/json_semesters_opl.txt opl\n')
     exit()
 
 jsonPath = sys.argv[1]
 courseShort = sys.argv[2]
+readableCourseName = courseNameDict[courseShort]
 
 # Read in the JSON
 with open(jsonPath) as jsonFile:
@@ -107,7 +109,7 @@ for trace in traces:
     )
     data.append(barToAdd)
 layout = Layout(
-    title = courseShort + " Enrollment",
+    title = readableCourseName + " Enrollment",
     barmode = 'stack'
 )
 
