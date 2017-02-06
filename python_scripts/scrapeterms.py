@@ -9,6 +9,7 @@ import json
 from python_scripts.registrarparse import *
 from python_scripts.terminfo import *
 from python_scripts.cmdmanage import *
+from se_site.registrar_analyzer.models import ClassTotals, Courses
 
 # Parse and check command line arguments
 if len(sys.argv) != 5:
