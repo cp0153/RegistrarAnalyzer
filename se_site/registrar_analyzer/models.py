@@ -13,8 +13,8 @@ from django.db import models
 
 # Create your models here.
 class Courses(models.Model):
-    semester = models.DateField('semester_offered')
-    time_start = models.DateTimeField('time_start')
+    semester = models.CharField(max_length=200,)
+    time_start = models.CharField(max_length=200)
     course_title = models.CharField(max_length=200)
     enroll_now = models.IntegerField()
     enroll_max = models.IntegerField()
@@ -45,6 +45,7 @@ class Courses(models.Model):
 class ClassTotals(models.Model):
     course = models.CharField(max_length=200)
     professor_total = models.IntegerField()
+    semester = models.CharField(max_length=200)
 
     class Meta:
         unique_together = ("course", "professor_total")
