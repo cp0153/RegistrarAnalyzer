@@ -45,3 +45,9 @@ After running this command, you should get a prompt like "Starting development s
 The web scraping scripts can be found in the python_scripts/ directory. Please use the scrapeterms.py script to get JSON data. Running this script for all 34 semesters for one course may take a little more than 3 minutes, and around 100 MB of RAM. The scraper requires dryscrape and BeautifulSoup to be installed.
 
 Functions are documented in the Numpy documentation style, and plotly is the library that will be used to make the graphs (python framework, not the js version).
+
+######################
+# DEPLOYMENT DETAILS #
+######################
+setup deployment server using this guide https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
+Development and production setup will use Ubuntu Server 16.04.1, Gunicorn, and Ngnix 
