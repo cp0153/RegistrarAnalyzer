@@ -1,7 +1,7 @@
 import dryscrape
 from bs4 import BeautifulSoup
 import time
-from python_scripts.terminfo import *
+from terminfo import *
 
 class RegistrarParser(object):
     """

@@ -25,7 +25,7 @@ SECRET_KEY = 'x$rdnrq#21s4&arq8bh*@4%)-i38m+v1%mppr@&-@f96hrp@gf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['159.203.142.27', '127.0.0.1']
 
 
 # Application definition
@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls.apps.PollsConfig',
-    'registrar_analyzer.apps.RegistrarAnalyzerConfig'
 ]
 
 MIDDLEWARE = [
@@ -120,3 +119,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
