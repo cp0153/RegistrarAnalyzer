@@ -3,13 +3,17 @@
 import dryscrape
 from bs4 import BeautifulSoup
 import time
-import sys
-import os
 import json
+import os, sys
 from registrarparse import *
 from terminfo import *
 from cmdmanage import *
-from se_site.registrar_analyzer.models import ClassTotals, Courses
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings")
+import django
+django.setup()
+from registrar_analyzer.models import Courses, ClassTotals
 
 # Parse and check command line arguments
 if len(sys.argv) != 5:
@@ -49,6 +53,7 @@ if int(startTermNum) > int(endTermNum):
     exit()
 
 # Create the Registrar Parser Object to store the data
+dryscrape.start_xvfb()
 parser = RegistrarParser(startSemester, endSemester,
                          courseInput, outFilePath)
 print(parser)

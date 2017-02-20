@@ -19,5 +19,5 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.5.2 (ssh://cpearce@127.0.0.1:3022/home/cpearce/se_site/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.5.2 (sftp://cpearce@127.0.0.1:3022/home/cpearce/RegistrarAnalyzer/se_siteenv/bin/python)" project-jdk-type="Python SDK" />
 </project>

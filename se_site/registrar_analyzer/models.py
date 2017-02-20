@@ -13,6 +13,7 @@ from django.db import models
 
 # Create your models here.
 class Courses(models.Model):
+    course_name = models.CharField(max_length=200)
     semester = models.CharField(max_length=200,)
     time_start = models.CharField(max_length=200)
     course_title = models.CharField(max_length=200)
@@ -25,7 +26,7 @@ class Courses(models.Model):
 
     # constrant for the index
     class Meta:
-        index_together = ("semester", "time_start", "course_title", "instructor", "meeting_days")
+        index_together = ("course_name", "semester", "time_start", "course_title", "instructor", "meeting_days")
 
 
 # >>> Writing Professor Totals for Computing IV for semesters Fall 2000 through Spring 2017
@@ -43,7 +44,9 @@ class Courses(models.Model):
 # > Victor Grinberg: 1
 # > John Sieg Jr: 11
 class ClassTotals(models.Model):
-    course = models.CharField(max_length=200)
+    course_name = models.ForeignKey('Courses',
+                                    models.CASCADE,
+                                    )
     professor_total = models.IntegerField()
     semester = models.CharField(max_length=200)
 
