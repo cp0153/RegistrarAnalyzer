@@ -8,6 +8,7 @@ import os, sys
 from registrarparse import *
 from terminfo import *
 from cmdmanage import *
+from django.db.utils import IntegrityError
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings")
@@ -153,6 +154,20 @@ with open(outFilePath, 'w') as outFile:
 
                     # Now that we've parsed this course section, combine the
                     # info into one dictionary.
+                    course = Courses(course_name=readableCourse,
+                                     semester=numDict[currentTermNum],
+                                     time_start=meetDict['timeStart'],
+                                     enroll_now=quickDict['enrollNow'],
+                                     enroll_max=quickDict['enrollMax'],
+                                     honors=quickDict['honors'],
+                                     credit_value=int(quickDict['creditValue'][0]),
+                                     meeting_days=meetDict['days'],
+                                     instructor=meetDict['instructor']
+                                     )
+                    try:
+                        course.save()
+                    except IntegrityError:
+                        pass
                     sectionDict = parser.combineInfoDicts(quickDict,
                                                           meetInfoDicts,
                                                           numDict[currentTermNum],
@@ -166,6 +181,7 @@ with open(outFilePath, 'w') as outFile:
         parser.addSemesterProfs(semesterProfsToAdd)
 
         # Also add the list of individual sections from this semester
+        # possible spot to write to db?
         parser.addSectionListing(sections)
 
         # Get end time for this semester, and calculate time analytics.

@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py" line="52" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="49859fcd-ff4c-4d67-b2df-1bd431ce0b91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/se_site/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RegistrarAnalyzer.iml" afterPath="$PROJECT_DIR$/.idea/RegistrarAnalyzer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/db.sqlite3" afterPath="$PROJECT_DIR$/se_site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" afterPath="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/se_site/settings.py" afterPath="$PROJECT_DIR$/se_site/se_site/settings.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/cmdmanage.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/cmdmanage.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/registrarparse.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/registrarparse.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/samples/json_result_mobilerobotics1.txt" afterPath="$PROJECT_DIR$/se_site/python_scripts/samples/json_result_mobilerobotics1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/samples/mobilerobotics1_class.txt" afterPath="$PROJECT_DIR$/se_site/python_scripts/samples/mobilerobotics1_class.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/scrapeterms.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_scripts/terminfo.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/terminfo.py" />
     </list>
     <ignored path="RegistrarAnalyzer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +21,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RegistrarAnalyzer$registrarparse__1_.coverage" NAME="registrarparse (1) Coverage Results" MODIFIED="1487599759850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/se_site/python_scripts" />
     <SUITE FILE_PATH="coverage/RegistrarAnalyzer$registrarparse.coverage" NAME="registrarparse Coverage Results" MODIFIED="1485822222212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_scripts" />
-    <SUITE FILE_PATH="coverage/RegistrarAnalyzer$scrapeterms.coverage" NAME="scrapeterms Coverage Results" MODIFIED="1487568451384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/RegistrarAnalyzer$scrapeterms.coverage" NAME="scrapeterms Coverage Results" MODIFIED="1487599689810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/se_site/python_scripts" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -39,6 +35,30 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Sqlite (Xerial) - db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Sqlite (Xerial) - db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="registrar_analyzer_courses" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -48,69 +68,17 @@
     <favorites_list name="RegistrarAnalyzer" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6565056">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/se_site/polls/models.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="621">
-                  <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="scrapeterms.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+                <state relative-caret-position="374">
+                  <caret line="172" column="51" lean-forward="false" selection-start-line="172" selection-start-column="51" selection-end-line="172" selection-end-column="51" />
                   <folding>
                     <element signature="e#20#36#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="registrarparse.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/se_site/python_scripts/registrarparse.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="8942">
-                  <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#16#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cp1.txt" pinned="true" current-in-tab="false">
-            <entry file="remoteDeploymentFS://&lt;06ef8285-6116-44d0-9074-a1d4f2032a70&gt;/home/cpearce/RegistrarAnalyzer/se_site/python_scripts/results/cp1.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="102" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -119,12 +87,39 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="cp1.txt" pinned="true" current-in-tab="true">
-            <entry file="remoteDeploymentFS://&lt;06ef8285-6116-44d0-9074-a1d4f2032a70&gt;/home/cpearce/RegistrarAnalyzer/se_site/python_scripts/results/cp1.txt">
+          <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1717">
-                  <caret line="119" column="34" lean-forward="false" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+                <state relative-caret-position="381">
+                  <caret line="28" column="0" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="28" selection-end-column="0" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="registrar_analyzer_courses" pinned="false" current-in-tab="false">
+            <entry file="dbDummy://dbtable:/ec5567ab/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+              <provider editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="registrarparse.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/se_site/python_scripts/registrarparse.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="314">
+                  <caret line="623" column="8" lean-forward="false" selection-start-line="623" selection-start-column="8" selection-end-line="623" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#0#16#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -171,11 +166,13 @@
         <option value="$PROJECT_DIR$/se_site/polls/templates/polls/results.html" />
         <option value="$PROJECT_DIR$/se_site/polls/views.py" />
         <option value="$PROJECT_DIR$/se_site/polls/admin.py" />
-        <option value="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
         <option value="$PROJECT_DIR$/se_site/__init__.py" />
         <option value="$PROJECT_DIR$/python_scripts/scrapeterms.py" />
         <option value="$PROJECT_DIR$/se_site/se_site/settings.py" />
+        <option value="&lt;06ef8285-6116-44d0-9074-a1d4f2032a70&gt;/home/cpearce/RegistrarAnalyzer/se_site/registrar_analyzer/migrations/0003_auto_20170221_0010.py" />
         <option value="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
+        <option value="dbtable:/ec5567ab/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses" />
+        <option value="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
       </list>
     </option>
   </component>
@@ -271,6 +268,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegistrarAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegistrarAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="se_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -299,7 +318,7 @@
       <recent name="$PROJECT_DIR$/se_site" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scrapeterms">
+  <component name="RunManager" selected="Python.registrarparse (1)">
     <configuration default="false" name="registrarparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,7 +344,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/se_site/python_scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -623,8 +642,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.scrapeterms" />
-        <item index="1" class="java.lang.String" itemvalue="Python.registrarparse (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.registrarparse (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scrapeterms" />
         <item index="2" class="java.lang.String" itemvalue="Python.registrarparse" />
       </list>
     </recent_temporary>
@@ -685,12 +704,19 @@
       <option name="project" value="LOCAL" />
       <updated>1487190611612</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="preparing scrapeterms.py to write directly to django db">
+      <created>1487568690383</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487568690383</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -700,13 +726,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45016077" sideWeight="0.48507464" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15245202" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44480172" sideWeight="0.48507464" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15245202" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13059701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15618336" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15618336" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -741,7 +767,8 @@
     <MESSAGE value="draft db" />
     <MESSAGE value="draft db, added semester to classTotal table, and changed date fields to strings" />
     <MESSAGE value="edited settings for cloud server and fixed views. need to create separate settings file for deployment(kept off version control)" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited settings for cloud server and fixed views. need to create separate settings file for deployment(kept off version control)" />
+    <MESSAGE value="preparing scrapeterms.py to write directly to django db" />
+    <option name="LAST_COMMIT_MESSAGE" value="preparing scrapeterms.py to write directly to django db" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -756,14 +783,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/se_site/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,13 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/samples/json_result_mobilerobotics1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/se_site/polls/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -925,13 +937,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/samples/mobilerobotics1_class.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -962,13 +967,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/se_site/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/cmdmanage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1024,14 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1052,14 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1088,10 +1070,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/samples/json_result_mobilerobotics1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/samples/mobilerobotics1_class.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9233">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/cmdmanage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/se_site/python_scripts/registrarparse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8942">
-          <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
+        <state relative-caret-position="314">
+          <caret line="623" column="8" lean-forward="false" selection-start-line="623" selection-start-column="8" selection-end-line="623" selection-end-column="8" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -1100,11 +1114,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        <state relative-caret-position="374">
+          <caret line="172" column="51" lean-forward="false" selection-start-line="172" selection-start-column="51" selection-end-line="172" selection-end-column="51" />
           <folding>
             <element signature="e#20#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/ec5567ab/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

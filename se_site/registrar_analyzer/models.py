@@ -16,17 +16,16 @@ class Courses(models.Model):
     course_name = models.CharField(max_length=200)
     semester = models.CharField(max_length=200,)
     time_start = models.CharField(max_length=200)
-    course_title = models.CharField(max_length=200)
     enroll_now = models.IntegerField()
     enroll_max = models.IntegerField()
-    honors = models.BooleanField()
+    honors = models.CharField(max_length=200)
     credit_value = models.IntegerField()
     meeting_days = models.CharField(max_length=10)
     instructor = models.CharField(max_length=200)
 
     # constrant for the index
-    class Meta:
-        index_together = ("course_name", "semester", "time_start", "course_title", "instructor", "meeting_days")
+    # class Meta:
+    #     unique_together = ("course_name", "semester", "time_start", "instructor", "meeting_days", "enroll_now")
 
 
 # >>> Writing Professor Totals for Computing IV for semesters Fall 2000 through Spring 2017
@@ -44,11 +43,28 @@ class Courses(models.Model):
 # > Victor Grinberg: 1
 # > John Sieg Jr: 11
 class ClassTotals(models.Model):
-    course_name = models.ForeignKey('Courses',
-                                    models.CASCADE,
+    course_name = models.ForeignKey(Courses,
+                                    on_delete=models.CASCADE,
                                     )
-    professor_total = models.IntegerField()
+    prof_total = models.IntegerField()
     semester = models.CharField(max_length=200)
 
     class Meta:
-        unique_together = ("course", "professor_total")
+        unique_together = ("course_name", "prof_total")
+
+# a = [{'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '50', 'honors': 'No',
+#       'enrollMax': '60', 'semester': 'Fall 2005', 'meetings':
+#           [{'sessionEnd': '12/22/2005', 'instructor': 'James Canning', 'days': 'MWRF',
+#             'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM', 'timeStart': '10:30 AM',
+#             'room': 'OS 408'}]},
+#      {'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '7', 'honors': 'Yes',
+#       'enrollMax': '25', 'semester': 'Fall 2005', 'meetings':
+#           [{'sessionEnd': '12/22/2005', 'instructor': 'James Canning', 'days': 'MWRF',
+#             'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM',
+#             'timeStart': '10:30 AM', 'room': 'OS 408'}]}]
+#
+b = {'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '7', 'honors': 'Yes',
+     'enrollMax': '25', 'semester': 'Fall 2005', 'meetings':
+         [{'sessionEnd': '12/22/2005', 'instructor': 'James Canning', 'days': 'MWRF',
+           'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM', 'timeStart': '10:30 AM',
+           'room': 'OS 408'}]}
