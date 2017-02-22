@@ -14,6 +14,7 @@ from django.db.utils import IntegrityError
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings")
 import django
+
 django.setup()
 from registrar_analyzer.models import Courses, ClassTotals
 
@@ -55,14 +56,13 @@ if int(startTermNum) > int(endTermNum):
     exit()
 
 # Create the Registrar Parser Object to store the data
-dryscrape.start_xvfb() # This line might not be needed
+dryscrape.start_xvfb()  # This line might not be needed
 parser = RegistrarParser(startSemester, endSemester,
                          courseInput, outFilePath)
 print(parser)
 
 # Open the file
 with open(outFilePath, 'w') as outFile:
-
     # Tell the user which course they're scraping and which semesters
     readableCourse = parser.getReadableCourseName()
     scrapePrompt = "\n> You chose to scrape the course " + readableCourse
@@ -73,11 +73,11 @@ with open(outFilePath, 'w') as outFile:
     scrapePrompt += startSemester + " through " + endSemester
     print(scrapePrompt)
     parser.writeStringToFile(outFile, scrapePrompt + "\n")
-    
+
     # Set up necessary variables for scraping
     beginning = time.time()
-    currentSemIndex = startTermIndex # Start counter for semester scraping
-    courseUrl = parser.getCourseUrl() # Formatted course string for registrar
+    currentSemIndex = startTermIndex  # Start counter for semester scraping
+    courseUrl = parser.getCourseUrl()  # Formatted course string for registrar
 
     # Keeping track of time will also be important for analytics.
     timeSoFar = 0
@@ -101,8 +101,8 @@ with open(outFilePath, 'w') as outFile:
 
         # Now that we have the user input, request the URL.
         responseSoup = parser.getSiteBody(scrapeUrl, 5)
-        semProfs = {} # Professor section count for this semester
-        sections = [] # The list of course sections for this semester
+        semProfs = {}  # Professor section count for this semester
+        sections = []  # The list of course sections for this semester
         courseGroupDivs = parser.getCourseGroupDivs(responseSoup)
         for courseGroupDiv in courseGroupDivs:
 
@@ -110,7 +110,7 @@ with open(outFilePath, 'w') as outFile:
             scrapePrompt = "\n>> Reached a group result."
             parser.writeStringToFile(outFile, scrapePrompt + "\n")
             courseSections = parser.getCourseSectionDivs(courseGroupDiv)
-            i = 1 # Debugging Course Section Counter
+            i = 1  # Debugging Course Section Counter
             for courseSection in courseSections:
 
                 # Check first for a cancelled section.
@@ -125,7 +125,7 @@ with open(outFilePath, 'w') as outFile:
                     # We need the section details div before proceeding.
                     sectionDetailsDiv = parser.getDetailsDiv(courseSection)
                     meetInfoDicts = []
-                    
+
                     # From the section details, find quick info first
                     try:
                         quickDict = parser.getQuickInfoDetails(sectionDetailsDiv)
@@ -163,15 +163,15 @@ with open(outFilePath, 'w') as outFile:
 
                     # After getting the section dictionary, use it to enter a DB entry.
                     try:
-                        course = Courses(course_name = readableCourse,
-                                         semester = sectionDict['semester'],
-                                         time_start = meetDict['timeStart'],
-                                         enroll_now = sectionDict['enrollNow'],
-                                         enroll_max = sectionDict['enrollMax'],
-                                         honors = sectionDict['honors'],
-                                         credit_value = int(sectionDict['creditValue'][0]),
-                                         meeting_days = meetDict['days'],
-                                         instructor = meetDict['instructor']
+                        course = Courses(course_name=readableCourse,
+                                         semester=sectionDict['semester'],
+                                         time_start=meetDict['timeStart'],
+                                         enroll_now=sectionDict['enrollNow'],
+                                         enroll_max=sectionDict['enrollMax'],
+                                         honors=sectionDict['honors'],
+                                         credit_value=int(sectionDict['creditValue'][0]),
+                                         meeting_days=meetDict['days'],
+                                         instructor=meetDict['instructor']
                                          )
                         course.save()
                     except IntegrityError:
@@ -181,15 +181,16 @@ with open(outFilePath, 'w') as outFile:
                         # This means there were no meetings. Try saving the entry
                         # With a workaround
                         try:
-                            course = Courses(course_name = readableCourse,
-                                             semester = sectionDict['semester'],
-                                             time_start = meetDict['timeStart'],
-                                             enroll_now = sectionDict['enrollNow'],
-                                             enroll_max = sectionDict['enrollMax'],
-                                             honors = sectionDict['honors'],
-                                             credit_value = int(sectionDict['creditValue'][0]),
-                                             meeting_days = "None",
-                                             instructor = "None"
+                            course = Courses(course_name=readableCourse,
+                                             semester=sectionDict['semester'],
+                                             time_start=meetDict['timeStart'],
+                                             time_end=['timeEnd'],
+                                             enroll_now=sectionDict['enrollNow'],
+                                             enroll_max=sectionDict['enrollMax'],
+                                             honors=sectionDict['honors'],
+                                             credit_value=int(sectionDict['creditValue'][0]),
+                                             meeting_days="None",
+                                             instructor="None"
                                              )
                             course.save()
                         except:
@@ -210,7 +211,6 @@ with open(outFilePath, 'w') as outFile:
         semParseTime = currSemTimeEnd - currSemTimeStart
         semsLeft = endTermIndex - currentSemIndex
         if semsLeft != 0:
-
             # Time Info Header for this section
             scrapePrompt = "\n>> Time Info:"
             print(scrapePrompt)
@@ -219,14 +219,14 @@ with open(outFilePath, 'w') as outFile:
             # Calculate time analytics
             timeSoFar += semParseTime
             semsParsed += 1
-            timeAvg = timeSoFar/semsParsed
+            timeAvg = timeSoFar / semsParsed
             timeLeft = timeAvg * semsLeft
 
             # Output the time analytics
             scrapePrompt = "> This semester took " + str(round(semParseTime, 3)) + " seconds"
             print(scrapePrompt)
             parser.writeStringToFile(outFile, scrapePrompt + "\n")
-            
+
             scrapePrompt = "> " + str(semsParsed) + " Semesters Parsed in "
             scrapePrompt += str(round(timeSoFar, 3)) + " seconds."
             print(scrapePrompt)
@@ -239,14 +239,14 @@ with open(outFilePath, 'w') as outFile:
 
         # Move on to the next semester.
         currentSemIndex += 1
-        
+
     # We've parsed all semesters, write out the data in the semesters
     scrapePrompt = "\n>>> Now writing out " + startSemester + " through "
     scrapePrompt += endSemester + " for " + readableCourse
     print(scrapePrompt)
     parser.writeStringToFile(outFile, scrapePrompt + "\n")
     parser.writeSemCountsToFile(outFile)
-            
+
     # Now write out the professor total individual section counts
     scrapePrompt = "\n>>> Writing Professor Totals for " + readableCourse
     scrapePrompt += " for semesters " + startSemester + " through " + endSemester
@@ -258,7 +258,7 @@ with open(outFilePath, 'w') as outFile:
     # Print how long this took.
     finished = time.time()
     runningTime = round(finished - beginning, 3)
-    
+
     scrapePrompt = "\n>>> All of this took " + str(runningTime) + " seconds."
     print(scrapePrompt)
     parser.writeStringToFile(outFile, scrapePrompt + "\n")
@@ -281,13 +281,11 @@ jsonFile.close()
 dictProfTotals = parser.getProfTotals()
 for prof in dictProfTotals:
     try:
-        classTotal = ClassTotals(course_name = readableCourse,
-                            prof_total = dictProfTotals[prof],
-                            semester = "All")
+        classTotal = ClassTotals(course_name=readableCourse,
+                                 prof_total=dictProfTotals[prof],
+                                 semester="All")
         classTotal.save()
     except IntegrityError:
-        pass
-    except:
         pass
 
 # Now it's time to write the JSON of professors for individual semesters.

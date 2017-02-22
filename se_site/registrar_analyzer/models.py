@@ -16,6 +16,7 @@ class Courses(models.Model):
     course_name = models.CharField(max_length=200)
     semester = models.CharField(max_length=200,)
     time_start = models.CharField(max_length=200)
+    time_end = models.CharField(max_length=200)
     enroll_now = models.IntegerField()
     enroll_max = models.IntegerField()
     honors = models.CharField(max_length=200)
@@ -63,8 +64,18 @@ class ClassTotals(models.Model):
 #             'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM',
 #             'timeStart': '10:30 AM', 'room': 'OS 408'}]}]
 #
-b = {'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '7', 'honors': 'Yes',
-     'enrollMax': '25', 'semester': 'Fall 2005', 'meetings':
-         [{'sessionEnd': '12/22/2005', 'instructor': 'James Canning', 'days': 'MWRF',
-           'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM', 'timeStart': '10:30 AM',
-           'room': 'OS 408'}]}
+# b = {'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '7', 'honors': 'Yes',
+#      'enrollMax': '25', 'semester': 'Fall 2005', 'meetings':
+#          [{'sessionEnd': '12/22/2005', 'instructor': 'James Canning', 'days': 'MWRF',
+#            'sessionStart': '9/6/2005', 'timeEnd': '11:20 AM', 'timeStart': '10:30 AM',
+#            'room': 'OS 408'}]}
+
+# reset migrations on development database
+# type the following into the cmd line:
+# find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
+# find . -path "*/migrations/*.pyc"  -delete
+
+# then delete db.sqlite3
+# finally, create the initial migrations and generate schema
+# python manage.py makemigrations
+# python manage.py migrate
