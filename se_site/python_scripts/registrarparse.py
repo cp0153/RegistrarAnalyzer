@@ -100,6 +100,12 @@ class RegistrarParser(object):
     def getSemesterListing(self):
         return self.semesters
 
+    def getProfTotals(self):
+        return self.profTotals
+
+    def getSemesterProfs(self):
+        return self.semesterProfs
+
     ####################################
     # FUNCTIONS AND PARSING            #
     ####################################

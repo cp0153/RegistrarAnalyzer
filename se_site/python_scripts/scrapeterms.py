@@ -10,6 +10,7 @@ from terminfo import *
 from cmdmanage import *
 from django.db.utils import IntegrityError
 
+# Import settings for django
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings")
 import django
@@ -54,7 +55,7 @@ if int(startTermNum) > int(endTermNum):
     exit()
 
 # Create the Registrar Parser Object to store the data
-dryscrape.start_xvfb()
+dryscrape.start_xvfb() # This line might not be needed
 parser = RegistrarParser(startSemester, endSemester,
                          courseInput, outFilePath)
 print(parser)
@@ -154,25 +155,45 @@ with open(outFilePath, 'w') as outFile:
 
                     # Now that we've parsed this course section, combine the
                     # info into one dictionary.
-                    course = Courses(course_name=readableCourse,
-                                     semester=numDict[currentTermNum],
-                                     time_start=meetDict['timeStart'],
-                                     enroll_now=quickDict['enrollNow'],
-                                     enroll_max=quickDict['enrollMax'],
-                                     honors=quickDict['honors'],
-                                     credit_value=int(quickDict['creditValue'][0]),
-                                     meeting_days=meetDict['days'],
-                                     instructor=meetDict['instructor']
-                                     )
-                    try:
-                        course.save()
-                    except IntegrityError:
-                        pass
                     sectionDict = parser.combineInfoDicts(quickDict,
                                                           meetInfoDicts,
                                                           numDict[currentTermNum],
                                                           readableCourse)
                     sections.append(sectionDict)
+
+                    # After getting the section dictionary, use it to enter a DB entry.
+                    try:
+                        course = Courses(course_name = readableCourse,
+                                         semester = sectionDict['semester'],
+                                         time_start = meetDict['timeStart'],
+                                         enroll_now = sectionDict['enrollNow'],
+                                         enroll_max = sectionDict['enrollMax'],
+                                         honors = sectionDict['honors'],
+                                         credit_value = int(sectionDict['creditValue'][0]),
+                                         meeting_days = meetDict['days'],
+                                         instructor = meetDict['instructor']
+                                         )
+                        course.save()
+                    except IntegrityError:
+                        pass
+                    except:
+
+                        # This means there were no meetings. Try saving the entry
+                        # With a workaround
+                        try:
+                            course = Courses(course_name = readableCourse,
+                                             semester = sectionDict['semester'],
+                                             time_start = meetDict['timeStart'],
+                                             enroll_now = sectionDict['enrollNow'],
+                                             enroll_max = sectionDict['enrollMax'],
+                                             honors = sectionDict['honors'],
+                                             credit_value = int(sectionDict['creditValue'][0]),
+                                             meeting_days = "None",
+                                             instructor = "None"
+                                             )
+                            course.save()
+                        except:
+                            pass
 
         # Now add this semester's prof information to the semesterProfs list
         semesterProfsToAdd = []
@@ -247,13 +268,37 @@ outFile.close()
 
 # Now it's time to write the JSON of the semester information.
 courseSemesters = parser.getSemesterListing()
-jsonFileName = "json_result_" + courseInput + ".txt"
+jsonFileName = "json_semesters_" + courseInput + ".txt"
 with open(jsonFileName, 'w') as jsonFile:
     json.dump(courseSemesters, jsonFile, indent=2)
 jsonFile.close()
 
+# In our case we want to just write this to the DB now.
+# Currently app specification is total through the entire semester range.
+# NOTE: This does not work right now. Program mentions that
+# "ClassTotals.course_name" must be a "Courses" instance. This requires
+# further discussion.
+dictProfTotals = parser.getProfTotals()
+for prof in dictProfTotals:
+    try:
+        classTotal = ClassTotals(course_name = readableCourse,
+                            prof_total = dictProfTotals[prof],
+                            semester = "All")
+        classTotal.save()
+    except IntegrityError:
+        pass
+    except:
+        pass
+
+# Now it's time to write the JSON of professors for individual semesters.
+dictSemesterProfs = parser.getSemesterProfs()
+##jsonFileName = "json_profSemesters_" + courseInput + ".txt"
+##with open(jsonFileName, 'w') as jsonFile:
+##    json.dump(dictSemesterProfs, jsonFile, indent=2)
+##jsonFile.close()
+
 # Kill the webkit_server processes to prevent memory leak
-print("Killing webkit_server processes...")
-killWebkitServers()
+##print("Killing webkit_server processes...")
+##killWebkitServers()
 
 # End
