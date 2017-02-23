@@ -162,39 +162,43 @@ with open(outFilePath, 'w') as outFile:
                     sections.append(sectionDict)
 
                     # After getting the section dictionary, use it to enter a DB entry.
-                    try:
-                        course = Courses(course_name=readableCourse,
-                                         semester=sectionDict['semester'],
-                                         time_start=meetDict['timeStart'],
-                                         enroll_now=sectionDict['enrollNow'],
-                                         enroll_max=sectionDict['enrollMax'],
-                                         honors=sectionDict['honors'],
-                                         credit_value=int(sectionDict['creditValue'][0]),
-                                         meeting_days=meetDict['days'],
-                                         instructor=meetDict['instructor']
-                                         )
-                        course.save()
-                    except IntegrityError:
-                        pass
-                    except:
-
-                        # This means there were no meetings. Try saving the entry
-                        # With a workaround
+                    for meeting in meetInfoDicts:
                         try:
                             course = Courses(course_name=readableCourse,
                                              semester=sectionDict['semester'],
-                                             time_start=meetDict['timeStart'],
-                                             time_end=['timeEnd'],
+                                             time_start=meeting['timeStart'],
+                                             time_end=meeting['timeEnd'],
                                              enroll_now=sectionDict['enrollNow'],
                                              enroll_max=sectionDict['enrollMax'],
                                              honors=sectionDict['honors'],
                                              credit_value=int(sectionDict['creditValue'][0]),
-                                             meeting_days="None",
-                                             instructor="None"
+                                             meeting_days=meeting['days'],
+                                             instructor=meeting['instructor'],
+                                             room=meeting['room']
                                              )
                             course.save()
+                        except IntegrityError:
+                            print('IntegrityError\n', sectionDict)
                         except:
-                            pass
+
+                            # This means there were no meetings. Try saving the entry
+                            # With a workaround
+                            try:
+                                course = Courses(course_name=readableCourse,
+                                                 semester=sectionDict['semester'],
+                                                 time_start=meetDict['timeStart'],
+                                                 time_end=['timeEnd'],
+                                                 enroll_now=sectionDict['enrollNow'],
+                                                 enroll_max=sectionDict['enrollMax'],
+                                                 honors=sectionDict['honors'],
+                                                 credit_value=int(sectionDict['creditValue'][0]),
+                                                 meeting_days="None",
+                                                 instructor="None",
+                                                 room="None"
+                                                 )
+                                course.save()
+                            except:
+                                print("Unexpected error:", sys.exc_info()[0], '\n', sectionDict)
 
         # Now add this semester's prof information to the semesterProfs list
         semesterProfsToAdd = []
@@ -285,8 +289,8 @@ for prof in dictProfTotals:
                                  prof_total=dictProfTotals[prof],
                                  semester="All")
         classTotal.save()
-    except IntegrityError:
-        pass
+    except:
+        print("Unexpected error:", sys.exc_info()[0], dictProfTotals)
 
 # Now it's time to write the JSON of professors for individual semesters.
 dictSemesterProfs = parser.getSemesterProfs()

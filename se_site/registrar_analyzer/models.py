@@ -23,10 +23,12 @@ class Courses(models.Model):
     credit_value = models.IntegerField()
     meeting_days = models.CharField(max_length=10)
     instructor = models.CharField(max_length=200)
+    room = models.CharField(max_length=200)
 
     # constrant for the index
-    # class Meta:
-    #     unique_together = ("course_name", "semester", "time_start", "instructor", "meeting_days", "enroll_now")
+    class Meta:
+        unique_together = ("course_name", "semester", "time_start", "time_end", "enroll_now", "enroll_now",
+                           "honors", "room", "instructor", "meeting_days", "enroll_now")
 
 
 # >>> Writing Professor Totals for Computing IV for semesters Fall 2000 through Spring 2017
@@ -44,9 +46,7 @@ class Courses(models.Model):
 # > Victor Grinberg: 1
 # > John Sieg Jr: 11
 class ClassTotals(models.Model):
-    course_name = models.ForeignKey(Courses,
-                                    on_delete=models.CASCADE,
-                                    )
+    course_name = models.CharField(max_length=200)
     prof_total = models.IntegerField()
     semester = models.CharField(max_length=200)
 
