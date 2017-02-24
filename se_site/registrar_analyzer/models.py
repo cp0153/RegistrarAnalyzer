@@ -14,21 +14,22 @@ from django.db import models
 # Create your models here.
 class Courses(models.Model):
     course_name = models.CharField(max_length=200)
+    instructor = models.CharField(max_length=200)
     semester = models.CharField(max_length=200,)
     time_start = models.CharField(max_length=200)
     time_end = models.CharField(max_length=200)
     enroll_now = models.IntegerField()
-    enroll_max = models.IntegerField()
-    honors = models.CharField(max_length=200)
-    credit_value = models.IntegerField()
-    meeting_days = models.CharField(max_length=10)
-    instructor = models.CharField(max_length=200)
     room = models.CharField(max_length=200)
+    honors = models.CharField(max_length=200)
+    meeting_days = models.CharField(max_length=10)
+    credit_value = models.IntegerField()
+    enroll_max = models.IntegerField()
+
 
     # constrant for the index
     class Meta:
-        unique_together = ("course_name", "semester", "time_start", "time_end", "enroll_now", "enroll_now",
-                           "honors", "room", "instructor", "meeting_days", "enroll_now")
+        unique_together = ("course_name", "instructor", "semester", "time_start", "time_end", "enroll_now",
+                           "room", "honors", "meeting_days")
 
 
 # >>> Writing Professor Totals for Computing IV for semesters Fall 2000 through Spring 2017

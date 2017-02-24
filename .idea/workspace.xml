@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py" line="82" />
+    <bookmark url="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py" line="83" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49859fcd-ff4c-4d67-b2df-1bd431ce0b91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/se_site/python_scripts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/se_site/python_scripts/run_all.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/RegistrarAnalyzer.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/db.sqlite3" afterPath="$PROJECT_DIR$/se_site/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/manage.py" afterPath="$PROJECT_DIR$/se_site/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" afterPath="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" afterPath="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
     </list>
@@ -65,7 +54,7 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" value="registrar_analyzer_classtotals" />
+        <option name="myItemId" value="registrar_analyzer_courses" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -82,18 +71,18 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8d86d3ee-977f-4a76-86d5-d33511054d31/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.75">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrapeterms.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scrapeterms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="202" column="109" selection-start-line="202" selection-start-column="109" selection-end-line="202" selection-end-column="109" />
+            <state vertical-scroll-proportion="0.4871795">
+              <caret line="275" column="0" selection-start-line="275" selection-start-column="2" selection-end-line="275" selection-end-column="17" />
               <folding>
                 <element signature="e#20#36#0" expanded="true" />
               </folding>
@@ -104,7 +93,7 @@
       <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/se_site/polls/templates/polls/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
@@ -166,13 +155,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4871795">
-              <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
               <folding>
-                <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+                <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -234,11 +223,11 @@
         <option value="dbtable:/ec5567ab/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses" />
         <option value="$PROJECT_DIR$/sql_samples/proftotals.sql" />
         <option value="$PROJECT_DIR$/se_site/python_scripts/run_all.py" />
-        <option value="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
         <option value="$PROJECT_DIR$/se_site/python_scripts/run_all.sh" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8d86d3ee-977f-4a76-86d5-d33511054d31/console.sql" />
-        <option value="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/se_site/registrar_analyzer/models.py" />
+        <option value="$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py" />
       </list>
     </option>
   </component>
@@ -277,7 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,7 +351,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -779,7 +768,13 @@
       <option name="project" value="LOCAL" />
       <updated>1487824968838</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="committing final version of registrar models">
+      <created>1487900598438</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487900598438</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -793,10 +788,9 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4434655" sideWeight="0.48507464" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21163167" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13974153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1558966" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21163167" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14135703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33275864" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -807,6 +801,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -840,7 +835,8 @@
     <MESSAGE value="got some data writing to Courses table" />
     <MESSAGE value="added time end to course totals, created a sample of a way to group prof totals" />
     <MESSAGE value="testing out a new constraint, edited the try except blocks so the script not longer crashes and outputs the data in memory" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing out a new constraint, edited the try except blocks so the script not longer crashes and outputs the data in memory" />
+    <MESSAGE value="committing final version of registrar models" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing final version of registrar models" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,9 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,7 +877,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
           <folding>
-            <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+            <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -904,7 +895,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
           <folding>
-            <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+            <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -928,7 +919,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+            <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -945,7 +936,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+            <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1092,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,7 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,7 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1116,22 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/ed9df1de/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_classtotals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1147,13 +1118,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8d86d3ee-977f-4a76-86d5-d33511054d31/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
@@ -1175,19 +1145,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="202" column="109" selection-start-line="202" selection-start-column="109" selection-end-line="202" selection-end-column="109" />
-          <folding>
-            <element signature="e#20#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/se_site/polls/templates/polls/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
@@ -1195,19 +1155,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/se_site/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/ed9df1de/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -1230,12 +1177,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="dbDummy://dbtable:/ed9df1de/8d86d3ee-977f-4a76-86d5-d33511054d31/registrar_analyzer_courses">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/se_site/registrar_analyzer/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4871795">
-          <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding>
-            <marker date="1487900297000" expanded="true" signature="368:523" placeholder="..." />
+            <marker date="1487901564000" expanded="true" signature="368:573" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_site/python_scripts/scrapeterms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4871795">
+          <caret line="275" column="0" selection-start-line="275" selection-start-column="2" selection-end-line="275" selection-end-column="17" />
+          <folding>
+            <element signature="e#20#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

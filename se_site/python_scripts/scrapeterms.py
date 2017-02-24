@@ -17,7 +17,7 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings")
 import django
 
 django.setup()
-from registrar_analyzer.models import Courses, ClassTotals
+from registrar_analyzer.models import Courses
 
 # Parse and check command line arguments
 if len(sys.argv) != 5:
@@ -65,6 +65,7 @@ print(parser)
 
 # Open the file
 with open(outFilePath, 'w') as outFile:
+    logf = open("dberrors.log", "+w")
     # Tell the user which course they're scraping and which semesters
     readableCourse = parser.getReadableCourseName()
     scrapePrompt = "\n> You chose to scrape the course " + readableCourse
@@ -179,8 +180,8 @@ with open(outFilePath, 'w') as outFile:
                                              room=meeting['room']
                                              )
                             course.save()
-                        except IntegrityError:
-                            print('IntegrityError\n', sectionDict)
+                        except IntegrityError as e:
+                            logf.write("Failed to download {0}: {1}\n".format(str(sectionDict), str(e)))
                         except:
 
                             # This means there were no meetings. Try saving the entry
@@ -200,7 +201,8 @@ with open(outFilePath, 'w') as outFile:
                                                  )
                                 course.save()
                             except:
-                                print("Unexpected error with Courses:", sys.exc_info()[0], '\n', sectionDict)
+                                logf.write("Failed to download {0}: {1}\n".format(str(sectionDict), str(e)))
+
 
         # Now add this semester's prof information to the semesterProfs list
         semesterProfsToAdd = []
@@ -268,9 +270,10 @@ with open(outFilePath, 'w') as outFile:
     scrapePrompt = "\n>>> All of this took " + str(runningTime) + " seconds."
     print(scrapePrompt)
     parser.writeStringToFile(outFile, scrapePrompt + "\n")
+    logf.close()
 
 # Close the file we wrote out to.
-outFile.close()
+# outFile.close()
 
 # Now it's time to write the JSON of the semester information.
 courseSemesters = parser.getSemesterListing()
@@ -285,14 +288,14 @@ jsonFile.close()
 # "ClassTotals.course_name" must be a "Courses" instance. This requires
 # further discussion.
 dictProfTotals = parser.getProfTotals()
-for prof in dictProfTotals:
-    try:
-        classTotal = ClassTotals(course_name=readableCourse,
-                                 prof_total=dictProfTotals[prof],
-                                 semester="All")
-        classTotal.save()
-    except:
-        print("Unexpected error with ClassTotals:", sys.exc_info()[0], dictProfTotals)
+# for prof in dictProfTotals:
+#     try:
+#         classTotal = ClassTotals(course_name=readableCourse,
+#                                  prof_total=dictProfTotals[prof],
+#                                  semester="All")
+#         classTotal.save()
+#     except:
+#         print("Unexpected error with ClassTotals:", sys.exc_info()[0], dictProfTotals)
 
 # Now it's time to write the JSON of professors for individual semesters.
 dictSemesterProfs = parser.getSemesterProfs()
