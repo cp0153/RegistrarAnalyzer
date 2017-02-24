@@ -4,7 +4,8 @@ import dryscrape
 from bs4 import BeautifulSoup
 import time
 import json
-import os, sys
+import os
+import sys
 from registrarparse import *
 from terminfo import *
 from cmdmanage import *
@@ -22,6 +23,7 @@ from registrar_analyzer.models import Courses, ClassTotals
 if len(sys.argv) != 5:
     print("\nUsage:\n\tpython3 scrapeterms.py <start_semester> <end_semester> <course> <out_file>")
     print('Example:\n\tpython3 scrapeterms.py "Fall 2005" "Spring 2008" cp1 ./results/cp1.txt\n')
+    print(sys.argv)
     exit()
 
 startSemester = sys.argv[1]
@@ -198,7 +200,7 @@ with open(outFilePath, 'w') as outFile:
                                                  )
                                 course.save()
                             except:
-                                print("Unexpected error:", sys.exc_info()[0], '\n', sectionDict)
+                                print("Unexpected error with Courses:", sys.exc_info()[0], '\n', sectionDict)
 
         # Now add this semester's prof information to the semesterProfs list
         semesterProfsToAdd = []
@@ -290,7 +292,7 @@ for prof in dictProfTotals:
                                  semester="All")
         classTotal.save()
     except:
-        print("Unexpected error:", sys.exc_info()[0], dictProfTotals)
+        print("Unexpected error with ClassTotals:", sys.exc_info()[0], dictProfTotals)
 
 # Now it's time to write the JSON of professors for individual semesters.
 dictSemesterProfs = parser.getSemesterProfs()
@@ -300,7 +302,7 @@ dictSemesterProfs = parser.getSemesterProfs()
 ##jsonFile.close()
 
 # Kill the webkit_server processes to prevent memory leak
-##print("Killing webkit_server processes...")
-##killWebkitServers()
+# print("Killing webkit_server processes...")
+# killWebkitServers()
 
 # End

@@ -45,13 +45,15 @@ class Courses(models.Model):
 # > Ayat Hatem: 2
 # > Victor Grinberg: 1
 # > John Sieg Jr: 11
-class ClassTotals(models.Model):
-    course_name = models.CharField(max_length=200)
-    prof_total = models.IntegerField()
-    semester = models.CharField(max_length=200)
 
-    class Meta:
-        unique_together = ("course_name", "prof_total")
+# no longer needed
+# class ClassTotals(models.Model):
+#     course_name = models.CharField(max_length=200)
+#     prof_total = models.IntegerField()
+#     semester = models.CharField(max_length=200)
+#
+#     class Meta:
+#         unique_together = ("course_name", "prof_total")
 
 # a = [{'creditValue': '4 Credits', 'course': 'Computing I', 'enrollNow': '50', 'honors': 'No',
 #       'enrollMax': '60', 'semester': 'Fall 2005', 'meetings':
