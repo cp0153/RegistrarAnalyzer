@@ -51,3 +51,4 @@ docs/_build/
 
 # pycharm
 .idea/
+.idea/workspace.xml
