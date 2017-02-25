@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49859fcd-ff4c-4d67-b2df-1bd431ce0b91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_group.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_group_permissions.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_permission.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_user.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_user_groups.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/auth_user_user_permissions.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/django_admin_log.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/django_content_type.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/django_migrations.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/django_session.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/polls_choice.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/polls_question.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/registrar_analyzer_courses.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_samples/dbdump/sqlite_sequence.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/db.sqlite3" afterPath="$PROJECT_DIR$/se_site/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RegistrarAnalyzer.iml" afterPath="$PROJECT_DIR$/.idea/RegistrarAnalyzer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/se_site/manage.py" afterPath="$PROJECT_DIR$/se_site/manage.py" />
     </list>
     <ignored path="RegistrarAnalyzer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -794,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487913212436</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="db is populated with data, dbdump directory created so we can restore db if needed">
+      <created>1487985600745</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487985600745</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
