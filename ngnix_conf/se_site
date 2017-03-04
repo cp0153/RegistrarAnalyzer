@@ -1,0 +1,29 @@
+
+server {
+    listen 80 default_server;
+    server_name cpearce.me;
+    return 302 https://$server_name$request_uri;
+}
+
+server {
+
+    # SSL configuration
+
+    listen 443 ssl http2 default_server;
+    listen [::]:443 ssl http2 default_server;
+    server_name cpearce.me;
+    include snippets/self-signed.conf;
+    include snippets/ssl-params.conf;
+
+    location = /favicon.ico { access_log off; log_not_found off;}
+
+    location /static/ {
+        root /home/cp/RegistrarAnalyzer/se_site;
+        }
+
+        location / {
+        include proxy_params;
+        proxy_pass http://unix:/home/cp/RegistrarAnalyzer/se_site/se_site.sock;
+    }
+}
+

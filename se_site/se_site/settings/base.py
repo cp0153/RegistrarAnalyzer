@@ -20,13 +20,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'x$rdnrq#21s4&arq8bh*@4%)-i38m+v1%mppr@&-@f96hrp@gf'
+# SECRET_KEY = 'x$rdnrq#21s4&arq8bh*@4%)-i38m+v1%mppr@&-@f96hrp@gf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['159.203.142.27', '127.0.0.1']
-
+ALLOWED_HOSTS = ['cpearce.me', '159.203.98.76', '127.0.0.1']
+# ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'se_site.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, '..', 'db.sqlite3'),
     }
 }
 

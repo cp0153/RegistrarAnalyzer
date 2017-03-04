@@ -60,3 +60,24 @@ uses se_site/db.sqlite3
 
 Courses(id, course_name, instructor, semester, time_start, time_end, enroll_now, room, honors, meeting_days,
 credit_vaule, enroll_max)
+
+######################
+#     Server Config  #
+######################
+
+ssh setup, basic firewall setup, fail2ban
+https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04
+
+cut and paste from stories into sprint backlog as done
+
+configure domain name: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+
+configure web server and related packages:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
+
+
+https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9
+for instructions on how to setup settings module, will just use three, base, dev, and prd
+
+secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
+SECRET_KEY constant for development just override in settings.py
