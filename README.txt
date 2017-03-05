@@ -37,7 +37,7 @@ To get out of the virtual environment, type the "deactivate" command with no par
 Go to the RegistrarAnalyzer project directory and go into the se_site directory. In here is a file called manage.py
 that will be needed to run the server. Make sure you are in the virtual environment first!
 
-python manage.py runserver
+python manage.py runserver --settings=se_site.settings.dev
 
 After running this command, you should get a prompt like "Starting development server at http://127.0.0.1:8000/"
 
