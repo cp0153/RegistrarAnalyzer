@@ -1,38 +1,84 @@
-<h1>Got basic page to load</h1>
+<link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+<link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<h1>Registrar Analyzer</h1>
 
 {% if course_options_array %}
 
-    <!-- Options Listing for Starting Semester -->
-    <h2>Starting Semester</h2>
-    <select>
-    {% for value in course_options_array.0 %}
-        <option value="{{ value }}">{{ value }}</option>
-    {% endfor %}
-    </select>
+    <div class="panel panel-default">
 
-    <!-- Options Listing for Ending Semester -->
-    <h2>Ending Semester</h2>
-    <select>
-    {% for value in course_options_array.0 %}
-        <option value="{{ value }}">{{ value }}</option>
-    {% endfor %}
-    </select>
+        <!-- Panel heading -->
+        <div class="panel-heading">
+            <h3 class="panel-title">Input Fields</h3>
+        </div>
 
-    <!-- Options Listing for Course Name -->
-    <h2>Course Name</h2>
-    <select>
-    {% for value in course_options_array.1 %}
-        <option value="{{ value }}">{{ value }}</option>
-    {% endfor %}
-    </select>
+        <!-- Panel body -->
+        <div class="panel-body">
 
-    <!-- Graph Choice -->
-    <h2>Graph</h2>
-    <select>
-        <option value="Bar">Bar</option>
-        <option value="Pie">Pie</option>
-    </select>
+            <!-- This is the form the user will fill out. -->
+            <form action="/ra" method="post">
+
+
+                <!-- First row has the semester range -->
+                <div class="row">
+                    <div class="col-sm-6">
+                        <!-- Options Listing for Starting Semester -->
+                        <label for="startSemesterSelect">Start Semester:</label>
+                        <select id="startSemesterSelect" class="form-control">
+                        {% for value in course_options_array.0 %}
+                            <option value="{{ value }}">{{ value }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <!-- Options Listing for Ending Semester -->
+                        <label for="endSemesterSelect">End Semester:</label>
+                        <select id="endSemesterSelect" class="form-control">
+                        {% for value in course_options_array.0 %}
+                            <option value="{{ value }}">{{ value }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Placeholder row for spacing -->
+                <div class="row">
+                    <div class="col-sm-12">
+                        <br>
+                    </div>
+                </div>
+
+                <!-- Second row has the Course Name and Chart choices -->
+                <div class="row">
+
+                    <div class="col-sm-6">
+                        <!-- Options Listing for Course Name -->
+                        <label for="courseNameSelect">Course Name:</label>
+                        <select id="courseNameSelect" class="form-control">
+                        {% for value in course_options_array.1 %}
+                            <option value="{{ value }}">{{ value }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <!-- Graph Choice -->
+                        <label for="graphSelect">Graph:</label>
+                        <select id="graphSelect" class="form-control">
+                            <option value="Bar">Bar</option>
+                            <option value="Pie">Pie</option>
+                        </select>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
 
 {% endif %}
 
-
+<h1>Graph</h1>
