@@ -1,12 +1,38 @@
 <h1>Got basic page to load</h1>
 
-{% if course_options_list %}
+{% if course_options_array %}
+
+    <!-- Options Listing for Starting Semester -->
     <h2>Starting Semester</h2>
-    <ul>
-    {% for key, value in course_options_list.items %}
-        <li>{{ value }}</li>
+    <select>
+    {% for value in course_options_array.0 %}
+        <option value="{{ value }}">{{ value }}</option>
     {% endfor %}
-    </ul>
+    </select>
+
+    <!-- Options Listing for Ending Semester -->
+    <h2>Ending Semester</h2>
+    <select>
+    {% for value in course_options_array.0 %}
+        <option value="{{ value }}">{{ value }}</option>
+    {% endfor %}
+    </select>
+
+    <!-- Options Listing for Course Name -->
+    <h2>Course Name</h2>
+    <select>
+    {% for value in course_options_array.1 %}
+        <option value="{{ value }}">{{ value }}</option>
+    {% endfor %}
+    </select>
+
+    <!-- Graph Choice -->
+    <h2>Graph</h2>
+    <select>
+        <option value="Bar">Bar</option>
+        <option value="Pie">Pie</option>
+    </select>
+
 {% endif %}
 
 
