@@ -1,84 +1,176 @@
-<link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
-<link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css'>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<head>
 
-<h1>Registrar Analyzer</h1>
+    <title>Registrar Analyzer</title>
 
-{% if course_options_array %}
+    <!-- Necessary files for Bootstrap -->
+    <link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+    <link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-    <div class="panel panel-default">
+    <!-- Scales the website for mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
 
-        <!-- Panel heading -->
-        <div class="panel-heading">
-            <h3 class="panel-title">Input Fields</h3>
+
+</head>
+
+<body>
+
+    <!-- Navbar at the top. -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+
+            <!-- The navigation header that always shows on the page regardless of width -->
+            <div class="navbar-header">
+
+                <!-- This button in the navbar appears when the screen gets <768px. -->
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                        aria-expanded="false" aria-controls="navbar">
+
+                    <span class="sr-only">Toggle navigation</span>
+
+                    <!-- The three lines that appear inside the button. -->
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                </button>
+
+                <!-- The Big Text that appears at the left of the header. -->
+                <a class="navbar-brand" href="/ra">Registrar Analyzer</a>
+
+            </div> <!-- End navbar-header div -->
+
+            <!-- The menu items available in navigation. These get collapsed when the screen gets too small. -->
+            <div id="navbar" class="navbar-collapse collapse">
+
+                <!-- Menu items that navigate to other pages. -->
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/ra">Home</a></li>
+                    <li><a href="/polls">Polls</a></li>
+                </ul>
+
+            </div> <!-- End navbar-collapse div -->
+        </div> <!-- End container-fluid div for top navbar -->
+    </nav>
+    <!-- End top navbar div -->
+
+    <!-- Main Page div -->
+    <div class="container-fluid">
+
+        <!-- Main content row where all the content goes on the page. -->
+        <div class="row">
+
+            <!-- Middle of Page where main content is. -->
+            <div class="col-xs-12">
+
+
+                <p style="padding-top:60px;">&nbsp;</p>
+
+                <h1>Registrar Analyzer</h1>
+
+                {% if course_options_array %}
+
+                    <div class="panel panel-default">
+
+                        <!-- Panel heading -->
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Input Fields</h3>
+                        </div>
+
+                        <!-- Panel body -->
+                        <div class="panel-body">
+
+                            <!-- This is the form the user will fill out. -->
+                            <form action="/ra" method="post">
+
+
+                                <!-- First row has the semester range -->
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <!-- Options Listing for Starting Semester -->
+                                        <label for="startSemesterSelect">Start Semester:</label>
+                                        <select id="startSemesterSelect" class="form-control">
+                                        {% for value in course_options_array.0 %}
+                                            <option value="{{ value }}">{{ value }}</option>
+                                        {% endfor %}
+                                        </select>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <!-- Options Listing for Ending Semester -->
+                                        <label for="endSemesterSelect">End Semester:</label>
+                                        <select id="endSemesterSelect" class="form-control">
+                                        {% for value in course_options_array.0 %}
+                                            <option value="{{ value }}">{{ value }}</option>
+                                        {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <!-- Placeholder row for spacing -->
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <br>
+                                    </div>
+                                </div>
+
+                                <!-- Second row has the Course Name and Chart choices -->
+                                <div class="row">
+
+                                    <div class="col-sm-6">
+                                        <!-- Options Listing for Course Name -->
+                                        <label for="courseNameSelect">Course Name:</label>
+                                        <select id="courseNameSelect" class="form-control">
+                                        {% for value in course_options_array.1 %}
+                                            <option value="{{ value }}">{{ value }}</option>
+                                        {% endfor %}
+                                        </select>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <!-- Graph Choice -->
+                                        <label for="graphSelect">Graph:</label>
+                                        <select id="graphSelect" class="form-control">
+                                            <option value="Bar">Bar</option>
+                                            <option value="Pie">Pie</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+
+                {% endif %}
+
+                <h1>Graph</h1>
+            </div>
+            <!-- End div for middle page content -->
+
         </div>
+        <!-- End main content row -->
 
-        <!-- Panel body -->
-        <div class="panel-body">
+        <!-- Divider for copyright section -->
+        <hr class="featurette-divider">
 
-            <!-- This is the form the user will fill out. -->
-            <form action="/ra" method="post">
+        <!-- Copyright footer at the bottom -->
+        <footer>
+            <div class="row">
+                <div class="col-xs-12">
 
+                    <!-- Left side of the footer, where copyright stuff goes -->
+                    <p>&copy; 2017 C. Pearce</p>
 
-                <!-- First row has the semester range -->
-                <div class="row">
-                    <div class="col-sm-6">
-                        <!-- Options Listing for Starting Semester -->
-                        <label for="startSemesterSelect">Start Semester:</label>
-                        <select id="startSemesterSelect" class="form-control">
-                        {% for value in course_options_array.0 %}
-                            <option value="{{ value }}">{{ value }}</option>
-                        {% endfor %}
-                        </select>
-                    </div>
-
-                    <div class="col-sm-6">
-                        <!-- Options Listing for Ending Semester -->
-                        <label for="endSemesterSelect">End Semester:</label>
-                        <select id="endSemesterSelect" class="form-control">
-                        {% for value in course_options_array.0 %}
-                            <option value="{{ value }}">{{ value }}</option>
-                        {% endfor %}
-                        </select>
-                    </div>
                 </div>
+            </div>
+        </footer>
 
-                <!-- Placeholder row for spacing -->
-                <div class="row">
-                    <div class="col-sm-12">
-                        <br>
-                    </div>
-                </div>
 
-                <!-- Second row has the Course Name and Chart choices -->
-                <div class="row">
-
-                    <div class="col-sm-6">
-                        <!-- Options Listing for Course Name -->
-                        <label for="courseNameSelect">Course Name:</label>
-                        <select id="courseNameSelect" class="form-control">
-                        {% for value in course_options_array.1 %}
-                            <option value="{{ value }}">{{ value }}</option>
-                        {% endfor %}
-                        </select>
-                    </div>
-
-                    <div class="col-sm-6">
-                        <!-- Graph Choice -->
-                        <label for="graphSelect">Graph:</label>
-                        <select id="graphSelect" class="form-control">
-                            <option value="Bar">Bar</option>
-                            <option value="Pie">Pie</option>
-                        </select>
-                    </div>
-                </div>
-            </form>
-        </div>
 
     </div>
+    <!-- End Main Page Div -->
 
-{% endif %}
 
-<h1>Graph</h1>
+</body>
