@@ -1,0 +1,103 @@
+{%  include "./_header.html" %}
+
+<!-- The following contents are the main content of the page. -->
+<h1>Registrar Analyzer</h1>
+
+{% if course_options_array %}
+
+    <div class="panel panel-default">
+
+        <!-- Panel heading -->
+        <div class="panel-heading">
+            <h3 class="panel-title">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                Input Fields
+            </h3>
+        </div>
+
+        <!-- Panel body -->
+        <div class="panel-body">
+
+            <!-- This is the form the user will fill out. -->
+            <form action="/ra" method="post">
+
+
+                <!-- First row has the semester range -->
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Starting Semester -->
+                        <label for="startSemesterSelect">Start Semester:</label>
+                        <select id="startSemesterSelect" class="form-control">
+                            {% for value in course_options_array.0 %}
+                                <option value="{{ value }}">{{ value }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Ending Semester -->
+                        <label for="endSemesterSelect">End Semester:</label>
+                        <select id="endSemesterSelect" class="form-control">
+                            {% for value in course_options_array.0 %}
+                                <option value="{{ value }}">{{ value }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Placeholder row for spacing -->
+                <div class="row">
+                    <div class="col-xs-12">
+                        <br>
+                    </div>
+                </div>
+
+                <!-- Second row has the Course Name and Chart choices -->
+                <div class="row">
+
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Course Name -->
+                        <label for="courseNameSelect">Course Name:</label>
+                        <select id="courseNameSelect" class="form-control">
+                            {% for value in course_options_array.1 %}
+                                <option value="{{ value }}">{{ value }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Graph Choice -->
+                        <label for="graphSelect">Graph:</label>
+                        <select id="graphSelect" class="form-control">
+                            <option value="Bar">Bar</option>
+                            <option value="Pie">Pie</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Placeholder row for spacing -->
+                <div class="row">
+                    <div class="col-xs-12">
+                        <br>
+                    </div>
+                </div>
+
+                <!-- Third row has the submit button -->
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <button type="submit" class="btn btn-primary btn-block">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+
+{% endif %}
+
+<h1>Graph</h1>
+
+{% load static from staticfiles %}
+<iframe height="600px" width="99%" src="{% static "registrar_analyzer/stacked_bar_opl.html" %}"></iframe>
+
+{% include "./_footer.html" %}

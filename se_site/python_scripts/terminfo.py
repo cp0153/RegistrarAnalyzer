@@ -159,3 +159,13 @@ courseNameDict['selected'] = 'Selected Topics'
 courseNameDict['se1'] = 'Software Engineering I'
 courseNameDict['se2'] = 'Software Engineering II'
 courseNameDict['special'] = 'Special Topics'
+
+# List of course names in sorted order
+sortedFullCourseNames = ['Analysis of Algorithms', 'Artificial Intelligence', 'Assembly Language Programming', 'Compiler Construction I', 'Computer Architecture', 'Computer Graphics', 'Computer Graphics I', 'Computer Vision I', 'Computing I', 'Computing II', 'Computing III', 'Computing IV', 'Cyber Crime Investigation', 'Data Communications I', 'Data Communications II', 'Data Mining', 'Database I', 'Database II', 'Foundations of Computer Science', 'Graphical User Interface Programming I', 'Graphical User Interface Programming II', 'Machine Learning', 'Mobile App Programming ll', 'Mobile Robotics I', 'Mobile Robotics II', 'Natural Language Processing', 'Operating Systems', 'Organization of Programming Languages', 'Selected Topics', 'Software Engineering I', 'Software Engineering II', 'Special Topics']
+
+# List of semester range in order
+orderedSemesterList = ['Fall 2000', 'Spring 2001', 'Fall 2001', 'Spring 2002', 'Fall 2002', 'Spring 2003', 'Fall 2003', 'Spring 2004', 'Fall 2004', 'Spring 2005', 'Fall 2005', 'Spring 2006', 'Fall 2006', 'Spring 2007', 'Fall 2007', 'Spring 2008', 'Fall 2008', 'Spring 2009', 'Fall 2009', 'Spring 2010', 'Fall 2010', 'Spring 2011', 'Fall 2011', 'Spring 2012', 'Fall 2012', 'Spring 2013', 'Fall 2013', 'Spring 2014', 'Fall 2014', 'Spring 2015', 'Fall 2015', 'Spring 2016', 'Fall 2016', 'Spring 2017']
+
+
+
+# End

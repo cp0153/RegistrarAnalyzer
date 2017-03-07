@@ -1,12 +1,32 @@
-<h1>{{ question.question_text }}</h1>
+{%  include "./_header.html" %}
 
-{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+<div class="panel panel-default">
 
-<form action="{% url 'polls:vote' question.id %}" method="post">
-{% csrf_token %}
-{% for choice in question.choice_set.all %}
-    <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
-    <label for="choice{{ forloop.counter }}">{{ choice.choice_text }}</label><br />
-{% endfor %}
-<input type="submit" value="Vote" />
-</form>
+    <div class="panel-heading">
+        <h1 class="panel-title">{{ question.question_text }}</h1>
+    </div>
+
+    <div class="panel-body">
+        {% if error_message %}
+            <div id="badInput" class="alert alert-danger">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close"> &times;</a>
+                <strong>{{ error_message }}</strong>
+            </div>
+        {% endif %}
+
+        <form action="{% url 'polls:vote' question.id %}" method="post">
+        {% csrf_token %}
+        {% for choice in question.choice_set.all %}
+            <div class="radio">
+                <label for="choice{{ forloop.counter }}">
+                    <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
+                {{ choice.choice_text }}</label>
+            </div>
+        {% endfor %}
+        <input type="submit" value="Vote" class="btn btn-primary"/>
+        </form>
+    </div>
+
+</div>
+
+{%  include "./_footer.html" %}
