@@ -9,7 +9,10 @@
 
         <!-- Panel heading -->
         <div class="panel-heading">
-            <h3 class="panel-title">Input Fields</h3>
+            <h3 class="panel-title">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                Input Fields
+            </h3>
         </div>
 
         <!-- Panel body -->
@@ -21,7 +24,7 @@
 
                 <!-- First row has the semester range -->
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Starting Semester -->
                         <label for="startSemesterSelect">Start Semester:</label>
                         <select id="startSemesterSelect" class="form-control">
@@ -31,7 +34,7 @@
                         </select>
                     </div>
 
-                    <div class="col-sm-6">
+                    <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Ending Semester -->
                         <label for="endSemesterSelect">End Semester:</label>
                         <select id="endSemesterSelect" class="form-control">
@@ -44,7 +47,7 @@
 
                 <!-- Placeholder row for spacing -->
                 <div class="row">
-                    <div class="col-sm-12">
+                    <div class="col-xs-12">
                         <br>
                     </div>
                 </div>
@@ -52,7 +55,7 @@
                 <!-- Second row has the Course Name and Chart choices -->
                 <div class="row">
 
-                    <div class="col-sm-6">
+                    <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Course Name -->
                         <label for="courseNameSelect">Course Name:</label>
                         <select id="courseNameSelect" class="form-control">
@@ -62,13 +65,27 @@
                         </select>
                     </div>
 
-                    <div class="col-sm-6">
+                    <div class="col-xs-12 col-sm-6">
                         <!-- Graph Choice -->
                         <label for="graphSelect">Graph:</label>
                         <select id="graphSelect" class="form-control">
                             <option value="Bar">Bar</option>
                             <option value="Pie">Pie</option>
                         </select>
+                    </div>
+                </div>
+
+                <!-- Placeholder row for spacing -->
+                <div class="row">
+                    <div class="col-xs-12">
+                        <br>
+                    </div>
+                </div>
+
+                <!-- Third row has the submit button -->
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <button type="submit" class="btn btn-primary btn-block">Submit</button>
                     </div>
                 </div>
             </form>
