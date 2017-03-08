@@ -3,8 +3,6 @@
 <!-- The following contents are the main content of the page. -->
 <h1>Registrar Analyzer</h1>
 
-
-
 {% if course_options_array %}
 
     <div class="panel panel-default">
@@ -20,6 +18,13 @@
         <!-- Panel body -->
         <div class="panel-body">
 
+            {% if postInfo %}
+                <div class="alert alert-info">
+                    <a href="#" class="close" data-dismiss="alert" aria-label="close"> &times;</a>
+                    <strong>The search fields you just specified previously are preserved below.</strong>
+                </div>
+            {% endif %}
+
             <!-- This is the form the user will fill out. -->
             <form action="/ra/" method="post">
             {% csrf_token %}
@@ -30,9 +35,19 @@
                         <!-- Options Listing for Starting Semester -->
                         <label for="startSemesterSelect">Start Semester:</label>
                         <select name="startSemesterSelect" class="form-control">
-                            {% for value in course_options_array.0 %}
-                                <option value="{{ value }}">{{ value }}</option>
-                            {% endfor %}
+                            {% if postInfo %}
+                                {% for value in course_options_array.0 %}
+                                    {% if value == postInfo.startSemesterSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in course_options_array.0 %}
+                                    <option value="{{ value }}">{{ value }}</option>
+                                {% endfor %}
+                            {% endif %}
                         </select>
                     </div>
 
@@ -40,9 +55,20 @@
                         <!-- Options Listing for Ending Semester -->
                         <label for="endSemesterSelect">End Semester:</label>
                         <select name="endSemesterSelect" class="form-control">
-                            {% for value in course_options_array.0 %}
-                                <option value="{{ value }}">{{ value }}</option>
-                            {% endfor %}
+                            {% if postInfo %}
+                                {% for value in course_options_array.0 %}
+                                    {% if value == postInfo.endSemesterSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in course_options_array.0 %}
+                                    <option value="{{ value }}">{{ value }}</option>
+                                {% endfor %}
+                            {% endif %}
+
                         </select>
                     </div>
                 </div>
@@ -61,9 +87,19 @@
                         <!-- Options Listing for Course Name -->
                         <label for="courseNameSelect">Course Name:</label>
                         <select name="courseNameSelect" class="form-control">
-                            {% for value in course_options_array.1 %}
-                                <option value="{{ value }}">{{ value }}</option>
-                            {% endfor %}
+                            {% if postInfo %}
+                                {% for value in course_options_array.1 %}
+                                    {% if value == postInfo.courseNameSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in course_options_array.1 %}
+                                    <option value="{{ value }}">{{ value }}</option>
+                                {% endfor %}
+                            {% endif %}
                         </select>
                     </div>
 
@@ -71,8 +107,13 @@
                         <!-- Graph Choice -->
                         <label for="graphSelect">Graph:</label>
                         <select name="graphSelect" class="form-control">
-                            <option value="Bar">Bar</option>
-                            <option value="Pie">Pie</option>
+                            {% if postInfo.graphSelect == "Pie" %}
+                                <option value="Bar" >Bar</option>
+                                <option value="Pie" selected>Pie</option>
+                            {% else %}
+                                <option value="Bar" selected>Bar</option>
+                                <option value="Pie">Pie</option>
+                            {% endif %}
                         </select>
                     </div>
                 </div>
