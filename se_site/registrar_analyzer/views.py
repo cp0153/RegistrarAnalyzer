@@ -18,17 +18,21 @@ class IndexView(generic.ListView):
     def post(self, request, *args, **kwargs):
         postInfo = {}
 
-        #if request.method == "POST":
-        courseName = request.POST['courseNameSelect']
-        startSemester = request.POST['startSemesterSelect']
-        endSemester = request.POST['endSemesterSelect']
-        graphType = request.POST['graphSelect']
-        postInfo['courseNameSelect'] = courseName
-        postInfo['startSemesterSelect'] = startSemester
-        postInfo['endSemesterSelect'] = endSemester
-        postInfo['graphSelect'] = graphType
-        return render(request, self.template_name, {'postInfo': postInfo, 'course_options_array': course_options_array})
-        #return [orderedSemesterList, sortedFullCourseNames, postInfo]
+        if request.method == "POST":
+            courseName = request.POST['courseNameSelect']
+            startSemester = request.POST['startSemesterSelect']
+            endSemester = request.POST['endSemesterSelect']
+            graphType = request.POST['graphSelect']
+            postInfo['courseNameSelect'] = courseName
+            postInfo['startSemesterSelect'] = startSemester
+            postInfo['endSemesterSelect'] = endSemester
+            postInfo['graphSelect'] = graphType
+            return render(request, self.template_name,
+                          {'postInfo': postInfo, 'course_options_array': course_options_array})
+        else:
+            return render(request, self.template_name,
+                          {'course_options_array': course_options_array})
+
 
     def get_queryset(self):
         """ Get the last 5 course info """
