@@ -4,3 +4,4 @@ dryscrape==1.0
 lxml==3.7.2
 webkit-server==1.0
 xvfbwrapper==0.2.9
+gunicorn==19.7.0

@@ -82,9 +82,9 @@ for instructions on how to setup settings module, will just use three, base, dev
 secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
 SECRET_KEY constant for development just override in settings.py
 
-###########################
-#     Using django shell  #
-###########################
+############################################
+#     Using django models api/serializers  #
+############################################
 
 https://docs.djangoproject.com/en/1.10/topics/serialization/
 https://docs.djangoproject.com/en/1.10/topics/db/queries/
@@ -112,3 +112,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 "semester": "Fall 2000", "time_start": "9:00 AM", "time_end": "12:00 PM",
 "enroll_now": 21, "room": "OS 311", "honors": "No", "meeting_days": "Sa",
 "credit_value": 3, "enroll_max": 20}}]'
+
+
+// to produce the query for the stacked bar chart
+>>> Courses.objects.values("instructor").annotate(enroll=Sum('enroll_now')).filter(course_name='Organization of Programming Languages', semester='Spring 2017')
+<QuerySet [{'enroll': 96, 'instructor': 'Fred Martin'}, {'enroll': 33, 'instructor': 'Jay McCarthy'}]>
+
+// can dereference this with sample[i]

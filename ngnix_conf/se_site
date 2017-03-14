@@ -1,3 +1,4 @@
+# /etc/nginx/sites-available/se_site
 
 server {
     listen 80 default_server;
@@ -18,12 +19,12 @@ server {
     location = /favicon.ico { access_log off; log_not_found off;}
 
     location /static/ {
-        root /home/cp/RegistrarAnalyzer/se_site;
+        root /var/www/RegistrarAnalyzer/se_site;
         }
 
         location / {
         include proxy_params;
-        proxy_pass http://unix:/home/cp/RegistrarAnalyzer/se_site/se_site.sock;
+        proxy_pass http://unix:/var/www/RegistrarAnalyzer/se_site/se_site.sock;
     }
 }
 

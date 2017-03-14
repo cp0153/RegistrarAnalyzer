@@ -1,0 +1,14 @@
+# /etc/systemd/system/gunicorn.service
+
+[Unit]
+Description=gunicorn daemon
+After=network.target
+
+[Service]
+User=cp
+Group=www-data
+WorkingDirectory=/home/cp/RegistrarAnalyzer/se_site
+ExecStart=/home/cp/RegistrarAnalyzer/se_site/se_site_env/bin/gunicorn --workers 3 --bind unix:/home/cp/RegistrarAnalyzer/se_site/se_site.sock se_site.wsgi:application
+
+[Install]
+WantedBy=multi-user.target
