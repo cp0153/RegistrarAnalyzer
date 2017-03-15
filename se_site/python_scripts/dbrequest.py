@@ -6,6 +6,9 @@ import json
 import plotly
 from plotly.graph_objs import Bar, Layout, Figure
 
+# Stuff for term information
+from terminfo import *
+
 # Import settings for django
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.dev")
@@ -59,11 +62,41 @@ for result in jsonArr:
     else:
         semesterDict[semester].append(barGraphDict)
 
-for key,val in semesterDict.items():
+# First we need to find the end and start semester. Start by
+# Comparing numeric values first
+lowestKey = 9999
+highestKey = 0
+for semKey in semesterDict:
+    termNum = int(termDict[semKey])
+    if termNum < lowestKey:
+        lowestKey = termNum
+    if termNum > highestKey:
+        highestKey = termNum
+lowestKey = str(lowestKey)
+highestKey = str(highestKey)
+
+# Now that we have the numeric value, get the string
+startSemester = numDict[lowestKey]
+endSemester = numDict[highestKey]
+print("Start Semester: " + startSemester)
+print("End Semester: " + endSemester)
+
+# Get the indices for the semester numbers
+startTermNum = termDict[startSemester]
+startTermIndex = allSemesters.index(startTermNum)
+endTermNum = termDict[endSemester]
+endTermIndex = allSemesters.index(endTermNum)
+currentSemIndex = startTermIndex # Start counter for semester scraping
+
+# We need to append the semesters in order now
+while currentSemIndex <= endTermIndex:
+    currentSemNumStr = allSemesters[currentSemIndex]
+    currentSemKey = numDict[currentSemNumStr]
     oneSemester = []
-    for sem in val:
+    for val in semesterDict[currentSemKey]:
         oneSemester.append(val)
-    semesterArray.append(val)
+    semesterArray.append(oneSemester)
+    currentSemIndex += 1
 
 """
 Getting here means we have all semesters to graph.
@@ -91,9 +124,9 @@ for semester in semesterArray:
             instructor = meetings[0]['instructor']
             if instructor not in courseProfs:
                 courseProfs[instructor] = {}
-print("\nFIRST PASS-THROUGH")
-print("Course Professors: " + str(courseProfs))
-print("Course Semesters: " + str(courseSems))
+# print("\nFIRST PASS-THROUGH")
+# print("Course Professors: " + str(courseProfs))
+# print("Course Semesters: " + str(courseSems))
 
 # Second pass-through:
 # For every section, see if the instructor matches a key
@@ -118,8 +151,8 @@ for semester in semesterArray:
                 courseProfs[instructor][semName] = enroll
             else:
                 courseProfs[instructor][semName] += enroll
-print("\nSECOND PASS-THROUGH")
-print("Professor Enrollment Semester Counts: " + str(courseProfs))
+# print("\nSECOND PASS-THROUGH")
+# print("Professor Enrollment Semester Counts: " + str(courseProfs))
 
 # Third part: Use courseSems list to get enrollment data in order for
 # All the different professors
