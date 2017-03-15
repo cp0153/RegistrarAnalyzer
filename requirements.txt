@@ -5,3 +5,4 @@ lxml==3.7.2
 webkit-server==1.0
 xvfbwrapper==0.2.9
 gunicorn==19.7.0
+plotly==2.0.5
