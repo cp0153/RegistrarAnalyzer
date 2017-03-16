@@ -19,6 +19,19 @@ from django.db.utils import IntegrityError
 django.setup()
 from registrar_analyzer.models import Courses
 
+# Parse and check command line arguments
+if len(sys.argv) != 4:
+    print("\nUsage:\n\tpython dbrequest.py <course> <startSemester> <endSemester>")
+    print('Example:\n\tpython dbrequest.py ' +
+          '"Analysis of Algorithms" "Fall 2005" "Spring 2008"\n')
+    exit()
+
+inputCourse = sys.argv[1]
+startSemester = sys.argv[2]
+endSemester = sys.argv[3]
+print("Start Semester: " + startSemester)
+print("End Semester: " + endSemester)
+
 # Semester info array that will store all semesters for a course
 semesterArray = []
 
@@ -26,8 +39,8 @@ semesterArray = []
 semesterDict = {}
 
 # Get OPL course data
-oplCourses = Courses.objects.filter(course_name='Organization of Programming Languages')
-serialData = serializers.serialize("json", oplCourses)
+allCourseSections = Courses.objects.filter(course_name=inputCourse)
+serialData = serializers.serialize("json", allCourseSections)
 jsonArr = json.loads(serialData)
 for result in jsonArr:
 
@@ -75,13 +88,8 @@ for semKey in semesterDict:
 lowestKey = str(lowestKey)
 highestKey = str(highestKey)
 
-# Now that we have the numeric value, get the string
-startSemester = numDict[lowestKey]
-endSemester = numDict[highestKey]
-print("Start Semester: " + startSemester)
-print("End Semester: " + endSemester)
-
-# Get the indices for the semester numbers
+# Get the indices for the semester numbers. Here we assume the semester range
+# is valid because the form will be validated on submit.
 startTermNum = termDict[startSemester]
 startTermIndex = allSemesters.index(startTermNum)
 endTermNum = termDict[endSemester]
@@ -191,7 +199,7 @@ for trace in traces:
     )
     data.append(barToAdd)
 layout = Layout(
-    title = "OPL Enrollment",
+    title = inputCourse + " Enrollment",
     barmode = 'stack'
 )
 
@@ -199,7 +207,7 @@ figure = Figure(data=data, layout=layout)
 
 plotly.offline.plot(
     figure,
-    filename = "./bar-stacked-enrollment-opl.html"
+    filename = "./bar-stacked-enrollment.html"
 )
 
 
