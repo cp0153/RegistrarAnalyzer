@@ -53,3 +53,6 @@ docs/_build/
 # pycharm
 .idea/
 .idea/workspace.xml
+
+# gunicorn
+se_site.sock
