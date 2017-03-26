@@ -75,6 +75,11 @@ configure domain name: https://www.digitalocean.com/community/tutorials/how-to-s
 configure web server and related packages:
 https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
 
+To restart and debug server:
+$sudo service gunicorn restart
+$sudo service nginx restart
+$sudo service gunicorn status
+
 
 https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9
 for instructions on how to setup settings module, will just use three, base, dev, and prd
