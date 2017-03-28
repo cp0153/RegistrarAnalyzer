@@ -106,8 +106,12 @@ def getFigure(inputCourse, startSemester, endSemester, graphType):
         currentSemNumStr = allSemesters[currentSemIndex]
         currentSemKey = numDict[currentSemNumStr]
         oneSemester = []
-        for val in semesterDict[currentSemKey]:
-            oneSemester.append(val)
+        try:
+            for val in semesterDict[currentSemKey]:
+                oneSemester.append(val)
+        except:
+            # This case means we had missing data
+            pass
         semesterArray.append(oneSemester)
         currentSemIndex += 1
 
