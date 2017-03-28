@@ -223,10 +223,12 @@ def makePieFigure(inputCourse, semesterArray, startSemester, endSemester):
     #  key is instructor name, value is section count
     profNames = {}
     for semester in semesterArray:
-        if len(semester) == 0:
+        if len(semester) == 1:
             continue
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 meetings = section['meetings']
