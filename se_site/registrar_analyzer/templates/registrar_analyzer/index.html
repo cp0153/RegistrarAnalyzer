@@ -73,7 +73,11 @@
                                 {% endfor %}
                             {% else %}
                                 {% for value in course_options_array.0 %}
-                                    <option value="{{ value }}">{{ value }}</option>
+                                    {% if value == "Spring 2017" %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
                                 {% endfor %}
                             {% endif %}
 
