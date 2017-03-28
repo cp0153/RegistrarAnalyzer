@@ -105,7 +105,7 @@ def getFigure(inputCourse, startSemester, endSemester, graphType):
     while currentSemIndex <= endTermIndex:
         currentSemNumStr = allSemesters[currentSemIndex]
         currentSemKey = numDict[currentSemNumStr]
-        oneSemester = []
+        oneSemester = [currentSemKey]
         try:
             for val in semesterDict[currentSemKey]:
                 oneSemester.append(val)
@@ -129,10 +129,12 @@ def makeBarFigure(inputCourse, semesterArray):
     courseProfs = {}
     courseSems = []
     for semester in semesterArray:
-        if len(semester) == 0:
-            continue
+        if len(semester) == 1:
+            courseSems.append(semester[0])
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 semName = section['semester']
@@ -152,10 +154,12 @@ def makeBarFigure(inputCourse, semesterArray):
     # 'semester' key will have the semester name.
     # 'enroll' will have total enrollment count for this professor in this semester.
     for semester in semesterArray:
-        if len(semester) == 0:
+        if len(semester) == 1:
             continue
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 semName = section['semester']
