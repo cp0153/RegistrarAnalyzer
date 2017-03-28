@@ -56,3 +56,6 @@ docs/_build/
 
 # gunicorn
 se_site.sock
+
+# virtualenv
+se_siteenv/
