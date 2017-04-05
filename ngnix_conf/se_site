@@ -19,7 +19,7 @@ server {
     location = /favicon.ico { access_log off; log_not_found off;}
 
     location /static/ {
-        root /var/www/RegistrarAnalyzer/se_site;
+        root /var/www/RegistrarAnalyzer/se_site/se_site;
     }
 
     location / {
