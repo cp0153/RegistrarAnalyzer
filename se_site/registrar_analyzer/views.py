@@ -22,6 +22,7 @@ from python_scripts.terminfo import *
 
 course_options_array = [orderedSemesterList, sortedFullCourseNames]
 
+
 # Create your views here.
 class IndexView(View):
 
@@ -121,6 +122,7 @@ def getFigure(inputCourse, startSemester, endSemester, graphType):
         figure = makePieFigure(inputCourse, semesterArray, startSemester, endSemester)
     return figure
 
+
 def makeBarFigure(inputCourse, semesterArray):
     # First pass-through:
     # 1.) Get instructor names into a dictionary where the
@@ -217,6 +219,7 @@ def makeBarFigure(inputCourse, semesterArray):
     figure = Figure(data=data, layout=layout)
     return figure
 
+
 def makePieFigure(inputCourse, semesterArray, startSemester, endSemester):
     # First pass-through:
     # 1.) Get instructor names into a dictionary where the
@@ -267,6 +270,4 @@ def makePieFigure(inputCourse, semesterArray, startSemester, endSemester):
     # Combine the data and layout into a figure.
     figure = Figure(data=data, layout=layout)
     return figure
-
-
 # End
