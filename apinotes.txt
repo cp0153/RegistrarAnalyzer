@@ -1,0 +1,36 @@
+#### Using django models api/serializers
+
+https://docs.djangoproject.com/en/1.10/topics/serialization/
+https://docs.djangoproject.com/en/1.10/topics/db/queries/
+https://docs.djangoproject.com/en/1.10/topics/db/aggregation/
+
+to use the django shell:
+activate virtual env, on dropet, its located in the RegistrarAnalyzer/
+$python manage.py shell --settings=se_site.settings.dev
+
+Python 3.5.2 (default, Nov 17 2016, 17:05:23)
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>>from registrar_analyzer.models import *
+>>>from django.core import serializers
+
+// sererize model data in json
+>>> data = serializers.serialize("json", models.Courses.objects.all()[:2])
+>>> data
+'[{"model": "registrar_analyzer.courses", "pk": 1, "fields":
+{"course_name": "Analysis of Algorithms", "instructor": "Karen Daniels",
+"semester": "Fall 2000", "time_start": "11:30 AM", "time_end": "12:20 PM",
+"enroll_now": 33, "room": "OS 413", "honors": "No", "meeting_days": "MWF",
+"credit_value": 3, "enroll_max": 35}}, {"model": "registrar_analyzer.courses",
+"pk": 2, "fields": {"course_name": "Analysis of Algorithms", "instructor": "TBA",
+"semester": "Fall 2000", "time_start": "9:00 AM", "time_end": "12:00 PM",
+"enroll_now": 21, "room": "OS 311", "honors": "No", "meeting_days": "Sa",
+"credit_value": 3, "enroll_max": 20}}]'
+
+
+// to produce the query for the stacked bar chart
+>>> Courses.objects.values("instructor").annotate(enroll=Sum('enroll_now')).filter(course_name='Organization of Programming Languages', semester='Spring 2017')
+<QuerySet [{'enroll': 96, 'instructor': 'Fred Martin'}, {'enroll': 33, 'instructor': 'Jay McCarthy'}]>
+
+// can dereference this with sample[i]
