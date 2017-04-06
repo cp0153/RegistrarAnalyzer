@@ -1,6 +1,6 @@
 # Install instructions
 
-#### VIRTUALENV SETUP 
+### VIRTUALENV SETUP 
 
 Step 1: Make sure python3 and pip3 exist in the ubuntu VM
 which python3
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 To get out of the virtual environment, type the "deactivate" command with no parameters.
 
-#### START DJANGO
+### START DJANGO
 
 Go to the RegistrarAnalyzer project directory and go into the se_site directory. In here is a file called manage.py
 that will be needed to run the server. Make sure you are in the virtual environment first!
@@ -52,7 +52,7 @@ After running this command, you should get a prompt like "Starting development s
 
 To run manage.py on the production server, use settings.prd instead of settings.dev
 
-#### PYTHON WEB SCRAPER 
+### PYTHON WEB SCRAPER 
 
 The web scraping scripts can be found in the python_scripts/ directory. Please use the scrapeterms.py script to get
 JSON data. Running this script for all 34 semesters for one course may take a little more than 3 minutes, and around
@@ -61,14 +61,14 @@ JSON data. Running this script for all 34 semesters for one course may take a li
 Functions are documented in the Numpy documentation style, and plotly is the library that will be used to make the
 graphs (python framework, not the js version).
 
-#### DB schema
+### DB schema
 
 uses sql database located at se_site/db.sqlite3
 
 Courses(id, course_name, instructor, semester, time_start, time_end, enroll_now, room, honors, meeting_days,
 credit_vaule, enroll_max)
 
-#### Server Config
+### Server Config
 
 ssh setup, basic firewall setup, fail2ban
 https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04
@@ -85,7 +85,7 @@ sudo service nginx restart
 sudo service gunicorn status
 ```
 
-https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9
+https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9:
 for instructions on how to setup settings module, will just use three, base, dev, and prd
 
 secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
