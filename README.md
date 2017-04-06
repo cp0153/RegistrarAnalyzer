@@ -90,3 +90,14 @@ for instructions on how to setup settings module, will just use three, base, dev
 
 secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
 SECRET_KEY constant for development just override in settings.py
+
+# Website samples
+
+The website will generate two different plots shown below
+
+### Stacked Bar Chart
+![stacked_bar_chart](/picture1.png?raw=true "stacked_bar_chart image")
+
+
+### Pie Chart 
+![pie_chart](/picture2.png?raw=true "pie_chart image")
