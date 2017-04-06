@@ -22,6 +22,7 @@ from python_scripts.terminfo import *
 
 course_options_array = [orderedSemesterList, sortedFullCourseNames]
 
+
 # Create your views here.
 class IndexView(View):
 
@@ -105,9 +106,13 @@ def getFigure(inputCourse, startSemester, endSemester, graphType):
     while currentSemIndex <= endTermIndex:
         currentSemNumStr = allSemesters[currentSemIndex]
         currentSemKey = numDict[currentSemNumStr]
-        oneSemester = []
-        for val in semesterDict[currentSemKey]:
-            oneSemester.append(val)
+        oneSemester = [currentSemKey]
+        try:
+            for val in semesterDict[currentSemKey]:
+                oneSemester.append(val)
+        except:
+            # This case means we had missing data
+            pass
         semesterArray.append(oneSemester)
         currentSemIndex += 1
 
@@ -117,6 +122,7 @@ def getFigure(inputCourse, startSemester, endSemester, graphType):
         figure = makePieFigure(inputCourse, semesterArray, startSemester, endSemester)
     return figure
 
+
 def makeBarFigure(inputCourse, semesterArray):
     # First pass-through:
     # 1.) Get instructor names into a dictionary where the
@@ -125,10 +131,12 @@ def makeBarFigure(inputCourse, semesterArray):
     courseProfs = {}
     courseSems = []
     for semester in semesterArray:
-        if len(semester) == 0:
-            continue
+        if len(semester) == 1:
+            courseSems.append(semester[0])
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 semName = section['semester']
@@ -148,10 +156,12 @@ def makeBarFigure(inputCourse, semesterArray):
     # 'semester' key will have the semester name.
     # 'enroll' will have total enrollment count for this professor in this semester.
     for semester in semesterArray:
-        if len(semester) == 0:
+        if len(semester) == 1:
             continue
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 semName = section['semester']
@@ -209,16 +219,19 @@ def makeBarFigure(inputCourse, semesterArray):
     figure = Figure(data=data, layout=layout)
     return figure
 
+
 def makePieFigure(inputCourse, semesterArray, startSemester, endSemester):
     # First pass-through:
     # 1.) Get instructor names into a dictionary where the
     #  key is instructor name, value is section count
     profNames = {}
     for semester in semesterArray:
-        if len(semester) == 0:
+        if len(semester) == 1:
             continue
         else:
             for section in semester:
+                if semester.index(section) == 0:
+                    continue
                 if section['creditValue'] == "0 Credits":
                     continue
                 meetings = section['meetings']
@@ -257,6 +270,4 @@ def makePieFigure(inputCourse, semesterArray, startSemester, endSemester):
     # Combine the data and layout into a figure.
     figure = Figure(data=data, layout=layout)
     return figure
-
-
 # End

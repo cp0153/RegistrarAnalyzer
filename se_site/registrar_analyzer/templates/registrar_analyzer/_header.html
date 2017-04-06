@@ -7,11 +7,16 @@
     <title>Registrar Analyzer</title>
 
     <!-- Necessary files for Bootstrap -->
+    {% load staticfiles %}
+    <link rel="shortcut icon" href="{%  static 'favicon.ico' %}">
     <link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
     <link rel='stylesheet' type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css'>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Script for validating the semester range in the form -->
+    <script src="/static/registrar_analyzer/scripts/formvalidate.js"></script>
 
     <!-- Scales the website for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=0.75">
@@ -55,7 +60,7 @@
                         <!-- Menu items that navigate to other pages. -->
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="/ra">Home</a></li>
-                            <li><a href="/polls">Polls</a></li>
+                            <li><a href="/feedback">Feedback</a></li>
                         </ul>
 
                     </div> <!-- End navbar-collapse div -->
