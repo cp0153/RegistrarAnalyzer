@@ -18,15 +18,23 @@
         <!-- Panel body -->
         <div class="panel-body">
 
+            <!-- Blue alert that appears on a POST request -->
             {% if postInfo %}
                 <div class="alert alert-info">
                     <a href="#" class="close" data-dismiss="alert" aria-label="close"> &times;</a>
-                    <strong>The search fields you just specified previously are preserved below.</strong>
+                    <strong>The graph with your specified selection can be seen in the graph section below.</strong>
                 </div>
             {% endif %}
 
+            <!-- div for the red alert if the user entered a start semester greater than end semester -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="semesterError"></div>
+                </div>
+            </div>
+
             <!-- This is the form the user will fill out. -->
-            <form action="/ra/" method="post">
+            <form action="/ra/" name="graphForm" method="post" onsubmit="return validStartAndEndSemester()">
             {% csrf_token %}
 
                 <!-- First row has the semester range -->
@@ -34,7 +42,7 @@
                     <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Starting Semester -->
                         <label for="startSemesterSelect">Start Semester:</label>
-                        <select name="startSemesterSelect" class="form-control">
+                        <select name="startSemesterSelect" id="startSemesterSelect" class="form-control">
                             {% if postInfo %}
                                 {% for value in course_options_array.0 %}
                                     {% if value == postInfo.startSemesterSelect %}
@@ -54,7 +62,7 @@
                     <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Ending Semester -->
                         <label for="endSemesterSelect">End Semester:</label>
-                        <select name="endSemesterSelect" class="form-control">
+                        <select name="endSemesterSelect" id="endSemesterSelect" class="form-control">
                             {% if postInfo %}
                                 {% for value in course_options_array.0 %}
                                     {% if value == postInfo.endSemesterSelect %}
@@ -65,7 +73,11 @@
                                 {% endfor %}
                             {% else %}
                                 {% for value in course_options_array.0 %}
-                                    <option value="{{ value }}">{{ value }}</option>
+                                    {% if value == "Spring 2017" %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
                                 {% endfor %}
                             {% endif %}
 
@@ -86,7 +98,7 @@
                     <div class="col-xs-12 col-sm-6">
                         <!-- Options Listing for Course Name -->
                         <label for="courseNameSelect">Course Name:</label>
-                        <select name="courseNameSelect" class="form-control">
+                        <select name="courseNameSelect" id="courseNameSelect" class="form-control">
                             {% if postInfo %}
                                 {% for value in course_options_array.1 %}
                                     {% if value == postInfo.courseNameSelect %}
@@ -106,7 +118,7 @@
                     <div class="col-xs-12 col-sm-6">
                         <!-- Graph Choice -->
                         <label for="graphSelect">Graph:</label>
-                        <select name="graphSelect" class="form-control">
+                        <select name="graphSelect" id="graphSelect" class="form-control">
                             {% if postInfo.graphSelect == "Pie" %}
                                 <option value="Bar" >Bar</option>
                                 <option value="Pie" selected>Pie</option>
