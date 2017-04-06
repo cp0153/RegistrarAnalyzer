@@ -96,8 +96,8 @@ SECRET_KEY constant for development just override in settings.py
 The website will generate two different plots shown below
 
 ### Stacked Bar Chart
-![stacked_bar_chart](/picture1.png?raw=true "stacked_bar_chart image")
+![stacked_bar_chart](/stacked_bar_chart.png?raw=true "stacked_bar_chart image")
 
 
 ### Pie Chart 
-![pie_chart](/picture2.png?raw=true "pie_chart image")
+![pie_chart](/pie_chart.png?raw=true "pie_chart image")
