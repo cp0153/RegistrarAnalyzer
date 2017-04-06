@@ -1,6 +1,6 @@
-####################
-# VIRTUALENV SETUP #
-####################
+# Install instructions
+
+### VIRTUALENV SETUP 
 
 Step 1: Make sure python3 and pip3 exist in the ubuntu VM
 which python3
