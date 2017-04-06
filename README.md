@@ -85,7 +85,7 @@ sudo service nginx restart
 sudo service gunicorn status
 ```
 
-https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9
+https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9:
 for instructions on how to setup settings module, will just use three, base, dev, and prd
 
 secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
