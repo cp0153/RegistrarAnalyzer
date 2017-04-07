@@ -230,7 +230,10 @@ with open(outFilePath, 'w') as outFile:
         # Also add the list of individual sections from this semester
         # possible spot to write to db?
         parser.addSectionListing(sections)
-        print("> " + str(multSecCnt) + " sections had multiple meeting times.")
+        try:
+            print("> " + str(multSecCnt) + " sections had multiple meeting times.")
+        except:
+            pass
 
         # Get end time for this semester, and calculate time analytics.
         currSemTimeEnd = time.time()
