@@ -13,7 +13,13 @@ from django.db.utils import IntegrityError
 
 # Import settings for django
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+## Use this for production
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.prd")
+
+## Use this for local development
+# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.dev")
+
 import django
 
 django.setup()
@@ -114,6 +120,7 @@ with open(outFilePath, 'w') as outFile:
             parser.writeStringToFile(outFile, scrapePrompt + "\n")
             courseSections = parser.getCourseSectionDivs(courseGroupDiv)
             i = 1  # Debugging Course Section Counter
+            multSecCnt = 0 # Counter to find out how many sections had multiple meeting info
             for courseSection in courseSections:
 
                 # Check first for a cancelled section.
@@ -145,7 +152,7 @@ with open(outFilePath, 'w') as outFile:
                             parser.writeStringToFile(outFile, "> This course section has no meeting information.\n")
                         else:
                             for sectionMeetingDiv in meetingInfoDivs:
-                                meetList = parser.getSectionMeetingInfo(sectionMeetingDiv, semProfs)
+                                meetList = parser.getSectionMeetingInfo(sectionMeetingDiv, semProfs, i)
                                 meetDict = meetList[0]
                                 meetInfoDicts.append(meetDict)
                                 semProfs = meetList[1]
@@ -167,18 +174,33 @@ with open(outFilePath, 'w') as outFile:
                     # After getting the section dictionary, use it to enter a DB entry.
                     for meeting in meetInfoDicts:
                         try:
-                            course = Courses(course_name=readableCourse,
-                                             semester=sectionDict['semester'],
-                                             time_start=meeting['timeStart'],
-                                             time_end=meeting['timeEnd'],
-                                             enroll_now=sectionDict['enrollNow'],
-                                             enroll_max=sectionDict['enrollMax'],
-                                             honors=sectionDict['honors'],
-                                             credit_value=int(sectionDict['creditValue'][0]),
-                                             meeting_days=meeting['days'],
-                                             instructor=meeting['instructor'],
-                                             room=meeting['room']
-                                             )
+                            if meetInfoDicts.index(meeting) == 0:
+                                course = Courses(course_name=readableCourse,
+                                                 semester=sectionDict['semester'],
+                                                 time_start=meeting['timeStart'],
+                                                 time_end=meeting['timeEnd'],
+                                                 enroll_now=sectionDict['enrollNow'],
+                                                 enroll_max=sectionDict['enrollMax'],
+                                                 honors=sectionDict['honors'],
+                                                 credit_value=int(sectionDict['creditValue'][0]),
+                                                 meeting_days=meeting['days'],
+                                                 instructor=meeting['instructor'],
+                                                 room=meeting['room']
+                                                 )
+                            else:
+                                multSecCnt += 1
+                                course = Courses(course_name=readableCourse,
+                                                 semester=sectionDict['semester'],
+                                                 time_start=meeting['timeStart'],
+                                                 time_end=meeting['timeEnd'],
+                                                 enroll_now="0", # Prevent duplicate enrollment
+                                                 enroll_max=sectionDict['enrollMax'],
+                                                 honors=sectionDict['honors'],
+                                                 credit_value=int(sectionDict['creditValue'][0]),
+                                                 meeting_days=meeting['days'],
+                                                 instructor=meeting['instructor'],
+                                                 room=meeting['room']
+                                                 )
                             course.save()
                         except IntegrityError as e:
                             logf.write("Failed to download {0}: {1}\n".format(str(sectionDict), str(e)))
@@ -213,6 +235,10 @@ with open(outFilePath, 'w') as outFile:
         # Also add the list of individual sections from this semester
         # possible spot to write to db?
         parser.addSectionListing(sections)
+        try:
+            print("> " + str(multSecCnt) + " sections had multiple meeting times.")
+        except:
+            pass
 
         # Get end time for this semester, and calculate time analytics.
         currSemTimeEnd = time.time()

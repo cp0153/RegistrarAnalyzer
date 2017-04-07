@@ -99,7 +99,7 @@ courseDict['opl'] = 'Organization%20of%20Programming%20Languages%20(Formerly%209
 # Electives
 courseDict['ai'] = 'Artificial%20Intelligence%20(Formerly%2091.420)'
 courseDict['compiler'] = 'Compiler%20Construction%20I%20(Formerly%2091.406)'
-courseDict['cg2'] = 'Computer%20Graphics%20(Formerly%2091.428)'
+courseDict['cg2'] = '(Formerly%2091.428)'
 courseDict['cg1'] = 'Computer%20Graphics%20I%20(Formerly%2091.427)'
 courseDict['cv'] = 'Computer%20Vision%20I%20(Formerly%2091.423'
 courseDict['cybercrime'] = 'Cyber%20Crime%20Investigation'
