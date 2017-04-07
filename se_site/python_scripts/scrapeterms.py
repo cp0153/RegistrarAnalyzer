@@ -13,8 +13,13 @@ from django.db.utils import IntegrityError
 
 # Import settings for django
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.prd")
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.dev")
+
+## Use this for production
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.prd")
+
+## Use this for local development
+# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "se_site.settings.dev")
+
 import django
 
 django.setup()
