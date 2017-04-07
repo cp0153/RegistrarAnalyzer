@@ -262,7 +262,7 @@ class RegistrarParser(object):
         else:
             return classMeetingDivs.find_all('div', attrs = {'class': 'section-meeting'})
 
-    def getSectionMeetingInfo(self, meetingInfoDiv, semProfDict):
+    def getSectionMeetingInfo(self, meetingInfoDiv, semProfDict, sectionNum):
         """
         This function extracts specific info from a meeting info div.
         There are two cases.
@@ -288,6 +288,11 @@ class RegistrarParser(object):
         semProfDict: dict
             A dictionary that contains the instructor names as keys, and how
             many sections they taught in the current semester being parsed.
+        sectionNum: int
+            An integer that represents the section number we're on. Since a section
+            can have multiple meeting times, this will help with eliminating
+            duplicate enrollment, and also cover the edge case where there's a
+            course in the same timeslot in addition to same enrollment and instructor.
 
         Returns
         -------
@@ -363,7 +368,7 @@ class RegistrarParser(object):
         meetInfoDict['sessionStart'] = sessionStart
         meetInfoDict['sessionEnd'] = sessionEnd
         meetInfoDict['instructor'] = instructor
-        meetInfoDict['room'] = room
+        meetInfoDict['room'] = room + " [" + str(sectionNum) + "]"
         return [meetInfoDict, semProfDict]
 
     def getQuickInfoDetails(self, sectionDetailsTag):
