@@ -41,15 +41,22 @@ class IndexView(View):
             startSemester = request.POST['startSemesterSelect']
             endSemester = request.POST['endSemesterSelect']
             graphType = request.POST['graphSelect']
-            figureToGraph = getFigure(courseName, startSemester, endSemester, graphType)
-            graphDiv = plotly.offline.plot(figureToGraph, output_type='div')
             postInfo['courseNameSelect'] = courseName
             postInfo['startSemesterSelect'] = startSemester
             postInfo['endSemesterSelect'] = endSemester
             postInfo['graphSelect'] = graphType
-            return render(request, self.template_name,
-                          {'postInfo': postInfo, 'course_options_array': course_options_array,
-                           'div_placeholder': Markup(graphDiv)})
+            try:
+                figureToGraph = getFigure(courseName, startSemester, endSemester, graphType)
+                graphDiv = plotly.offline.plot(figureToGraph, output_type='div')
+                return render(request, self.template_name,
+                              {'postInfo': postInfo, 'course_options_array': course_options_array,
+                               'div_placeholder': Markup(graphDiv)})
+            except:
+                htmlStr = "<p>Sorry, the semester range you specified has no data. " \
+                          "You should specify the full range to see which range has data.</p>"
+                return render(request, self.template_name,
+                              {'postInfo': postInfo, 'course_options_array': course_options_array,
+                               'div_placeholder': Markup(htmlStr)})
         else:
             return render(request, self.template_name,
                           {'course_options_array': course_options_array})

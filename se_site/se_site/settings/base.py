@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'polls.apps.PollsConfig',
     'registrar_analyzer.apps.RegistrarAnalyzerConfig',
-    'django_extensions',
 ]
 
 MIDDLEWARE = [
