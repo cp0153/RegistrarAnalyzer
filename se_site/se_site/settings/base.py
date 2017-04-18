@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls.apps.PollsConfig',
-    'registrar_analyzer.apps.RegistrarAnalyzerConfig'
+    'registrar_analyzer.apps.RegistrarAnalyzerConfig',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
