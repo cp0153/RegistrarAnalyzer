@@ -1,0 +1,154 @@
+{%  include "./_header.html" %}
+
+<!-- The following contents are the main content of the page. -->
+<h1>Registrar Analyzer</h1>
+
+{% if professor_options_array %}
+
+    <div class="panel panel-default">
+
+        <!-- Panel heading -->
+        <div class="panel-heading">
+            <h3 class="panel-title">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                Professor Input Fields
+            </h3>
+        </div>
+
+        <!-- Panel body -->
+        <div class="panel-body">
+
+            <!-- Blue alert that appears on a POST request -->
+            {% if postInfo %}
+                <div class="alert alert-info">
+                    <a href="#" class="close" data-dismiss="alert" aria-label="close"> &times;</a>
+                    <strong>The graph with your specified selection can be seen in the graph section below.</strong>
+                </div>
+            {% endif %}
+
+            <!-- div for the red alert if the user entered a start semester greater than end semester -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="semesterError"></div>
+                </div>
+            </div>
+
+            <!-- This is the form the user will fill out. -->
+            <form action="/professor/" name="graphForm" method="post" onsubmit="return validStartAndEndSemester()">
+            {% csrf_token %}
+
+                <!-- First row has the semester range -->
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Starting Semester -->
+                        <label for="startSemesterSelect">Start Semester:</label>
+                        <select name="startSemesterSelect" id="startSemesterSelect" class="form-control">
+                            {% if postInfo %}
+                                {% for value in professor_options_array.0 %}
+                                    {% if value == postInfo.startSemesterSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in professor_options_array.0 %}
+                                    <option value="{{ value }}">{{ value }}</option>
+                                {% endfor %}
+                            {% endif %}
+                        </select>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Ending Semester -->
+                        <label for="endSemesterSelect">End Semester:</label>
+                        <select name="endSemesterSelect" id="endSemesterSelect" class="form-control">
+                            {% if postInfo %}
+                                {% for value in professor_options_array.0 %}
+                                    {% if value == postInfo.endSemesterSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in professor_options_array.0 %}
+                                    {% if value == "Spring 2017" %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Placeholder row for spacing -->
+                <div class="row">
+                    <div class="col-xs-12">
+                        <br>
+                    </div>
+                </div>
+
+                <!-- Second row has the Professor Name and Submit Button -->
+                <div class="row">
+
+                    <div class="col-xs-12 col-sm-6">
+                        <!-- Options Listing for Course Name -->
+                        <label for="professorNameSelect">Professor Name:</label>
+                        <select name="professorNameSelect" id="professorNameSelect" class="form-control">
+                            {% if postInfo %}
+                                {% for value in professor_options_array.1 %}
+                                    {% if value == postInfo.professorNameSelect %}
+                                        <option value="{{ value }}" selected>{{ value }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ value }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% for value in professor_options_array.1 %}
+                                    <option value="{{ value }}">{{ value }}</option>
+                                {% endfor %}
+                            {% endif %}
+                        </select>
+                    </div>
+
+                    <!-- Third row has the submit button -->
+                    <div class="col-xs-12 col-sm-6">
+                        <label for="professorNameSelect">&nbsp;</label>
+                        <button type="submit" class="btn btn-primary btn-block form-control">Submit</button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+
+{% endif %}
+
+<h1>Graph</h1>
+
+{% if postInfo %}
+    <p>You wanted to display a Pie Graph for Professor {{ postInfo.professorNameSelect }} for
+    semesters {{ postInfo.startSemesterSelect }} to {{ postInfo.endSemesterSelect }}. Note that if you
+    just see blank space below, it means no courses were found for this professor in your specified
+    semester range.</p>
+{% endif %}
+
+<div class="row">
+    {% if postInfo %}
+        <div class="col-xs-12" id="plot_id" style="height: 600px;">
+            {{ div_placeholder }}
+        </div>
+    {% else %}
+        <div class="col-xs-12">
+            <p>Please submit professor and semester range in the form above.</p>
+        </div>
+    {% endif %}
+</div>
+<!-- <iframe height="600px" width="99%" src="stacked_bar_opl.html"></iframe> -->
+
+{% include "./_footer.html" %}
