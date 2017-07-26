@@ -1,4 +1,8 @@
-# Install instructions
+# Registrar Analyzer 
+
+Software Engineering I Spring 2017 Project. Used Python Beautiful Soup to scrape registration data from the UMass Lowell Registrar class-schedule pages. Then serialized and presented the data in graphs using Django and Plotly. The end-user is presented with a form to select date ranges and type of view.
+
+## Install instructions
 
 ### VIRTUALENV SETUP 
 
@@ -91,7 +95,7 @@ for instructions on how to setup settings module, will just use three, base, dev
 secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
 SECRET_KEY constant for development just override in settings.py
 
-# Website samples
+## Website samples
 
 The website will generate two different plots shown below
 
