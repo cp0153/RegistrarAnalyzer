@@ -1,5 +1,17 @@
 # Registrar Analyzer 
 
+## https://cpearce.me/ra
+
+## Website samples
+
+The website will generate two different plots shown below
+
+### Stacked Bar Chart
+![stacked_bar_chart](/stacked_bar_chart.png?raw=true "stacked_bar_chart image")
+
+
+### Pie Chart 
+![pie_chart](/pie_chart.png?raw=true "pie_chart image")
 Software Engineering I Spring 2017 Project. Used Python Beautiful Soup to scrape registration data from the UMass Lowell Registrar class-schedule pages. Then serialized and presented the data in graphs using Django and Plotly. The end-user is presented with a form to select date ranges and type of view.
 
 ## Install instructions
@@ -91,17 +103,3 @@ sudo service gunicorn status
 
 https://medium.com/@ayarshabeer/django-best-practice-settings-file-for-multiple-environments-6d71c6966ee2#.q6vzay9f9:
 for instructions on how to setup settings module, will just use three, base, dev, and prd
-
-secret key in settings.py removed, moved to file secrets.py, excluded from version control to conceal the
-SECRET_KEY constant for development just override in settings.py
-
-## Website samples
-
-The website will generate two different plots shown below
-
-### Stacked Bar Chart
-![stacked_bar_chart](/stacked_bar_chart.png?raw=true "stacked_bar_chart image")
-
-
-### Pie Chart 
-![pie_chart](/pie_chart.png?raw=true "pie_chart image")
