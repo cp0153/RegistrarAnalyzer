@@ -1,7 +1,5 @@
 # Registrar Analyzer 
 
-## https://cpearce.me/ra
-
 ## Website samples
 
 The website will generate two different plots shown below
